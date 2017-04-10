@@ -13,5 +13,5 @@ cite: |
         games and young black men. Games and Culture.
 pub-date: 2008-02-13
 added-date: 2015-09-01
-resource-type: external-page
+resource-type: pdf-document
 ---

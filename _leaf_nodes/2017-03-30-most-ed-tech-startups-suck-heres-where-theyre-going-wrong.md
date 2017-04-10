@@ -4,7 +4,7 @@ title: "Most ed-tech startups suck! Here’s where they’re going wrong."
 title-url: "https://venturebeat.com/2012/10/28/most-ed-tech-startups-suck-heres-where-theyre-going-wrong/"
 author: Reynol Junco
 groups: broader-issues
-categories: business
+categories: the-business-of-edtech
 topics: in-the-media
 summary: >
     Critical view of educational technology startups.
@@ -13,5 +13,5 @@ cite: |
         Venture Beat.  October 28, 2012.
 pub-date: 2012-10-28
 added-date: 2017-05-01
-resource-type: website-article
+resource-type: external-page
 ---

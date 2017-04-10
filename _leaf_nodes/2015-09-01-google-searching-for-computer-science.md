@@ -13,5 +13,5 @@ cite: |
         Retrieved from: http://services.google.com/fh/files/misc/searching-for-computer-science_report.pdf
 pub-date: 2015-09-01
 added-date: 2015-09-01
-resource-type: external-page
+resource-type: pdf-document
 ---

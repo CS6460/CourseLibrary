@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Computer Science Learning Opportunities"
 title-url: "https://edu.google.com/resources/computerscience/learning/"
-author: "n.a."
+author: Google
 groups: broader-issues
 categories: computer-science-education
 topics: introductory-resources

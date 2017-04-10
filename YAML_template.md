@@ -16,7 +16,7 @@ author: Content Author
 * __For more than one author, use a python-style list and enclose each entry in quotes.__
     * list example: ["Content Author1","Content Author2"]
 
-groups: research-principles-and-methodologies, pedagogical-styles, technolgies, or broader-issues
+groups: research-principles-and-methodologies, pedagogical-styles, technologies, or broader-issues
 * Choose only one group
 
 categories: depends on the group.  Choose one or more categories.
@@ -52,7 +52,7 @@ added-date: 2015-09-01
 * YYYY-MM-DD page was created
 * added-date is used to identify the most recent content added
 
-resource-type: external-page, internal-page, interview-mp3, or video
+resource-type: external-page, internal-page, interview-mp3, pdf-document, video-course, or video
 * __Choose only one resource-type__
 
 ___The beginning and end of the YAML Front Matters in jekyll is indicated by three hyphens.
