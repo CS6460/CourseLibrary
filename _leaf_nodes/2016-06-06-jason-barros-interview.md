@@ -7,11 +7,11 @@ groups: broader-issues
 categories: business
 topics: interviews
 summary: >
-    David Joyner interviews Jason Barros, Udacity Program Manager for the Georgia Tech team,
-    about the business side of Educational Technology.
+    David Joyner interviews Jason Barros, Udacity Program Manager for the Georgia Tech team, about the business side of Educational Technology.
 cite: |
     Joyner, David. (2016).  Business of Ed Tech: Jason Barros Interview.
         Udacity.  June 6, 2016.
 pub-date: 2016-06-06
 added-date: 2016-06-06
+resource-type: video
 ---

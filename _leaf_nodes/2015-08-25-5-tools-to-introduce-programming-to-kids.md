@@ -13,4 +13,5 @@ cite: |
         http://ww2.kqed.org/mindshift/2011/05/16/5-tools-to-introduce-programming-to-kids/
 pub-date: 2011-05-16
 added-date: 2015-08-25
+resource-type: external-page
 ---

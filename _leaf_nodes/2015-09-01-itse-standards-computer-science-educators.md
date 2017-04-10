@@ -13,4 +13,5 @@ cite: |
         http://www.iste.org/standards/standards/standards-for-computer-science-educators
 pub-date: 2015-09-01
 added-date: 2015-09-01
+resource-type: external-page
 ---

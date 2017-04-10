@@ -7,14 +7,13 @@ groups: Introduction
 categories: tips-for-class
 topics: how-to-give-and-receive-effective-feedback
 summary: >
-    This class involves a lot of peer review assignments; in the Spring 2016 version,
-    you'll give 44 peer reviews to your classmates. It's crucial to understand how to
-    give and receive effective peer reviews.
+    This class involves a lot of peer review assignments; in the Spring 2016 version, you'll give 44 peer reviews to your classmates. It's crucial to understand how to give and receive effective peer reviews.
 cite: |
     Joyner, David. (2016). Tips for Class: How to Give and Receive Effective Peer Reviews.
         Udacity.  January 10, 2016.
 pub-date: 2016-01-10
 added-date: 2016-01-10
+resource-type: internal-page
 ---
 # Tips For The Class: How to Give and Receive Effective Peer Reviews
 

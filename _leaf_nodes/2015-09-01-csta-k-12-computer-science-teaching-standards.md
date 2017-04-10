@@ -13,4 +13,5 @@ cite: |
         http://www.csteachers.org/?page=CSTA_Standards
 pub-date: 2015-09-01
 added-date: 2015-09-01
+resource-type: external-page
 ---

@@ -17,6 +17,7 @@ cite: |
         Udacity.  August 28, 2015.
 pub-date: 2015-08-28
 added-date: 2015-08-28
+resource-type: itnernal-page
 ---
 # Tips For The Class
 

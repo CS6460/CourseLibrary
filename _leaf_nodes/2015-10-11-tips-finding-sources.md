@@ -13,6 +13,7 @@ cite: |
         Udacity.  October 11, 2015.
 pub-date: 2015-10-11
 added-date: 2015-10-11
+resource-type: internal-page
 ---
 # Tips For The Class: Finding Sources and Articles
 

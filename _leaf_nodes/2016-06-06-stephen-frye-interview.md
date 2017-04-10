@@ -9,8 +9,8 @@ topics: interviews
 summary: >
     David Joyner interviews Stephen Frye, Udacity VP of Content, about the business side of Educational Technology.
 cite: |
-    Joyner, David. (2016).  Business of Ed Tech: Stephen Frye Interview.
-        Udacity.  June 6, 2016.
+    Joyner, David. (2016).  Business of Ed Tech: Stephen Frye Interview. Udacity.  June 6, 2016.
 pub-date: 2016-06-06
 added-date: 2016-06-06
+resource-type: video
 ---

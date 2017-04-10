@@ -13,4 +13,5 @@ cite: |
         http://www.exploringcs.org/resources/cs-statistics
 pub-date: 2015-09-01
 added-date: 2015-09-01
+resource-type: external-page
 ---

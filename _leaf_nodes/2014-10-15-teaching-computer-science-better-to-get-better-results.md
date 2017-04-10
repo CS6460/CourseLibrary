@@ -13,4 +13,5 @@ cite: |
         https://computinged.wordpress.com/2014/10/15/we-need-to-fix-the-computer-science-teaching-problem/
 pub-date: 2014-10-15
 added-date: 2015-09-01
+resource-type: external-page
 ---

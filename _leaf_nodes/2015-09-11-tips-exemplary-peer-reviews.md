@@ -13,6 +13,7 @@ cite: |
         Udacity.  September 11, 2015.
 pub-date: 2015-09-11
 added-date: 2015-09-11
+resource-type: internal-page
 ---
 # Tips For The Class: Exemplary Peer Reviews
 

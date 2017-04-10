@@ -13,4 +13,5 @@ cite: |
         http://study.com/directory/category/Computer_Sciences.html
 pub-date: 2015-09-01
 added-date: 2015-09-01
+resource-type: external-page
 ---

@@ -20,6 +20,7 @@ cite: |
         Udacity.  August 16, 2015.
 pub-date: 2015-08-16
 added-date: 2015-08-16
+resource-type: internal-page
 ---
 # Sharing Your Work Outside the Class
 
