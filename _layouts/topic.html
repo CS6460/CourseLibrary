@@ -1,0 +1,170 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+<style>
+  table.resource-table {
+  	border:none;
+  }
+  table.resource-table tr {
+  	border: none;
+  	border-top: 2px solid #bbb;
+  }
+  table.resource-table td {
+  	border:none;
+  }
+  .leaf-node {
+  	padding: 1em;
+  }
+  .leaf-node p.leaf-node-title {
+  	margin-bottom: 0.5em;
+  }
+  .leaf-node-title a:hover {
+  	cursor: pointer;
+  }
+  .leaf-node p.leaf-node-byline {
+  	margin-bottom: 0.5em;
+  	font-size: 0.8em;
+  }
+  .leaf-node p.leaf-node-summary {
+  	color: #888;
+  	margin-bottom: 0;
+  	font-size: 0.8em;
+  }
+  .topic-list {
+  	margin-bottom: 1em;
+  }
+  .topic-list a {
+  	text-decoration: none;
+  	font-size: 0.8em;
+  }
+  .topic-list a:hover {
+  	cursor: pointer;
+  	text-decoration: underline;
+  }
+  header.sticky-header {
+  	background-color: #fff;
+  	padding-top: 1.2em;
+  }
+  .anchor {
+  	padding-top: 6.4em;
+  	margin-top: -6.4em;
+  }
+</style>
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header class="sticky-header">
+          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          <div class="topic-list">
+            <a class="{% if page.topic == 'introductory-resources' %}active{% endif %}" href="#introductory-resources">Introuctory Resources</a> |
+            <a href="#scholarly-readings">Scholarly Readings</a> |
+            <a href="#biographies">Biographies</a> |
+            <a href="#ongoing-projects">Ongoing Projects</a> |
+            <a href="#in-the-media">In The Media</a> |
+            <a href="#interviews">Interviews</a>
+          </div>
+        </header>
+      {% endunless %}
+
+      <section class="page__content" itemprop="text">
+        <h3 class="anchor" id="introductory-resources">Introductory Resources</h3>
+        <table class="resource-table">
+        <tbody>
+      	{% for leaf_node in site.leaf_nodes %}
+      	  {% if leaf_node.groups contains page.group and leaf_node.categories contains page.category and leaf_node.topics contains "introductory-resources" %}
+      	    {% include leaf-node-cell.html leaf_node = leaf_node %}
+      	  {% endif %}
+      	{% endfor %}
+      	</tbody>
+      	</table>
+      	<h3 class="anchor" id="scholarly-readings">Scholarly Readings</h3>
+        <table class="resource-table">
+        <tbody>
+      	{% for leaf_node in site.leaf_nodes %}
+      	  {% if leaf_node.groups contains page.group and leaf_node.categories contains page.category and leaf_node.topics contains "scholarly-readings" %}
+      	    {% include leaf-node-cell.html leaf_node = leaf_node %}
+      	  {% endif %}
+      	{% endfor %}
+      	</tbody>
+      	</table>
+      	<h3 class="anchor" id="biographies">Biographies</h3>
+        <table class="resource-table">
+        <tbody>
+      	{% for leaf_node in site.leaf_nodes %}
+      	  {% if leaf_node.groups contains page.group and leaf_node.categories contains page.category and leaf_node.topics contains "biographies" %}
+      	    {% include leaf-node-cell.html leaf_node = leaf_node %}
+      	  {% endif %}
+      	{% endfor %}
+      	</tbody>
+      	</table>
+      	<h3 class="anchor" id="ongoing-projects">Ongoing Projects</h3>
+        <table class="resource-table">
+        <tbody>
+      	{% for leaf_node in site.leaf_nodes %}
+      	  {% if leaf_node.groups contains page.group and leaf_node.categories contains page.category and leaf_node.topics contains "ongoing-projects" %}
+      	    {% include leaf-node-cell.html leaf_node = leaf_node %}
+      	  {% endif %}
+      	{% endfor %}
+      	</tbody>
+      	</table>
+      	<h3 class="anchor" id="in-the-media">In The Media</h3>
+        <table class="resource-table">
+        <tbody>
+      	{% for leaf_node in site.leaf_nodes %}
+      	  {% if leaf_node.groups contains page.group and leaf_node.categories contains page.category and leaf_node.topics contains "in-the-media" %}
+      	    {% include leaf-node-cell.html leaf_node = leaf_node %}
+      	  {% endif %}
+      	{% endfor %}
+      	</tbody>
+      	</table>
+      	<h3 class="anchor" id="interviews">Interviews</h3>
+        <table class="resource-table">
+        <tbody>
+      	{% for leaf_node in site.leaf_nodes %}
+      	  {% if leaf_node.groups contains page.group and leaf_node.categories contains page.category and leaf_node.topics contains "interviews" %}
+      	    {% include leaf-node-cell.html leaf_node = leaf_node %}
+      	  {% endif %}
+      	{% endfor %}
+      	</tbody>
+      	</table>
+        <!-- {{ content }} -->
+      </section>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+    </div>
+
+    {% if site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+</div>

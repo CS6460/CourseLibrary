@@ -1,0 +1,94 @@
+# main links
+main:
+  - title: "Introduction"
+    url: ""
+
+side-nav:
+  - title: Introduction
+    children:
+      - title: "Course Introduction"
+        url:
+      - title: "Tips for the Class"
+        url:
+      - title: "Introduction to Educational Technology"
+        url:
+  - title: Research Principles and Methodologies
+    children:
+      - title: "Research Basics"
+        url:
+      - title: "Controlled Experiments"
+        url:
+      - title: "Survey Research"
+        url:
+      - title: "Qualitative Research"
+        url:
+      - title: "Quantitative Research"
+        url:
+      - title: "Design-Based Research"
+        url:
+  - title: Pedagogical Styles
+    children:
+      - title: "Constructionism"
+        url:
+      - title: "Project-Based Learning"
+        url:
+      - title: "Problem-Based Learning"
+        url:
+      - title: "Communities of Practice"
+        url:
+      - title: "Social Learning"
+        url:
+      - title: "Metacognition"
+        url:
+      - title: "Formative Assessment"
+        url:
+  - title: Technologies
+    children:
+      - title: "Learning Management Systems"
+        url:
+      - title: "Intelligent Tutoring Systems"
+        url:
+      - title: "Online Learning"
+        url:
+      - title: "MOOCs"
+        url:
+      - title: "Social Networking"
+        url:
+      - title: "Computer-Supported Collaborative Work"
+        url:
+      - title: "Game-Based Learning"
+        url:
+      - title: "Simulation-Based Learning"
+        url:
+      - title: "Mobile Devices"
+        url:
+  - title: Broader Issues
+    children:
+      - title: "Gender, Technology, and Education"
+        url: "/broader-issues/gender-technology-and-education"
+      - title: "Underserved Communities and Educational Technology"
+        url: "/broader-issues/underserved-communities"
+      - title: "Ethics and EdTech"
+        url: "/broader-issues/ethics-and-edtech"
+      - title: "Identity, Technology, and Education"
+        url: "/broader-issues/identity-technology-and-education"
+      - title: "Privacy in Educational Technology"
+        url: "/broader-issues/privacty-in-educational-technology"
+      - title: "Technology in the Classroom"
+        url: "/broader-issues/technology-in-the-classroom"
+      - title: "The Business of EdTech"
+        url: "/broader-issues/the-business-of-edtech"
+      - title: "Computer Science Education"
+        url: "/broader-issues/computer-science-education"
+      - title: "Open Problems"
+        url: "/broader-issues/open-problems"
+  - title: Appendices
+    children:
+      - title: "Current Semester Materials"
+        url:
+      - title: "Changelog"
+        url:
+      - title: "Topic Introduction Videos"
+        url:
+      - title: "Interviews"
+        url:
