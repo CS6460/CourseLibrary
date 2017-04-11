@@ -23,8 +23,9 @@
 
     <div class="page__footer">
       <footer>
+        {% capture purl %}{{ page.url }}{% endcapture %}
         {% include footer/custom.html %}
-        {% include footer.html %}
+        {% include footer.html foo=purl%}
       </footer>
     </div>
 

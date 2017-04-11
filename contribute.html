@@ -1,0 +1,53 @@
+---
+   layout: null
+---
+<form action="//formspree.io/nicholsonc@gmail.com" method="POST">
+    <fieldset>
+        <label for="name">Your name</label><br>
+        <input type="text" name="name" placeholder="Name" required>
+    </fieldset>
+    <fieldset>
+        <label for="_replyto">Your email</label><br>
+        <input type="email" name="_replyto" placeholder="example@domain.com" required>
+    </fieldset>
+    <fieldset>
+        <label for="resourceType">Resource type</label><br>
+        <select name="resourceType">
+        {% for resource in site.data.resource_types %}
+            <option value="{{ resource.name }}">{{ resource.text }}</option>
+        {% endfor %}
+        </select>
+    </fieldset>
+    <fieldset>
+        <label for="url">Link of course library page you are contributing to</label><br>
+        <textarea name="url" rows="1" placeholder="" required></textarea>
+    </fieldset>
+    <fieldset>
+        <label for="contribution">Please paste your contribution into this box</label><br>
+        <textarea name="message" rows="1" placeholder="Message" required></textarea>
+    </fieldset>
+    <input class="hidden" type="text" name="_gotcha" style="display:none">
+    <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
+
+    <input class="button submit" type="submit" value="Send">
+</form>
+
+<script>
+var fillForm = function () {
+    var queryString = document.location.search.split("+").join(" ");
+    var params = {}, tokens, re = /[?&]?([^=]+)=([^&]*)/g;
+
+    while (tokens = re.exec(queryString)) {
+        params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
+    }
+
+    if (params.refpage == undefined){
+        // no value in the query string
+        // here you have to manage this use case : redirect or print a message to user
+    }else{
+        // filling form fields with query string values
+        document.getElementsByName('url')[0].value = params.refpage;
+        document.getElementsByName('url')[0].placeholder = params.refpage;
+    }
+} ();
+</script>
