@@ -5,7 +5,7 @@ title-url: "https://en.wikipedia.org/wiki/List_of_learning_management_systems"
 author: "Various"
 groups: technologies
 categories: learning-management-systems
-topics: introductory-resources
+topics: [introductory-resources,ongoing-projects]
 summary: >
     Wikipedia is an open encyclopedia. This link is for the entry for a list of Learning Management Systems.
 cite: |
