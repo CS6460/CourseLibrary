@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Questioning Video Games' Influence on CS Interest"
-title-url: ["http://dl.acm.org/citation.cfm?id=1536561", https://www.researchgate.net/profile/Betsy_Disalvo/publication/220795048_Questioning_video_games'_influence_on_CS_interest/links/54ff3dbe0cf2741b69f5b6a6.pdf"]
+title-url: ["http://dl.acm.org/citation.cfm?id=1536561", "https://www.researchgate.net/profile/Betsy_Disalvo/publication/220795048_Questioning_video_games'_influence_on_CS_interest/links/54ff3dbe0cf2741b69f5b6a6.pdf"]
 author: ["Amy Bruckman", "Betsy DiSalvo"]
 groups: broader-issues
 categories: computer-science-education
