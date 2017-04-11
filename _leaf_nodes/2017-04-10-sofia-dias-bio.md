@@ -7,7 +7,7 @@ groups: technologies
 categories: learning-management-systems
 topics: biographies
 summary: >
-    	Post-Doc researcher, Universidade de Lisboa
+        Post-Doc researcher, Universidade de Lisboa
         Verified email at fmh.ulisboa.pt (2017-04-10)
         Subjects: Blended/Collaborative-learning analysis, Learning Management Systems,
         Intelligent modelling of learning processes
