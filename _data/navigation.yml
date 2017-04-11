@@ -5,6 +5,7 @@ main:
 
 side-nav:
   - title: Introduction
+    nav-id: introduction
     children:
       - title: "Course Introduction"
         url:
@@ -13,6 +14,7 @@ side-nav:
       - title: "Introduction to Educational Technology"
         url:
   - title: Research Principles and Methodologies
+    nav-id: research-principles-and-methodologies
     children:
       - title: "Research Basics"
         url:
@@ -27,6 +29,7 @@ side-nav:
       - title: "Design-Based Research"
         url:
   - title: Pedagogical Styles
+    nav-id: pedagogical-styles
     children:
       - title: "Constructionism"
         url:
@@ -43,6 +46,7 @@ side-nav:
       - title: "Formative Assessment"
         url:
   - title: Technologies
+    nav-id: technologies
     children:
       - title: "Learning Management Systems"
         url:
@@ -63,6 +67,7 @@ side-nav:
       - title: "Mobile Devices"
         url:
   - title: Broader Issues
+    nav-id: broader-issues
     children:
       - title: "Gender, Technology, and Education"
         url: "/broader-issues/gender-technology-and-education"
@@ -83,6 +88,7 @@ side-nav:
       - title: "Open Problems"
         url: "/broader-issues/open-problems"
   - title: Appendices
+    nav-id: appendices
     children:
       - title: "Current Semester Materials"
         url:

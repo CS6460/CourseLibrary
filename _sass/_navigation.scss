@@ -325,7 +325,7 @@
   margin-bottom: 1.5em;
 
   input[type="checkbox"],
-  label {
+  label:not(.toggle-label) {
     display: none;
   }
 
@@ -488,6 +488,43 @@
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
+}
+
+.toggle {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+.toggle-label {
+  cursor: pointer;
+
+  span:after {
+    content: "+";
+    float: right;
+  }
+}
+
+.toggle-content {
+}
+
+.toggle-input {
+  display: none;
+
+  &:not(checked) ~ .toggle-content {
+  	display: none;
+  } 
+}
+
+.toggle-input:checked {
+  ~ .toggle-content {
+  	display: block;
+  }
+
+  ~ .toggle-label {
+  	span:after {
+  	  content: "-";
+  	}
+  }
 }
 
 
