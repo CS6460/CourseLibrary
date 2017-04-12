@@ -1,7 +1,7 @@
 {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
-<form action="/search-results.html" method="get">
+<form action="/search" method="get">
   <input type="submit" value="Search" style="float: right;">
   <div style="overflow: hidden;">
   	<input type="text" id="search-box" name="query">
