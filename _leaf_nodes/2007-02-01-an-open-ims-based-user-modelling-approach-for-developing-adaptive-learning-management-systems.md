@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "title: "An open IMS-based user modelling approach for developing adaptive learning management systems"
+title: "An open IMS-based user modelling approach for developing adaptive learning management systems"
 title-url: "http://files.eric.ed.gov/fulltext/EJ840788.pdf"
 author: ["Jesus G. Boticario", "Olga C. Santos"]
 groups: technologies
