@@ -6,7 +6,7 @@ author: "Google Scholar"
 groups: broader-issues
 categories: computer-science-education
 topics: biographies
-summary: >
+summary: |
     Assistant Professor, School of Interactive Computing, Georgia Tech
      computer science education, learning sciences, motivation, culture and technology
      Verified email at cc.gatech.edu (2017-04-09)

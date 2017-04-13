@@ -6,7 +6,7 @@ author: "Google Scholar"
 groups: technologies
 categories: intelligent-tutoring-systems
 topics: biographies
-summary: >
+summary: |
     University of Massachusetts
     artificial intelligence, education, intelligent tutoring systems, artificial intelligence in education, educational technology
     Verified email at cs.umass.edu (2017-04-11)

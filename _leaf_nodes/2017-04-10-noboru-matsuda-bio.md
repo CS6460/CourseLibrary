@@ -6,7 +6,7 @@ author: "n.a."
 groups: technologies
 categories: intelligent-tutoring-systems
 topics: biographies
-summary: >
+summary: |
         Associate Professor of Cyber STEM Education
         Department of Teaching, Learning, and Culture, Texas A&M University
 cite: |
