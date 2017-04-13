@@ -6,7 +6,7 @@ author: "Google Scholar"
 groups: technologies
 categories: learning-management-systems
 topics: biographies
-summary: >
+summary: |
     	Associate professor, Aarhus University
     	Verified email at imv.au.dk (2017-04-10)
 cite: |

@@ -6,7 +6,7 @@ author: "Google Scholar"
 groups: technologies
 categories: learning-management-systems
 topics: biographies
-summary: >
+summary: |
     	Associate Professor, Athabasca University
         Technology Enhanced Learning, Adaptive Learning Systems, Learning Analytics, User Modeling, Mobile Learning
         Verified email at athabascau.ca (2017-04-10)
