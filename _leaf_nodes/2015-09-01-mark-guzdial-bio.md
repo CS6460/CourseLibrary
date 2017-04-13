@@ -6,7 +6,7 @@ author: "Google Scholar"
 groups: broader-issues
 categories: computer-science-education
 topics: biographies
-summary: >
+summary: |
     Professor, School of Interactive Computing, College of Computing, Georgia Institute of Technology Google Scholar topics: Computing Education, Learning Sciences & Technologies, Computer Supported Collaborative Learning Verified email at cc.gatech.edu (2017-04-09)
     (GA Tech Homepage)[http://www.cc.gatech.edu/~mark.guzdial]
     Additional Site: (Computing Education Blog)[https://computinged.wordpress.com/]
