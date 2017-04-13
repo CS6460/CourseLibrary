@@ -1,0 +1,15 @@
+---
+- name: New Link
+  text: A new link or resource for an existing page
+
+- name: New Page
+  text: A new page for an existing topic
+
+- name: New Topic
+  text: An entirely new topic
+
+- name: Change
+  text: A change to an existing page
+
+- name: Other
+  text: Other
