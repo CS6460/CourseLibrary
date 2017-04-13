@@ -9,7 +9,7 @@ topics: ongoing-projects
 summary: >
     Product landing page for Carnegie Learning's Mathia Learning Software.
 cite: |
-    Carnegie Learning. (n.d.) Retrieved from:
+    Carnegie Learning. (2017) Retrieved from:
         https://www.carnegielearning.com/products/software-platform/mathia-learning-software
 pub-date: 2017-04-10
 added-date: 2017-04-10
