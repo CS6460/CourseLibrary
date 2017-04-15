@@ -4,7 +4,7 @@ title: "What We're Learning from Online Education"
 title-url: "https://www.ted.com/talks/daphne_koller_what_we_re_learning_from_online_education?language=en"
 author: "Daphne Koller"
 groups: technologies
-categories: online-learning
+categories: [online-learning,moocs]
 topics: introductory-resources
 summary: >
     "Daphne Koller is enticing top universities to put their most intriguing courses

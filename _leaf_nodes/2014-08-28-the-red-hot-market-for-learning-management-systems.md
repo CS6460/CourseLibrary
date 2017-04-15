@@ -12,7 +12,7 @@ summary: >
 cite: >
     Bersin, J. (2011). The Red Hot Market for Learning Management Systems.
     Forbes. August 28, 2014. Retrieved from: https://www.forbes.com/sites/joshbersin/2014/08/28/the-red-hot-market-for-learning-technology-platforms/#308368b747bb
-pub-date: 2011-10-13
-added-date: 2017-10-11
+pub-date: 2014-08-28
+added-date: 2017-04-11
 resource-type: external-site
 ---
