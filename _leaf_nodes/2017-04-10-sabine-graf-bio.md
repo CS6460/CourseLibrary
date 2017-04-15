@@ -4,7 +4,7 @@ title: "Sabine Graf"
 title-url: "https://scholar.google.com/citations?user=Pl8tpZwAAAAJ&hl=en&oi=sra"
 author: "Google Scholar"
 groups: technologies
-categories: learning-management-systems
+categories: [learning-management-systems,online-learning]
 topics: biographies
 summary: |
     Associate Professor, Athabasca University

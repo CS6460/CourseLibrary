@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "7 Tips for Selecting a Learning Management System"
-title-url: "https://elearningindustry.com/the-20-best-learning-management-systems"
+title-url: "https://elearningindustry.com/7-tips-selecting-learning-management-system"
 author: ["Elena Tikhomirova", "Alexey Korolkov"]
 groups: technologies
 categories: learning-management-systems
