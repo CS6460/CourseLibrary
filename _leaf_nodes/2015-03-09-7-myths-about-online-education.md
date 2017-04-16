@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "7 Myths about Online Education"
-    title-url: "https://www.usnews.com/education/online-education/articles/2015/03/09/7-myths-about-online-education"
+title-url: "https://www.usnews.com/education/online-education/articles/2015/03/09/7-myths-about-online-education"
 author: "Terri Williams"
 groups: technologies
 categories: online-learning

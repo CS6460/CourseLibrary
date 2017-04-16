@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Why Online Learning is more Valuable than Traditional College"
-    title-url: "https://www.wired.com/insights/2013/11/why-online-learning-is-more-valuable-than-traditional-college/"
+title-url: "https://www.wired.com/insights/2013/11/why-online-learning-is-more-valuable-than-traditional-college/"
 author: "Simon Dudley"
 groups: technologies
 categories: online-learning

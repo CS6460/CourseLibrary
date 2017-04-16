@@ -1,11 +1,11 @@
 ---
 layout: leaf-node
 title: "K12"
-    title-url: "www.k12.com"
+title-url: "www.k12.com"
 author: "K12"
 groups: technologies
 categories: online-learning
-topics: ongoing=projects
+topics: ongoing-projects
 summary: >
     "K12 offers an outstanding curriculum that enables mastery of core concepts and
     skills for all kinds of minds. The minds that are superbly gifted--or that are

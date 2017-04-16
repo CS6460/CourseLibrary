@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "How are Students and Teachers using Khan Academy?"
-    title-url: "http://ww2.kqed.org/mindshift/2014/05/06/how-are-teachers-and-students-using-khan-academy/"
+title-url: "http://ww2.kqed.org/mindshift/2014/05/06/how-are-teachers-and-students-using-khan-academy/"
 author: "Katrina Schwartz"
 groups: technologies
 categories: online-learning

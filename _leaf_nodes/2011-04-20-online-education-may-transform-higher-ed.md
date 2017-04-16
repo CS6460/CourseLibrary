@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Online Education May Transform Higher ed"
-    title-url: "https://www.usnews.com/education/online-education/articles/2011/04/20/online-education-may-transform-higher-ed"
+title-url: "https://www.usnews.com/education/online-education/articles/2011/04/20/online-education-may-transform-higher-ed"
 author: "Brian Burnsed"
 groups: technologies
 categories: online-learning

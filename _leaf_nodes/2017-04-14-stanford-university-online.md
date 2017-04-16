@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Stanford University Online"
-    title-url: "http://online.stanford.edu/"
+title-url: "http://online.stanford.edu/"
 author: "Stanford University"
 groups: technologies
 categories: online-learning
