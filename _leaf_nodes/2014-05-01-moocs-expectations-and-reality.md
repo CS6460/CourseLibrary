@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "MOOCs: Expectations and Reality"
 title-url: "http://cbcse.org/wordpress/wp-content/uploads/2014/05/MOOCs_Expectations_and_Reality.pdf"
-author: ["Fiona M. Hollands","Devayani Tirthali,"]
+author: ["Fiona M. Hollands","Devayani Tirthali"]
 groups: technologies
 categories: moocs
 topics: introductory-resources
