@@ -20,5 +20,5 @@ cite: |
     Retrieved April 13, 2017 from: http://www.digitalpedagogylab.com/hybridped/affinity-asynchronous-learning/
 pub-date: 2014-04-04
 added-date: 2017-04-13
-resource-type: [external-page,mp3-audio]
+resource-type: [external-page,interview-mp3]
 ---
