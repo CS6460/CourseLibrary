@@ -1,7 +1,7 @@
 {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
-<form action="/search-results.html" method="get">
+<form action="{{ site.baseurl }}/search" method="get">
   <input type="submit" value="Search" style="float: right;">
   <div style="overflow: hidden;">
   	<input type="text" id="search-box" name="query">
@@ -9,7 +9,7 @@
 </form>
   {% if page.sidebar.title %}<h3 class="nav__title" style="padding-left: 0;">{{ page.sidebar.title }}</h3>{% endif %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <label class="menu-toggle" for="ac-toc"><i class="fa fa-navicon"></i><!-- {{ site.data.ui-text[site.locale].menu_label | default: "Menu" }} --></label>
   <ul class="nav__items">
     {% for nav in navigation %}
       <li>
@@ -23,11 +23,19 @@
 
           <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
-          <span class="nav__sub-title">{{ nav.title }}</span>
+          <div class="toggle">
+          {% assign checked = "" %}
+          {% for child in nav.children %}
+            {% if child.url == page.url %}
+              {% assign checked = "checked" %}
+            {% endif %}
+          {% endfor %}
+          	<input type="checkbox" value="selected" class="toggle-input" id="{{ nav.nav-id }}" {{ checked }}>
+          	<label for="{{ nav.nav-id }}" class="toggle-label"><span class="nav__sub-title">{{ nav.title }}</span></label>
         {% endif %}
 
         {% if nav.children != null %}
-        <ul>
+        <ul class="toggle-content">
           {% for child in nav.children %}
             {% comment %} internal/external URL check {% endcomment %}
             {% if child.url contains "://" %}
@@ -46,6 +54,7 @@
             <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>
+        </div>
         {% endif %}
       </li>
     {% endfor %}
