@@ -5,7 +5,7 @@ main:
   - title: "Tips for the Class"
     url: "/"
   - title: "Add a Resource"
-    url: "/contribution"
+    url: "/contribute"
     
 side-nav:
   - title: Introduction to Educational Technology
