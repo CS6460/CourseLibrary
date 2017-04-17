@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Mystery at the Museum ? A Collaborative Game for  Museum Education "
 title-url: "http://nexus.hs-bremerhaven.de/Library.nsf/a249ddae15ac617ac12573460029d00b/7c149b90321f33dec12575690037d644/$FILE/p316-klopfer.pdf"
-author: [ Eric Kloper, Judy Perry, Kurt Squire, Ming-Fong Jan, Constance Steinkuehler ]
+author: [ Eric Klopfer, Judy Perry, Kurt Squire, Ming-Fong Jan, Constance Steinkuehler ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings
