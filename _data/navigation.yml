@@ -1,18 +1,16 @@
 # main links
 main:
-  - title: "Introduction"
+  - title: "Course Introduction"
     url: ""
-
+  - title: "Tips for the Class"
+    url: ""
+  - title: "Add a Resource"
+    url: ""
+    
 side-nav:
-  - title: Introduction
-    nav-id: introduction
-    children:
-      - title: "Course Introduction"
-        url:
-      - title: "Tips for the Class"
-        url:
-      - title: "Introduction to Educational Technology"
-        url:
+  - title: Introduction to Educational Technology
+    nav-id: introduction-to-educational-technology
+    url:
   - title: Research Principles and Methodologies
     nav-id: research-principles-and-methodologies
     children:
