@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Florida Virtual School (FLVS)"
-    title-url: "https://www.flvs.net"
+title-url: "https://www.flvs.net"
 author: "Florida Virtual School"
 groups: technologies
 categories: online-learning
