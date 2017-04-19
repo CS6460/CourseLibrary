@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "The MindShift Guide to Digital Games and Learning"
 title-url: "https://a.s.kqed.net/pdf/news/MindShift-GuidetoDigitalGamesandLearning.pdf"
-author: [ Jordan Shapiro, Katie Salen Tekinbaş, Katrina Schwartz, Paul Davarsi ]
+author: [ "Jordan Shapiro", "Katie Salen Tekinbaş", "Katrina Schwartz", "Paul Davarsi"]
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources
