@@ -12,6 +12,6 @@ cite: |
     Author, A. (2015). Use APA Style. website.com.  August 28, 2015.
         Location: use link from browser if possible
 pub-date: 2015-08-28
-added-date: 2015-09-01
+added-date: 2017-04-16
 resource-type: external-page, internal-page, interview-mp3, pdf-document, video-course, or video
 ---
