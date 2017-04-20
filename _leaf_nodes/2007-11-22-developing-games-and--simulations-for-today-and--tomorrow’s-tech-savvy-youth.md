@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "Developing Games and  Simulations for Today and  Tomorrow?s Tech Savvy Youth"
+title: "Developing Games and  Simulations for Today and Tomorrow's Tech Savvy Youth"
 title-url: "http://www.autzones.com/din6000/textes/semaine10/Klopfer+Yoon(2005).pdf"
 author: [ "Eric Klopfer", "Susan Yoon" ]
 groups: technologies
