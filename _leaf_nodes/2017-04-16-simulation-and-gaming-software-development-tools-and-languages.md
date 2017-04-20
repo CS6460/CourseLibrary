@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Simulation and Gaming Software Development Tools and Languages"
 title-url: "https://www.eurosis.org/cms/?q=node/61"
-author: Eurosis
+author: "Eurosis"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Introduction to Intelligent Tutoring Systems"
 title-url: "https://www.youtube.com/watch?v=JKFujZMfObo"
-author: David Joyner
+author: "David Joyner"
 groups: technologies
 categories: intelligent-tutoring-systems
 topics: introductory-resources-video

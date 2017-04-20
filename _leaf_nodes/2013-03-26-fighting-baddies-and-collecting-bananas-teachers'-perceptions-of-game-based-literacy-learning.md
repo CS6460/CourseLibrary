@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Fighting baddies and collecting bananas: Teachers' perceptions of game-based literacy learning"
 title-url: "http://www.academia.edu/3113476/Fighting_baddies_and_collecting_bananas_Teachers_perceptions_of_game-based_literacy_learning"
-author: [ Hannah R. Gerber, Debra P. Price ]
+author: [ "Hannah R. Gerber", "Debra P. Price" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

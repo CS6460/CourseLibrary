@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Distinguishing between games and simulations: A systematic review"
 title-url: "http://www.ifets.info/journals/10_3/17.pdf"
-author: [ Louise Sauve, Lise Renaud, David Kaufman, Jean-Simon Marquis ]
+author: [ "Louise Sauve", "Lise Renaud", "David Kaufman", "Jean-Simon Marquis" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

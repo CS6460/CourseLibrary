@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Transformational Play as a Curricular Scaffold: Using Videogames to Support Science Education"
 title-url: "http://pubs.cogs.indiana.edu/pubspdf/24817/24817_barab09.pdf"
-author: [ Sasha A. Barab, Brianna Scott, Sinem Siyahhan, Robert Goldstone, Adam Ingram-Goble, Steven J. Zuiker, Scott Warren ]
+author: [ "Sasha A. Barab", "Brianna Scott", "Sinem Siyahhan", "Robert Goldstone", "Adam Ingram-Goble", "Steven J. Zuiker", "Scott Warren" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Online Learning: Courtney Drake"
 title-url: "https://www.youtube.com/watch?v=Qht-963q0bk"
-author: David Joyner
+author: "David Joyner"
 groups: technologies
 categories: online-learning
 topics: interviews

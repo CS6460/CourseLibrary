@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Gamification in the Classroom: The Right or Wrong Way to Motivate Students?"
 title-url: "http://neatoday.org/2014/06/23/gamification-in-the-classroom-the-right-or-wrong-way-to-motivate-students/"
-author: Tim Walker
+author: "Tim Walker"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

@@ -2,7 +2,7 @@
 layout: page
 title: "How to Read an Academic Publication"
 title-url: "2015-10-11-tips-how-to-read-an-academic-publication.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: how-to-read-an-academic-publication

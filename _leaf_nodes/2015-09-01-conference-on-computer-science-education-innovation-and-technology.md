@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Annual International Conference on Computer Science Education: Innovation and Technology"
 title-url: http://cseducation.org/
-author: GSFT
+author: "GSFT"
 groups: broader-issues
 categories: computer-science-education
 topics: scholarly-readings

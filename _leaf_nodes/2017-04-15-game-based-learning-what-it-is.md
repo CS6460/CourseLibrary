@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Game-Based Learning: What it is, Why it Works, and Where it's Going"
 title-url: "http://www.newmedia.org/game-based-learning--what-it-is-why-it-works-and-where-its-going.html"
-author: Jessica Trybus
+author: "Jessica Trybus"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

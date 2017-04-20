@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "What Campus Leaders Need to Know about MOOCs"
 title-url: "https://net.educause.edu/ir/library/pdf/PUB4005.pdf"
-author: Educause
+author: "Educause"
 groups: technologies
 categories: moocs
 topics: introductory-resources

@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Introduction to Social Networking"
 title-url: "https://www.youtube.com/watch?v=rDqqcXNsiUI"
-author: David Joyner
+author: "David Joyner"
 groups: technologies
 categories: intelligent-tutoring-systems
 topics: introductory-resources-video

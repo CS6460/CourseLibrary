@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Most ed-tech startups suck! Here’s where they’re going wrong."
 title-url: "https://venturebeat.com/2012/10/28/most-ed-tech-startups-suck-heres-where-theyre-going-wrong/"
-author: Reynol Junco
+author: "Reynol Junco"
 groups: broader-issues
 categories: the-business-of-edtech
 topics: in-the-media

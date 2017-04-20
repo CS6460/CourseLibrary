@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Game-Based Learning in Science Education: A Review of Relevant Research"
 title-url: "http://link.springer.com/article/10.1007%2Fs10956-013-9436-x"
-author: [ Ming-Chaun Li, Chin-Chung Tsai ]
+author: [ "Ming-Chaun Li", "Chin-Chung Tsai" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

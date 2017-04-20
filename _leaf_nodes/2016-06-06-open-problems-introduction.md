@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Business of Ed Tech: Stephen Frye Interview"
 title-url: "https://www.youtube.com/watch?v=yJ0DXtB_rX0"
-author: David Joyner
+author: "David Joyner"
 groups: broader-issues
 categories: open-problems
 topics: introductory-resources-video

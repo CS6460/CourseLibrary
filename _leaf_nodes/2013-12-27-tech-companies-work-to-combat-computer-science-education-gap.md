@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Tech Companies Work to Combat Computer Science Education Gap"
 title-url: "https://www.usnews.com/news/articles/2013/12/27/tech-companies-work-to-combat-computer-science-education-gap"
-author: Allie Bidwell
+author: "Allie Bidwell"
 groups: broader-issues
 categories: computer-science-education
 topics: in-the-media

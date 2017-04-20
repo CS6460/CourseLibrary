@@ -2,7 +2,7 @@
 layout: page
 title: "Research: Two Tracks"
 title-url: "2015-08-28-tips-research-two-tracks.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: research-two-tracks

@@ -2,7 +2,7 @@
 layout: leaf-node
 title: Educational game
 title-url: https://en.wikipedia.org/wiki/Educational_game
-author: Wikipedia
+author: "Wikipedia"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources
