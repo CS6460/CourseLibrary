@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Game-based learning: latest evidence and future directions"
 title-url: "http://ocw.metu.edu.tr/pluginfile.php/10919/mod_resource/content/1/GAME01.pdf"
-author: [ Carlo Perrotta, Gill Featherstone, Helen Aston, Emily Houghton ]
+author: ["Carlo Perrotta", "Gill Featherstone", "Helen Aston", "Emily Houghton"]
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

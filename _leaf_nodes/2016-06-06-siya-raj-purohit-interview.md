@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Online Learning: Sebastian Thrun"
 title-url: "https://www.youtube.com/watch?v=CKLkg50SGtc"
-author: David Joyner
+author: "David Joyner"
 groups: technologies
 categories: moocs
 topics: interviews

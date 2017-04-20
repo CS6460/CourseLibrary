@@ -2,7 +2,7 @@
 layout: leaf-node
 title: Get the Facts on Game-Based Learning
 title-url: http://www.theknowledgeguru.com/game-based-learning-infographic/
-author: Jake Huhn
+author: "Jake Huhn"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

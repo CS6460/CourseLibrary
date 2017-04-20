@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "5 Tools to Introduce Programming to Kids"
 title-url: "http://ww2.kqed.org/mindshift/2011/05/16/5-tools-to-introduce-programming-to-kids/"
-author: Audrey Watters
+author: "Audrey Watters"
 groups: broader-issues
 categories: computer-science-education
 topics: introductory-resources

@@ -2,7 +2,7 @@
 layout: page
 title: "Project Ideas"
 title-url: "2016-01-27-tips-project-ideas.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: project-ideas

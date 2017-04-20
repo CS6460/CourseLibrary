@@ -2,7 +2,7 @@
 layout: page
 title: "Finding Sources"
 title-url: "2015-10-11-tips-finding-sources.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: finding-sources

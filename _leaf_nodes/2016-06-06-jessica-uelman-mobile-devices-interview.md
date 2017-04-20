@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Mobile Devices: Jessica Uelman Interview"
 title-url: "https://www.youtube.com/watch?v=XkMi2nc6OB4"
-author: David Joyner
+author: "David Joyner"
 groups: broader-issues
 categories: gender
 topics: interviews

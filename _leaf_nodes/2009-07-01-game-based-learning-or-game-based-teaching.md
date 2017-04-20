@@ -2,7 +2,7 @@
 layout: leaf-node
 title: Game-based Learning or Game-based Teaching?
 title-url: http://archive.teachfind.com/becta/emergingtechnologies.becta.org.uk/upload-dir/downloads/page_documents/research/emerging_technologies/game_based_learning.pdf
-author: Paul Pivec
+author: "Paul Pivec"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

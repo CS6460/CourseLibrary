@@ -2,7 +2,7 @@
 layout: page
 title: "Sharing Your Work Outside of Class"
 title-url: "2015-08-16-tips-sharing-your-work-outside-the-class.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: sharing-your-work-outside-the-class

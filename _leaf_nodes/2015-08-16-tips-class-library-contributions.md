@@ -2,7 +2,7 @@
 layout: page
 title: "Contributing to the Library"
 title-url: "Tips_ClassLibraryContributions.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: class-library-contributions

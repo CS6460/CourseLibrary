@@ -1,69 +1,77 @@
 # main links
 main:
   - title: "Course Introduction"
-    url: ""
+    url: "/"
   - title: "Tips for the Class"
-    url: ""
+    url: "/"
   - title: "Add a Resource"
-    url: ""
+    url: "/contribute"
     
 side-nav:
   - title: Introduction to Educational Technology
     nav-id: introduction-to-educational-technology
-    url:
+    children:
+      - title: "Survey of EdTech"
+        url: "/introduction-to-edtech/survey-of-edtech"
+      - title: "Views on Educational Technology"
+        url: "/introduction-to-edtech/views-on-educational-technology"
+      - title: "Educational Technology in the Media"
+        url: "/introduction-to-edtech/educational-technology-in-the-media"
+      - title: "Useful Web Sites"
+        url: "/introduction-to-edtech/useful-web-sites"
   - title: Research Principles and Methodologies
     nav-id: research-principles-and-methodologies
     children:
       - title: "Research Basics"
-        url:
+        url: "/research-principles-and-methodologies/research-basics"
       - title: "Controlled Experiments"
-        url:
+        url: "/research-principles-and-methodologies/controlled-experiments"
       - title: "Survey Research"
-        url:
+        url: "/research-principles-and-methodologies/survey-research"
       - title: "Qualitative Research"
-        url:
+        url: "/research-principles-and-methodologies/qualitative-research"
       - title: "Quantitative Research"
-        url:
+        url: "/research-principles-and-methodologies/quantitative-research"
       - title: "Design-Based Research"
-        url:
+        url: "/research-principles-and-methodologies/design-based-research"
   - title: Pedagogical Styles
     nav-id: pedagogical-styles
     children:
       - title: "Constructionism"
-        url:
+        url: "/pedagogical-styles/constructionism"
       - title: "Project-Based Learning"
-        url:
+        url: "/pedagogical-styles/project-based-learning"
       - title: "Problem-Based Learning"
-        url:
+        url: "/pedagogical-styles/problem-based-learning"
       - title: "Communities of Practice"
-        url:
+        url: "/pedagogical-styles/communities-of-practice"
       - title: "Social Learning"
-        url:
+        url: "/pedagogical-styles/social-learning"
       - title: "Metacognition"
-        url:
+        url: "/pedagogical-styles/metacognition"
       - title: "Formative Assessment"
-        url:
+        url: "/pedagogical-styles/formative-assessment"
   - title: Technologies
     nav-id: technologies
     children:
       - title: "Learning Management Systems"
-        url:
+        url: "/technologies/learning-management-systems"
       - title: "Intelligent Tutoring Systems"
-        url:
+        url: "/technologies/intelligent-tutoring-systems"
       - title: "Online Learning"
-        url:
+        url: "/technologies/online-learning"
       - title: "MOOCs"
-        url:
+        url: "/technologies/moocs"
       - title: "Social Networking"
-        url:
+        url: "/technologies/social-networking"
       - title: "Computer-Supported Collaborative Work"
-        url:
+        url: "/technologies/computer-supported-collaborative-work"
       - title: "Game-Based Learning"
-        url:
+        url: "/technologies/game-based-learning"
       - title: "Simulation-Based Learning"
-        url:
+        url: "/technologies/simulation-based-learning"
       - title: "Mobile Devices"
-        url:
+        url: "/technologies/mobile-devices"
   - title: Broader Issues
     nav-id: broader-issues
     children:
@@ -76,7 +84,7 @@ side-nav:
       - title: "Identity, Technology, and Education"
         url: "/broader-issues/identity-technology-and-education"
       - title: "Privacy in Educational Technology"
-        url: "/broader-issues/privacty-in-educational-technology"
+        url: "/broader-issues/privacy-in-educational-technology"
       - title: "Technology in the Classroom"
         url: "/broader-issues/technology-in-the-classroom"
       - title: "The Business of EdTech"
@@ -85,14 +93,3 @@ side-nav:
         url: "/broader-issues/computer-science-education"
       - title: "Open Problems"
         url: "/broader-issues/open-problems"
-  - title: Appendices
-    nav-id: appendices
-    children:
-      - title: "Current Semester Materials"
-        url:
-      - title: "Changelog"
-        url:
-      - title: "Topic Introduction Videos"
-        url:
-      - title: "Interviews"
-        url:

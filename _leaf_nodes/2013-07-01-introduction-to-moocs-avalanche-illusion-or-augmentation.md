@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "INTRODUCTION TO MOOCs: Avalanche, Illusion or Augmentation?"
 title-url: "http://iite.unesco.org/pics/publications/en/files/3214722.pdf"
-author: UNESCO
+author: "UNESCO"
 groups: technologies
 categories: moocs
 topics: introductory-resources

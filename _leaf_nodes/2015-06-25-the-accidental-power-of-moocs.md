@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "The (Accidental) Power of MOOCs"
 title-url: "https://www.theatlantic.com/education/archive/2015/06/the-secret-power-of-moocs/396608/"
-author: "Derek Newton
+author: "Derek Newton"
 groups: technologies
 categories: moocs
 topics: in-the-media

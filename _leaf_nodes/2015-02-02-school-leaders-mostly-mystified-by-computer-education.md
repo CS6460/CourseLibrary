@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "School Leaders Mostly Mystified by Computer Science Education"
 title-url: "https://thejournal.com/articles/2015/02/02/school-leaders-mostly-mystified-by-computer-science-education.aspx"
-author: Dian Schaffhauser
+author: "Dian Schaffhauser"
 groups: broader-issues
 categories: computer-science-education
 topics: in-the-media

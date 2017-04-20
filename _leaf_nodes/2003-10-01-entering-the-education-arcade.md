@@ -2,7 +2,7 @@
 layout: leaf-node
 title: Entering the Education Arcade
 title-url: https://www.researchgate.net/profile/Eric_Klopfer/publication/220686500_Entering_the_education_arcade/links/0fcfd5107d2b9876fe000000.pdf
-author: [ Henry Jenkins, Eric Klopfer, Kurt Squire, Philip Tan ]
+author: [ "Henry Jenkins", "Eric Klopfer", "Kurt Squire", "Philip Tan" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

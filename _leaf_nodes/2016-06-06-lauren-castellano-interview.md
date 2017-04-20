@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Online Learning: Lauren Castellano"
 title-url: "https://www.youtube.com/watch?v=PLuWTvJxtDY"
-author: David Joyner
+author: "David Joyner"
 groups: technologies
 categories: online-learning
 topics: interviews
