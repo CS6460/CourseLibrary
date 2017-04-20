@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "The Boom and Bust and Boom of Educational Games"
 title-url: "http://dspace.mit.edu/openaccess-disseminate/1721.1/93079"
-author: [ Eric Klopfer, Scot Oserweil ]
+author: [ "Eric Klopfer", "Scot Oserweil" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

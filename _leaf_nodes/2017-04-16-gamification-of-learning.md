@@ -2,7 +2,7 @@
 layout: leaf-node
 title: Gamification of learning
 title-url: https://en.wikipedia.org/wiki/Gamification_of_learning
-author: Wikipedia
+author: "Wikipedia"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

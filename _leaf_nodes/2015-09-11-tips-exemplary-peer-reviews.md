@@ -2,7 +2,7 @@
 layout: page
 title: "Exemplary Peer Reviews"
 title-url: "2015-09-11-tips-exemplary-peer-reviews.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips
 topics: exemplary-peer-reviews

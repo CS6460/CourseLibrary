@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Learning in Context: Digital Games and Young Black Men"
 title-url: "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.206.624&rep=rep1&type=pdf"
-author: [ Betsy James DiSalvo, Kevin Crowley, Roy Norwood ]
+author: [ "Betsy James DiSalvo", "Kevin Crowley", "Roy Norwood" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

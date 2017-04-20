@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Introduction to Survey Research"
 title-url: "https://www.youtube.com/watch?v=H978qKz7H8c"
-author: David Joyner
+author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: survey-research
 topics: introductory-resources-video

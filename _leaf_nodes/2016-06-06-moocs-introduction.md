@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Introduction to MOOCs"
 title-url: "https://www.youtube.com/watch?v=Apmks_6b584"
-author: David Joyner
+author: "David Joyner"
 groups: technologies
 categories: moocs
 topics: introductory-resources-video

@@ -2,7 +2,7 @@
 layout: page
 title: "Publication Formats and Destinations"
 title-url: "2016-04-29-tips-publication-formats-and-destinations.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: [publication-formats, publication-destinations]

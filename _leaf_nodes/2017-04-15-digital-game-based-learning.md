@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Digital game-based learning"
 title-url: "http://www.learnnc.org/lp/pages/4970"
-author: Heather Coffey
+author: "Heather Coffey"
 groups: technologies
 categories: game-based-learning
 topics: introductory-resources

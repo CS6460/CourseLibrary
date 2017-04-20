@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Collaborative learning through augmented reality role playing"
 title-url: "https://www.researchgate.net/publication/216814115_Collaborative_learning_through_augmented_reality_role_playing"
-author: [ Eric Klopfer, Judy Perry, Kurt Squire, Ming-Fong Jan ]
+author: [ "Eric Klopfer", "Judy Perry", "Kurt Squire", "Ming-Fong Jan" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

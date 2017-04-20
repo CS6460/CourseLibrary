@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "The Modernization of Computer Science Education"
 title-url: "https://techcrunch.com/2014/07/23/modernizing-computer-science-education/"
-author: Jay Borenstein
+author: "Jay Borenstein"
 groups: broader-issues
 categories: computer-science-education
 topics: in-the-media

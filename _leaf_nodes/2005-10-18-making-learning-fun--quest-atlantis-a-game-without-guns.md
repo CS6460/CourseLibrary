@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Making Learning Fun:  Quest Atlantis, A Game Without Guns"
 title-url: "http://www.jacobenfield.com/R347/readings/barab_2005.pdf"
-author: [ Sasha Barab, Michael Thomas, Tyler Dodge, Robert Carteaux, Hakan Tuzun ]
+author: [ "Sasha Barab", "Michael Thomas", "Tyler Dodge", "Robert Carteaux", "Hakan Tuzun" ]
 groups: technologies
 categories: game-based-learning
 topics: scholarly-readings

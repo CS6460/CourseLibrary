@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "How To Think About Student Data Privacy"
 title-url: "http://www.forbes.com/sites/jordanshapiro/2015/08/28/how-to-think-about-student-data-privacy/#46b752712669"
-author: Jordan Shapiro
+author: "Jordan Shapiro"
 groups: broader-issues
 categories: privacy
 topics: in-the-media

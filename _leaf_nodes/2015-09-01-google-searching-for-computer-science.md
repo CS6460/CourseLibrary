@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Searching for Computer Science: Access and Barriers in U.S. K-12 Education"
 title-url: "http://services.google.com/fh/files/misc/searching-for-computer-science_report.pdf"
-author: [Google, Gallup]
+author: ["Google", "Gallup"]
 groups: broader-issues
 categories: computer-science-education
 topics: introductory-resources

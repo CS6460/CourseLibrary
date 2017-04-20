@@ -2,7 +2,7 @@
 layout: page
 title: "How to Give and Receive Effective Peer Reviews"
 title-url: "2016-01-10-tips-how-to-give-and-receive-effective-feedback.html"
-author: David Joyner
+author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
 topics: how-to-give-and-receive-effective-feedback

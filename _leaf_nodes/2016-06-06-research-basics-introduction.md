@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Introduction to Research"
 title-url: "https://www.youtube.com/watch?v=znpIvw-dHO4"
-author: David Joyner
+author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: research-basics
 topics: introductory-resources-video
