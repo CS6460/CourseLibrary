@@ -1,8 +1,9 @@
+---
 layout: leaf-node
 title: "Conducting Survey Research"
 title-url: "http://gradnyc.com/wp-content/uploads/2012/08/GNYC_Academy_Workshop-3_Conducting-Survey-Research.pdf"
 author: "Conducting Survey Research"
-groups: technologies
+groups: research-principles-and-methodologies
 categories: Survey Research
 topics: scholarly-readings
 summary: >
@@ -13,3 +14,4 @@ cite: >
 pub-date: N/A
 added-date: N/A
 resource-type: external-page
+---
