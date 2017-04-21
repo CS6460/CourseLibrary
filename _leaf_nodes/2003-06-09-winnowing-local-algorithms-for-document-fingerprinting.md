@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Winnowing: Local Algorithms for Document Fingerprinting"
 title-url: "http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf#page=1&zoom=auto,-265,792"
 author: ["Saul Schleimer","Daniel Wilkerson","Alex Aiken"]

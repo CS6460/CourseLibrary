@@ -4,7 +4,7 @@ title: "NMC Horizon"
 title-url: "http://cdn.nmc.org/media/2015-nmc-horizon-report-museum-EN.pdf"
 author: "New Media Center"
 groups: introduction-to-edtech
-categories:survey-of-edtech
+categories: survey-of-edtech
 topics: introductory-resources
 summary: >
     The NMC Horizon landing page has reports summarizing their research into education and technology

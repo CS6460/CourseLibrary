@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Support for Simulation-Based Learning: The Effects of Model Progression and Assignments on Learning about Oscillatory Motion"
 title-url: "http://files.eric.ed.gov/fulltext/ED398900.pdf"
 author: ["Janine Swaak","Woulter Van Joolingen","Ton De Jong"]

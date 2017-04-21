@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Current Issues and Future Directions in Simulation-Based Training"
 title-url: "http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1493&context=cahrswp"
 author: ["Adam Bell","Adam Kanar","Steve Kozlowski"]
@@ -14,9 +14,7 @@ cite: >
     Bell, B. S., Kanar, A. M. & Kozlowski, S. W. J. (2008). Current issues and
     future directions in simulation-based training (CAHRS Working Paper #08-13).
     Ithaca, NY: Cornell University, School of Industrial and LaborRelations,
-    Center for Advanced Human Resource Studies. http://digitalcommons.ilr.cornell.edu/cahr
-swp/
-492
+    Center for Advanced Human Resource Studies. http://digitalcommons.ilr.cornell.edu/cahrswp
 pub-date: 2008-11-01
 added-date: 2017-04-18
 resource-type: pdf-document

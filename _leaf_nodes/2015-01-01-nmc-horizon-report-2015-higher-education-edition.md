@@ -4,7 +4,7 @@ title: "NMC Horizon Report: 2015 Higher Education"
 title-url: "http://cdn.nmc.org/media/2015-nmc-horizon-report-HE-EN.pdf"
 author: ["Larry Johnson","Samantha Adams Becker","V Estrada","A Freeman"]
 groups: introduction-to-edtech
-categories:survey-of-edtech
+categories: survey-of-edtech
 topics: introductory-resources
 summary: >
     The higher education report content is a collaboration of the New Media Consortium (NMC) and Educause
