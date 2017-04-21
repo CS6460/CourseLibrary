@@ -5,7 +5,7 @@ title-url: "https://books.google.com/books?id=KDxTBgAAQBAJ&lpg=PA65&ots=hJ39XR-C
 author: "Ian Bogost"
 groups: technologies
 categories: game-based-learning
-topics: scholarly-readings
+topics: [ "scholarly-readings", "in-the-media" ]
 summary: >
      
 cite: |
