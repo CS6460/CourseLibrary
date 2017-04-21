@@ -4,7 +4,7 @@ title: "Educational Technology"
 title-url: "https://en.wikipedia.org/wiki/Educational_technology"
 author: "Various"
 groups: introduction-to-edtech
-categories:survey-of-edtech
+categories: survey-of-edtech
 topics: introductory-resources
 summary: >
     Wikipedia is an open encyclopedia. This link is for the entry for Instructional Simulation.
