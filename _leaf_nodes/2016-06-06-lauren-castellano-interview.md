@@ -9,8 +9,8 @@ topics: interviews
 summary: >
     David Joyner interviews Lauren Castellano, Production Strategist at Udacity, about content
     development and Online Learning at Udacity.
-cite: |
-    Joyner, David. (2016). Online Learning: Lauren Castellano Interview. Udacity. June 6, 2016.
+cite: >
+    Joyner, D. & Udacity. (2016, June 6). Online Learning: Lauren Castellano Interview. Retrieved from https://www.youtube.com/watch?v=PLuWTvJxtDY
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video

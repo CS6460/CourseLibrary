@@ -8,9 +8,9 @@ categories: intelligent-tutoring-systems
 topics: introductory-resources-video
 summary: >
     David Joyner introduces Intelligent Tutoring Systems as part of Technologies.
-cite: |
-    Joyner, David. (2016). Technologies: Intelligent Tutoring Systems Introductory Video.
-        Udacity.  June 6, 2016.
+cite: >
+    Joyner, D. & Udacity. (2016, June 6). Technologies: Intelligent Tutoring Systems Introductory Video.
+    Retrieved from https://www.youtube.com/watch?v=JKFujZMfObo
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video

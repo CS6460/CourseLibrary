@@ -9,7 +9,7 @@ topics: introductory-resources-video
 summary: >
     David Joyner introduces Online Learning as part of Technologies.
 cite: >
-    Joyner, David. (2016). Technologies: Online Learning Introductory Video. Udacity.  June 6, 2016.
+    Joyner, D. & Udacity (2016, June 6). Technologies: Online Learning Introductory Video. Retrieve from https://www.youtube.com/watch?v=kjlAfs5RQXI
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video

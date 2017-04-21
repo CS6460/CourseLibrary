@@ -10,7 +10,7 @@ summary: >
     David Joyner interviews Courtney Drake, Product Manager at Udacity, about building
     communities in the Udacity environment.
 cite: >
-    Joyner, David. (2016). Online Learning: Courtney Drake Interview. Udacity. June 6, 2016.
+    Joyner, D. & Udacity. (2016, June 6). Online Learning: Courtney Drake Interview. Retrieved from https://www.youtube.com/watch?v=Qht-963q0bk
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video
