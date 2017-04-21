@@ -8,9 +8,9 @@ categories: design-based-experiments
 topics: introductory-resources-video
 summary: >
     David Joyner introduces Design-Based Experiments as part of Research Principles and Methodologies.
-cite: |
-    Joyner, David. (2016). Research Principles and Methodologies: Design-Based Experiments Introductory Video.
-        Udacity.  June 6, 2016.
+cite: >
+    Joyner, D. & Udacity. (2016, June 6). Research Principles and Methodologies: Design-Based
+    Experiments Introductory Video. Retrieved from https://www.youtube.com/watch?v=QoID5_JZHFk
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video

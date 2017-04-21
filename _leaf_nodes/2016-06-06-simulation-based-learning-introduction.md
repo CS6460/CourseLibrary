@@ -9,7 +9,8 @@ topics: introductory-resources-video
 summary: >
     David Joyner introduces Simulation-Based Learning as part of Technologies.
 cite: >
-    Joyner, David. (2016).  Technologies: Simulation-Based Learning Introductory Video. Udacity.  June 6, 2016.
+    Joyner, D. & Udacity. (2016, June 6). Technologies: Simulation-Based Learning Introductory Video.
+    Retrieved from https://www.youtube.com/watch?v=dFuOZwvzxow
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video

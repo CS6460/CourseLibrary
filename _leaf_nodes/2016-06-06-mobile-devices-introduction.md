@@ -9,7 +9,7 @@ topics: introductory-resources-video
 summary: >
     David Joyner introduces Mobile Devices as part of Technologies.
 cite: >
-    Joyner, David. (2016). Technologies: Mobile Devices Introductory Video. Udacity.  June 6, 2016.
+    Joyner, D. & Udacity (2016, June 6). Technologies: Mobile Devices Introductory Video. Retrieved from https://www.youtube.com/watch?v=66-Pq2o1ze4
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video

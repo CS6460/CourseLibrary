@@ -9,7 +9,7 @@ topics: introductory-resources-video
 summary: >
     David Joyner introduces Computer-Supported Collaborative Work as part of Technologies.
 cite: >
-    Joyner, David. (2016). Technologies: Computer-Supported Collaborative Work Introductory Video. Udacity.  June 6, 2016.
+    Joyner, D. & Udacity. (2016, June 6). Technologies: Computer-Supported Collaborative Work Introductory Video. Retrieved from https://www.youtube.com/watch?v=zxEhhgS6ZNc
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video

@@ -9,7 +9,7 @@ topics: interviews
 summary: >
     David Joyner interviews Tairi Delgado, Course Manager at Udacity, about Online Learning.
 cite: |
-    Joyner, David. (2016). Online Learning: Tairi Delgado Interview. Udacity. June 6, 2016.
+    Joyner, D. & Udacity. (2016, June 6). Online Learning: Tairi Delgado Interview. Retrieved from https://www.youtube.com/watch?v=PLuWTvJxtDY
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video
