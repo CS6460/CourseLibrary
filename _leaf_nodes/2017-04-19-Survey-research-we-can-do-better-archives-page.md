@@ -3,7 +3,7 @@ layout: leaf-node
 title: "Survey research: we can do better"
 title-url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257493/"
 author: "Susan Starr, MLS, PhD, Editor-in-Chief"
-groups: technologies
+groups: research-principles-and-methodologies
 categories: survey-research
 topics: scholarly-readings
 summary: >
