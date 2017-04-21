@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Course Introduction"
-    url: "/"
+    url: "/introduction/tips-for-class"
   - title: "Tips for the Class"
-    url: "/"
+    url: "/introduction/tips-for-class"
   - title: "Add a Resource"
     url: "/contribute"
     
