@@ -4,7 +4,7 @@ title: "Learning Outcomes"
 title-url: "https://www.youtube.com/watch?v=6IVOnxiYhYs"
 author: David Joyner
 groups: introduction
-categories: learning-outcomes
+categories: course-introduction
 topics: introductory-resources-video
 summary: >
     David Joyner explains the learning Outcomes for the Educational Technology course.  The learning
