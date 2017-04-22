@@ -1,10 +1,10 @@
 ---
 layout: leaf-node
 title: "Learning Assessments"
-title-url: "https://www.youtube.com/watch?v=6IVOnxiYhYs"
+title-url: "https://www.youtube.com/watch?v=50a0Ai2RXgU"
 author: David Joyner
 groups: introduction
-categories: learning-assessments
+categories: course-introduction
 topics: introductory-resources-video
 summary: >
     David Joyner explains the learning assessments for the Educational Technology course.  The learning
