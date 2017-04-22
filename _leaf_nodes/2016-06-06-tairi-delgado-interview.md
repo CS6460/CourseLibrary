@@ -1,11 +1,11 @@
 ---
 layout: leaf-node
-title: "Communities of Practice: Tairi Delgado Interview"
-title-url: "https://www.youtube.com/watch?v=PLuWTvJxtDY"
-youtube-id: PLuWTvJxtDY
+title: "Online Learning: Tairi Delgado Interview"
+title-url: "https://www.youtube.com/watch?v=WggvWV7dttI"
+youtube-id: WggvWV7dttI
 author: "David Joyner"
 groups: pedagogical-studies
-categories: communities-of-practice
+categories: online-learning
 topics: interviews
 summary: >
     David Joyner interviews Tairi Delgado, Course Manager at Udacity, about Online Learning.
