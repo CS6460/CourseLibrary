@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=QoID5_JZHFk"
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: design-based-experiments
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Design-Based Experiments as part of Research Principles and Methodologies.
 cite: >
