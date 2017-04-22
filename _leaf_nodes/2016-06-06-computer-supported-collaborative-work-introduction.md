@@ -6,7 +6,7 @@ youtube-id: zxEhhgS6ZNc
 author: "David Joyner"
 groups: technologies
 categories: Computer-Supported Collaborative Work
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Computer-Supported Collaborative Work as part of Technologies.
 cite: >

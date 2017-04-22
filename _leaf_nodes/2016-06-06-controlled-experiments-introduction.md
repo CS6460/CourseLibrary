@@ -6,7 +6,7 @@ youtube-id: HL2cXBeqb6U
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: controlled-experiments
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Controlled Experiments as part of Research Principles and Methodologies.
 cite: >

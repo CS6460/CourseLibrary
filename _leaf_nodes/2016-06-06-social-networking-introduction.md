@@ -6,7 +6,7 @@ youtube-id: rDqqcXNsiUI
 author: "David Joyner"
 groups: technologies
 categories: intelligent-tutoring-systems
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Social Networking as part of Technologies.
 cite: >

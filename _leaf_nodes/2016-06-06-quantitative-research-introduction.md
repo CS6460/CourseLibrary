@@ -6,7 +6,7 @@ youtube-id: eYfCBozP99U
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: quantitative-research
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Quantitative Research as part of Research Principles and Methodologies.
 cite: >

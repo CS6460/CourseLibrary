@@ -6,7 +6,7 @@ youtube-id: JKFujZMfObo
 author: "David Joyner"
 groups: technologies
 categories: intelligent-tutoring-systems
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Intelligent Tutoring Systems as part of Technologies.
 cite: >

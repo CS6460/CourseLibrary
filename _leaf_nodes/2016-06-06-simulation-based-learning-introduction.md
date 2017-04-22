@@ -6,7 +6,7 @@ youtube-id: dFuOZwvzxow
 author: David Joyner
 groups: technologies
 categories: simulation-based-learning
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Simulation-Based Learning as part of Technologies.
 cite: >

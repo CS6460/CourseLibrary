@@ -1,12 +1,12 @@
 ---
 layout: leaf-node
-title: "Let's Get Started"
+title: "Wrap up - Let's Get Started"
 title-url: "https://www.youtube.com/watch?v=VK5b5ZQEI7M"
 youtube-id: VK5b5ZQEI7M
 author: David Joyner
 groups: introduction
-categories: lets-get-started
-topics: introductory-resources-video
+categories: course-introduction
+topics: intro-video
 summary: >
     David Joyner says, "Let's get started with the class!"
 cite: >

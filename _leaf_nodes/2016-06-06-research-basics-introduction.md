@@ -6,7 +6,7 @@ youtube-id: znpIvw-dHO4
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: research-basics
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Research Basics as part of Research Principles and Methodologies.
 cite: >

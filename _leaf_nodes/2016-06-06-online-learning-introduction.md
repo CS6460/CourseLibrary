@@ -6,7 +6,7 @@ youtube-id: kjlAfs5RQXI
 author: "David Joyner"
 groups: technologies
 categories: intelligent-tutoring-systems
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Online Learning as part of Technologies.
 cite: >

@@ -6,7 +6,7 @@ youtube-id: yJ0DXtB_rX0
 author: "David Joyner"
 groups: broader-issues
 categories: open-problems
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner discusses some the Open Problems of Educational Technology.
 cite: >

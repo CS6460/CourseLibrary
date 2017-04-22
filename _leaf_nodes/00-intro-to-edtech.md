@@ -1,12 +1,12 @@
 ---
 layout: leaf-node
-title: "Intro to EdTech"
+title: "Intro to CS6460 EdTech"
 title-url: "https://www.youtube.com/watch?v=WxYy9A20c54"
 youtube-id: WxYy9A20c54
 author: David Joyner
 groups: introduction
 categories: course-introduction
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Educational Technology.
 cite: >

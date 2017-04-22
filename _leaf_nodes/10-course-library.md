@@ -5,8 +5,8 @@ title-url: "https://www.youtube.com/watch?v=CzFXhfRU9L8"
 youtube-id: CzFXhfRU9L8
 author: David Joyner
 groups: introduction
-categories: course-library
-topics: introductory-resources-video
+categories: course-introduction
+topics: intro-video
 summary: >
     David Joyner describes the class library as an aspect of the class' self-directed
     learning philosophy.

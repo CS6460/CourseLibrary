@@ -5,8 +5,8 @@ title-url: "https://www.youtube.com/watch?v=M9Bvrtknm_4"
 youtube-id: M9Bvrtknm_4
 author: David Joyner
 groups: introduction
-categories: what-is-educational-technology
-topics: introductory-resources-video
+categories: course-introduction
+topics: intro-video
 summary: >
     David Joyner answers the question, What is Educational Technology?  It's more than you
     might think.

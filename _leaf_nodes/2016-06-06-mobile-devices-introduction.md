@@ -6,7 +6,7 @@ youtube-id: 66-Pq2o1ze4
 author: "David Joyner"
 groups: technologies
 categories: mobile-devices
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Mobile Devices as part of Technologies.
 cite: >

@@ -5,8 +5,8 @@ title-url: "https://www.youtube.com/watch?v=H0d2OHt65OU"
 youtube-id: H0d2OHt65OU
 author: David Joyner
 groups: introduction
-categories: mentorship
-topics: introductory-resources-video
+categories: course-introduction
+topics: intro-video
 summary: >
     David Joyner describes the mentorship aspect of the class.
 cite: >
