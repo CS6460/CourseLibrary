@@ -1,10 +1,10 @@
 ---
 layout: leaf-node
-title: "Before we get started"
+title: "Before we get started - Readiness Questions"
 title-url: "https://www.youtube.com/watch?v=wnCSVssDPv8"
 author: David Joyner
 groups: introduction
-categories: readiness-questions
+categories: course-introduction
 topics: introductory-resources-video
 summary: >
     David Joyner provides readiness questions for the Ed Tech course.
