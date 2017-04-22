@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Learning Goals"
 title-url: "https://www.youtube.com/watch?v=mkYEVWZ6tYI"
+youtube-id: mkYEVWZ6tYI
 author: David Joyner
 groups: introduction
 categories: learning-goals

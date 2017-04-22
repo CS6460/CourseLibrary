@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Before we get started"
 title-url: "https://www.youtube.com/watch?v=wnCSVssDPv8"
+youtube-id: wnCSVssDPv8
 author: David Joyner
 groups: introduction
 categories: readiness-questions

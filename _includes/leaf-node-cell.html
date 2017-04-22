@@ -5,6 +5,9 @@
   </td>
   <td>
     <div class="leaf-node">
+      {% if leaf_node.youtube-id %}
+      {% include youtube-player.html id=leaf_node.youtube-id %}
+      {% endif %}
       <p class="leaf-node-title"><a href="{{leaf_node.title-url}}" target="_blank">{{ leaf_node.title }}</a></p>
       <p class="leaf-node-byline">
         {% if leaf_node.author != "n.a." %}

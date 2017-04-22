@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Intelligent Tutoring Systems: David Joyner Interview"
 title-url: "https://www.youtube.com/watch?v=PLuWTvJxtDY"
+youtube-id: PLuWTvJxtDY
 author: "Jason Barros"
 groups: technologies
 categories: intelligent-tutoring-systems

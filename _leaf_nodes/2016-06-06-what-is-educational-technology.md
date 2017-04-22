@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "What is Educational Technology?"
 title-url: "https://www.youtube.com/watch?v=M9Bvrtknm_4"
+youtube-id: M9Bvrtknm_4
 author: David Joyner
 groups: introduction
 categories: what-is-educational-technology

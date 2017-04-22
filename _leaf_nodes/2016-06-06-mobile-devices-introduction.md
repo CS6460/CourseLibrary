@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Mobile Devices"
 title-url: "https://www.youtube.com/watch?v=66-Pq2o1ze4"
+youtube-id: 66-Pq2o1ze4
 author: "David Joyner"
 groups: technologies
 categories: mobile-devices

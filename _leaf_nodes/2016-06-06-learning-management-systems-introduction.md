@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Learning Management Systems"
 title-url: "https://www.youtube.com/watch?v=wdBEU2HzQfY"
+youtube-id: wdBEU2HzQfY
 author: "David Joyner"
 groups: technologies
 categories: learning-management-systems

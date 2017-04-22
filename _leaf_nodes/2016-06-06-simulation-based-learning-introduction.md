@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Research"
 title-url: "https://www.youtube.com/watch?v=dFuOZwvzxow"
+youtube-id: dFuOZwvzxow
 author: David Joyner
 groups: technologies
 categories: simulation-based-learning

@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Structure"
 title-url: "https://www.youtube.com/watch?v=SNJj8B0mGhU"
+youtube-id: SNJj8B0mGhU
 author: David Joyner
 groups: introduction
 categories: structure

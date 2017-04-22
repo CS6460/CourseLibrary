@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Quantitative Research"
 title-url: "https://www.youtube.com/watch?v=eYfCBozP99U"
+youtube-id: eYfCBozP99U
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: quantitative-research

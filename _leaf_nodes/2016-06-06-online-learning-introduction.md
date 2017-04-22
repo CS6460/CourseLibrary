@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Online Learning"
 title-url: "https://www.youtube.com/watch?v=kjlAfs5RQXI"
+youtube-id: kjlAfs5RQXI
 author: "David Joyner"
 groups: technologies
 categories: intelligent-tutoring-systems

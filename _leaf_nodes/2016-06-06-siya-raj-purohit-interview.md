@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "MOOCs: Siya Raj Purohit"
 title-url: "https://www.youtube.com/watch?v=CKLkg50SGtc"
+youtube-id: CKLkg50SGtc
 author: "David Joyner"
 groups: technologies
 categories: moocs

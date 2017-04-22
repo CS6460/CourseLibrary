@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Controlled Experiments"
 title-url: "https://www.youtube.com/watch?v=HL2cXBeqb6U"
+youtube-id: HL2cXBeqb6U
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: controlled-experiments

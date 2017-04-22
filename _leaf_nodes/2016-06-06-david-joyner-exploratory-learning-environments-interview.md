@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Exploratory Learning Environments: David Joyner Interview"
 title-url: "https://www.youtube.com/watch?v=8_eM0jeD9Nc"
+youtube-id: 8_eM0jeD9Nc
 author: "Jason Barros"
 groups: technologies
 categories: intelligent-tutoring-systems

@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Course Library"
 title-url: "https://www.youtube.com/watch?v=CzFXhfRU9L8"
+youtube-id: CzFXhfRU9L8
 author: David Joyner
 groups: introduction
 categories: course-library

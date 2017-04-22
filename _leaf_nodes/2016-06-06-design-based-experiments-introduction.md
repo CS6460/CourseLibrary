@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Design-Based Experiments"
 title-url: "https://www.youtube.com/watch?v=QoID5_JZHFk"
+youtube-id: QoID5_JZHFk
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: design-based-experiments

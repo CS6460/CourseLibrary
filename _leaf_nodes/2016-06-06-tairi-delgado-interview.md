@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Communities of Practice: Tairi Delgado Interview"
 title-url: "https://www.youtube.com/watch?v=PLuWTvJxtDY"
+youtube-id: PLuWTvJxtDY
 author: "David Joyner"
 groups: pedagogical-studies
 categories: communities-of-practice

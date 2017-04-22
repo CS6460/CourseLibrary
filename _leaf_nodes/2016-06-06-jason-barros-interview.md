@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Business of Ed Tech: Jason Barros Interview"
 title-url: "https://www.youtube.com/watch?v=BzKgCgu4CUs"
+youtube-id: BzKgCgu4CUs
 author: "David Joyner"
 groups: broader-issues
 categories: business
