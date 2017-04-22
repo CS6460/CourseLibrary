@@ -1,3 +1,6 @@
+- slug: intro-video
+  pretty: "Introductory Videos"
+  description:
 - slug: advanced-stats
   pretty: "Advanced Stats"
   description:
@@ -141,7 +144,4 @@
   description:
 - slug: project-ideas
   pretty: "Project Ideas"
-  description:
-- slug: intro-video
-  pretty: "Introductory Videos"
   description:
