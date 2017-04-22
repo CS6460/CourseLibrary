@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=Apmks_6b584"
 author: "David Joyner"
 groups: technologies
 categories: moocs
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces MOOCs as part of Technologies.
 cite: >
