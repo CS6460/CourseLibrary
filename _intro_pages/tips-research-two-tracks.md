@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /introduction/tips-research-two-tracks/
 ---
 
