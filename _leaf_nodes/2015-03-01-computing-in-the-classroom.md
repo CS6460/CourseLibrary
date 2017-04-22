@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Computing in the Classroom"
 title-url: "http://harvardmagazine.com/2015/03/computing-in-the-classroom"
-    author: "Sophia Nguyen"
+author: "Sophia Nguyen"
 groups: pedagogical-styles
 categories: constructionism
 topics: in-the-media
