@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "Research: Two Tracks"
+title: "Two Tracks: Design and Research"
 title-url: "tips-two-tracks"
 author: 
 groups: Introduction
