@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=6IVOnxiYhYs"
 author: David Joyner
 groups: introduction
 categories: course-introduction
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner explains the learning Outcomes for the Educational Technology course.  The learning
     outcome is to actually contribute to the field based on the student interest.
