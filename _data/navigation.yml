@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Course Introduction"
-    url: "/introduction/tips-for-class"
+    url: "/introduction/course-introduction"
   - title: "Tips for the Class"
     url: "/introduction/tips-for-class"
   - title: "Add a Resource"
