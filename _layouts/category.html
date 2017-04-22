@@ -82,33 +82,42 @@ layout: default
               {% endfor %}
             {% endif %}
           {% endfor %}
-          {% assign topic_array = topic_list | split: "|" %}
+          {% assign ordered_topics = "" %}
+          {% for topic in site.data.topics %}
+          {% if topic_list contains topic.slug %}
+          {% assign ordered_topics = ordered_topics | append: "|" | append: topic.slug %}
+          {% endif %}
+          {% endfor %}
+          {% assign topic_array = ordered_topics | split: "|" %}
           <div class="topic-list">
           {% for topic in topic_array %}
-            {% assign strip_topic = topic | strip %}
-            {% unless strip_topic == '' %}
-            <a href="#{{strip_topic}}">{{site.data.topics[strip_topic].pretty}}</a> {% unless forloop.last %}|{% endunless %}
-            {% endunless %}
+            {% for _topic in site.data.topics %}
+              {% if _topic.slug == topic %}
+            <a href="#{{_topic.slug}}">{{_topic.pretty}}</a> {% unless forloop.last %}|{% endunless %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
           {% endfor %}
           </div>
         </header>
       {% endunless %}
       <section class="page__content" itemprop="text">
       {% for topic in topic_array %}
-        {% assign strip_topic = topic | strip %}
-        {% unless strip_topic == '' %}
-        <h3 class="anchor" id="{{ strip_topic }}">{{site.data.topics[strip_topic].pretty}}</h3>
+        {% for _topic in site.data.topics %}
+          {% if _topic.slug == topic %}
+        <h3 class="anchor" id="{{ _topic.slug }}">{{ _topic.pretty }}</h3>
         <table class="resource-table">
           <tbody>
       	  {% for leaf_node in site.leaf_nodes %}
-      	    {% if leaf_node.categories contains page.category and leaf_node.topics contains strip_topic %}
+      	    {% if leaf_node.categories contains page.category and leaf_node.topics contains _topic.slug %}
       	      {% include leaf-node-cell.html leaf_node = leaf_node %}
       	    {% endif %}
       	  {% endfor %}
       	  </tbody>
       	</table>
-      	{% endunless %}
+      	{% endif %}
        {% endfor %}
+      {% endfor %}
         <!-- {{ content }} -->
       </section>
     </div>

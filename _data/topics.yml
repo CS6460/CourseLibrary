@@ -1,147 +1,147 @@
-advanced-stats:
+- slug: advanced-stats
   pretty: "Advanced Stats"
   description:
-basic-stats-anova:
+- slug: basic-stats-anova
   pretty: "Basic Stats: ANOVA"
   description:
-basic-stats-linear-regression:
+- slug: basic-stats-linear-regression
   pretty: "Basic Stats: Linear Regression"
   description:
-basic-stats-t-tests:
+- slug: basic-stats-t-tests
   pretty: "Basic Stats: t-tests"
   description:
-biographies:
+- slug: biographies
   pretty: "Biographies"
   description:
-case-study-research:
+- slug: case-study-research
   pretty: "Case Study Research"
   description:
-conferences-journals-and-books:
+- slug: conferences-journals-and-books
   pretty: "Conferences, Journals, and Books"
   description:
-controlled-experiments-in-education:
+- slug: controlled-experiments-in-education
   pretty: "Controlled Experiments in Education"
   description:
-controlling-for-biases:
+- slug: controlling-for-biases
   pretty: "Controlling for Biases"
   description:
-data-sets:
+- slug: data-sets
   pretty: "Data Sets"
   description:
-educational-technology-in-the-media:
+- slug: educational-technology-in-the-media
   pretty: "Educational Technology in the Media"
   description:
-examples-of-design-based-research-in-action:
+- slug: examples-of-design-based-research-in-action
   pretty: "Examples of Design-Based Research in Action"
   description:
-exemplary-controlled-experiments:
+- slug: exemplary-controlled-experiments
   pretty: "Exemplary Controlled Experiments"
   description:
-group-work-at-a-distance:
+- slug: group-work-at-a-distance
   pretty: "Group Work at a Distance"
   description:
-in-the-media:
+- slug: in-the-media
   pretty: "In the Media"
   description:
-interviews:
+- slug: interviews
   pretty: "Interviews"
   description:
-introductory-resources:
+- slug: introductory-resources
   pretty: "Introductory Resources"
   description:
-irb-procedures:
+- slug: irb-procedures
   pretty: "IRB Procedures"
   description:
-learner-motivation:
+- slug: learner-motivation
   pretty: "Learner Motivation"
   description:
-making-a-good-survey:
+- slug: making-a-good-survey
   pretty: "Making a Good Survey"
   description:
-ongoing-projects:
+- slug: ongoing-projects
   pretty: "Ongoing Projects"
   description:
-online-courses-and-textbooks:
+- slug: online-courses-and-textbooks
   pretty: "Online Courses and Textbooks"
   description:
-online-statistics-courses:
+- slug: online-statistics-courses
   pretty: "Online Statistics Courses"
   description:
-plagiarism:
+- slug: plagiarism
   pretty: "Plagiarism"
   description:
-qualitative-vs-quantitative-research:
+- slug: qualitative-vs-quantitative-research
   pretty: "Qualitative vs. Quantitative Research"
   description:
-research-designs:
+- slug: research-designs
   pretty: "Research Designs"
   description:
-research-ethics:
+- slug: research-ethics
   pretty: "Research Ethics"
   description:
-research-vocabulary:
+- slug: research-vocabulary
   pretty: "Research Vocabulary"
   description:
-sampling-tips:
+- slug: sampling-tips
   pretty: "Sampling Tips"
   description:
-scholarly-readings:
+- slug: scholarly-readings
   pretty: "Scholarly Readings"
   description:
-student-admissions:
+- slug: student-admissions
   pretty: "Student Admissions"
   description:
-student-isolation:
+- slug: student-isolation
   pretty: "Student Isolation"
   description:
-student-retention:
+- slug: student-retention
   pretty: "Student Retention"
   description:
-students-with-special-needs:
+- slug: students-with-special-needs
   pretty: "Students with Special Needs"
   description:
-survey-of-edtech:
+- slug: survey-of-edtech
   pretty: "Survey of EdTech"
   description:
-useful-web-sites:
+- slug: useful-web-sites
   pretty: "Useful Web Sites"
   description:
-views-on-educational-technology:
+- slug: views-on-educational-technology
   pretty: "Views on Educational Technology"
   description:
-citi-training:
+- slug: citi-training
   pretty: "CITI Training"
   description:
-class-library-contributions:
+- slug: class-library-contributions
   pretty: "Class Library Contributions"
   description:
-finding-sources:
+- slug: finding-sources
   pretty: "Finding Sources"
   description:
-how-to-give-and-receive-effective-feedback:
+- slug: how-to-give-and-receive-effective-feedback
   pretty: "How to Give and Receive Effective Feedback"
   description:
-how-to-read-an-academic-publication:
+- slug: how-to-read-an-academic-publication
   pretty: "How to Read an Academic Publication"
   description:
-research-two-tracks:
+- slug: research-two-tracks
   pretty: "Research Two Tracks"
   description:
-publication-formats:
+- slug: publication-formats
   pretty: "Publication Formats"
   description:
-publication-destinations:
+- slug: publication-destinations
   pretty: "Publication Destinations"
   description:
-sharing-your-work-outside-the-class:
+- slug: sharing-your-work-outside-the-class
   pretty: "Sharing Your Work Outside the Class"
   description:
-exemplary-peer-reviews:
+- slug: exemplary-peer-reviews
   pretty: "Exemplary Peer Reviews"
   description:
-project-ideas:
+- slug: project-ideas
   pretty: "Project Ideas"
   description:
-introductory-resources-video:
+- slug: introductory-resources-video
   pretty: "Introductory Video"
   description:
