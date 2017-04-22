@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /introduction/tips-research-two-tracks/
+---
+
 # Tips For The Class
 
 ## Two Tracks: Design and Research
