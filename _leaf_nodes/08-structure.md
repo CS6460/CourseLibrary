@@ -1,11 +1,11 @@
 ---
 layout: leaf-node
-title: "Structure"
+title: "Course Structure"
 title-url: "https://www.youtube.com/watch?v=SNJj8B0mGhU"
 author: David Joyner
 groups: introduction
-categories: structure
-topics: introductory-resources-video
+categories: course-introduction
+topics: intro-video
 summary: >
     David Joyner provides a high level description of the course structure. It may change
     from previous semesters, but the overaching structure will be consistent: research an area,
