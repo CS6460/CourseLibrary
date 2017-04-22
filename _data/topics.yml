@@ -1,6 +1,74 @@
+##general
 - slug: intro-video
   pretty: "Introductory Videos"
   description:
+- slug: introductory-resources
+  pretty: "Introductory Resources"
+  description:
+- slug: scholarly-readings
+  pretty: "Scholarly Readings"
+  description:
+- slug: biographies
+  pretty: "Biographies"
+  description:
+- slug: ongoing-projects
+  pretty: "Ongoing Projects"
+  description:
+- slug: in-the-media
+  pretty: "In the Media"
+  description:
+- slug: interviews
+  pretty: "Interviews"
+  description:
+
+##Group specific
+#Tips for the Class
+- slug: research-two-tracks
+  pretty: "Two Tracks: Design and Researchs"
+  description:
+- slug: citi-training
+  pretty: "CITI Training"
+  description:
+- slug: how-to-read-an-academic-publication
+  pretty: "How to Read an Academic Publication"
+  description:
+- slug: finding-sources
+  pretty: "Finding Sources"
+  description:    
+- slug: class-library-contributions
+  pretty: "Class Library Contributions"
+  description:
+- slug: sharing-your-work-outside-the-class
+  pretty: "Sharing Your Work Outside the Class"
+  description:
+- slug: publication-formats
+  pretty: "Publication Formats"
+  description:
+- slug: publication-destinations
+  pretty: "Publication Destinations"
+  description:
+- slug: project-ideas
+  pretty: "Project Ideas"
+  description:
+- slug: exemplary-peer-reviews
+  pretty: "Exemplary Peer Reviews"
+  description:  
+- slug: how-to-give-and-receive-effective-feedback
+  pretty: "How to Give and Receive Effective Feedback"
+  description:
+
+#Intro to Educational Technology
+- slug: survey-of-edtech
+  pretty: "Survey of EdTech"
+  description:
+- slug: views-on-educational-technology
+  pretty: "Views on Educational Technology"
+  description:
+- slug: useful-web-sites
+  pretty: "Useful Web Sites"
+  description:
+
+##category specific
 - slug: advanced-stats
   pretty: "Advanced Stats"
   description:
@@ -12,9 +80,6 @@
   description:
 - slug: basic-stats-t-tests
   pretty: "Basic Stats: t-tests"
-  description:
-- slug: biographies
-  pretty: "Biographies"
   description:
 - slug: case-study-research
   pretty: "Case Study Research"
@@ -43,15 +108,6 @@
 - slug: group-work-at-a-distance
   pretty: "Group Work at a Distance"
   description:
-- slug: in-the-media
-  pretty: "In the Media"
-  description:
-- slug: interviews
-  pretty: "Interviews"
-  description:
-- slug: introductory-resources
-  pretty: "Introductory Resources"
-  description:
 - slug: irb-procedures
   pretty: "IRB Procedures"
   description:
@@ -60,9 +116,6 @@
   description:
 - slug: making-a-good-survey
   pretty: "Making a Good Survey"
-  description:
-- slug: ongoing-projects
-  pretty: "Ongoing Projects"
   description:
 - slug: online-courses-and-textbooks
   pretty: "Online Courses and Textbooks"
@@ -88,9 +141,6 @@
 - slug: sampling-tips
   pretty: "Sampling Tips"
   description:
-- slug: scholarly-readings
-  pretty: "Scholarly Readings"
-  description:
 - slug: student-admissions
   pretty: "Student Admissions"
   description:
@@ -103,45 +153,4 @@
 - slug: students-with-special-needs
   pretty: "Students with Special Needs"
   description:
-- slug: survey-of-edtech
-  pretty: "Survey of EdTech"
-  description:
-- slug: useful-web-sites
-  pretty: "Useful Web Sites"
-  description:
-- slug: views-on-educational-technology
-  pretty: "Views on Educational Technology"
-  description:
-- slug: citi-training
-  pretty: "CITI Training"
-  description:
-- slug: class-library-contributions
-  pretty: "Class Library Contributions"
-  description:
-- slug: finding-sources
-  pretty: "Finding Sources"
-  description:
-- slug: how-to-give-and-receive-effective-feedback
-  pretty: "How to Give and Receive Effective Feedback"
-  description:
-- slug: how-to-read-an-academic-publication
-  pretty: "How to Read an Academic Publication"
-  description:
-- slug: research-two-tracks
-  pretty: "Research Two Tracks"
-  description:
-- slug: publication-formats
-  pretty: "Publication Formats"
-  description:
-- slug: publication-destinations
-  pretty: "Publication Destinations"
-  description:
-- slug: sharing-your-work-outside-the-class
-  pretty: "Sharing Your Work Outside the Class"
-  description:
-- slug: exemplary-peer-reviews
-  pretty: "Exemplary Peer Reviews"
-  description:
-- slug: project-ideas
-  pretty: "Project Ideas"
-  description:
+
