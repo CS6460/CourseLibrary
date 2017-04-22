@@ -1,10 +1,10 @@
 ---
 layout: leaf-node
-title: "Ready Set Go"
+title: "An Experiment in Educational Technology - Ready Set Go"
 title-url: "https://www.youtube.com/watch?v=mkYEVWZ6tYI"
 author: David Joyner
 groups: introduction
-categories: an-experiment-in-educational-technology
+categories: course-introduction
 topics: introductory-resources-video
 summary: >
     David Joyner welcomes new students to EdTech and explains the course is also an experiment.
