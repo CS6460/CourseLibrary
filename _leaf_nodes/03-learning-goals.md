@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=yAxck_1RYCo"
 author: David Joyner
 groups: introduction
 categories: course-introduction
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner explains the learning goals for the Educational Technology course.  The
     primary goal is to learn enough to be able to contribute to the educational
