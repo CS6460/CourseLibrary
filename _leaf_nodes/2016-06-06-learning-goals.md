@@ -1,10 +1,10 @@
 ---
 layout: leaf-node
 title: "Learning Goals"
-title-url: "https://www.youtube.com/watch?v=mkYEVWZ6tYI"
+title-url: "https://www.youtube.com/watch?v=yAxck_1RYCo"
 author: David Joyner
 groups: introduction
-categories: learning-goals
+categories: course-introduction
 topics: introductory-resources-video
 summary: >
     David Joyner explains the learning goals for the Educational Technology course.  The
