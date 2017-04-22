@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=H978qKz7H8c"
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: survey-research
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Survey Research as part of Research Principles and Methodologies.
 cite: >
