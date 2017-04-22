@@ -1,5 +1,5 @@
 ---
-layout: leaf-node
+layout: leaf-node  
 title: "Games and Simulations and their Relationships to Learning"
 title-url: "http://www.coulthard.com/library/Files/gredler_2004_gamesandsimsandrelationtolearning.pdf"
 author: "Margaret Gredler"
