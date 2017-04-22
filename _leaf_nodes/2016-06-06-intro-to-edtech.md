@@ -1,11 +1,11 @@
 ---
 layout: leaf-node
-title: "Intro to EdTech"
+title: 00"Intro to EdTech"
 title-url: "https://www.youtube.com/watch?v=WxYy9A20c54"
 author: David Joyner
 groups: introduction
 categories: course-introduction
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Educational Technology.
 cite: >
