@@ -23,6 +23,8 @@ collections:
   category_nodes:
     output: true
   leaf_nodes:
+  intro_pages:
+    output: true  
     
 # Build settings
 markdown: kramdown
