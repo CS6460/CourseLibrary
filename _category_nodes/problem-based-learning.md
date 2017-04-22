@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Problem-Based Learning"
 group: pedagogical-styles
 category: problem-based-learning

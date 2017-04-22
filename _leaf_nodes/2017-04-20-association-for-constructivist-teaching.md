@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "The Association for Constructivist Teaching"
 title-url: "https://sites.google.com/site/assocforconstructteaching/"
 author: Content Author

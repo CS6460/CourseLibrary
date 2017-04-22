@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Social Learning"
 group: pedagogical-styles
 category: social-learning

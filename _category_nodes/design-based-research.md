@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Design-Based Research"
 group: research-principles-and-methodologies
 category: design-based-research

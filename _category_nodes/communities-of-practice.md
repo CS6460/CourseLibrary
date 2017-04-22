@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Communities of Practice"
 group: pedagogical-styles
 category: communities-of-practice

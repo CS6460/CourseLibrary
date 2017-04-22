@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Computer Science Education"
 group: broader-issues
 category: underserved-communities

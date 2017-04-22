@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "MOOCs"
 group: technologies
 category: moocs

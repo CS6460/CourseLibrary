@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Useful Web Sites"
 group: introduction-to-edtech
 category: useful-web-sites

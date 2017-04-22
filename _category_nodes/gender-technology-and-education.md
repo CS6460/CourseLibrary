@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Gender, Technology, and Education"
 group: broader-issues
 category: gender-technology-and-education

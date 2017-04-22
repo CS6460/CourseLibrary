@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Survey Research"
 group: research-principles-and-methodologies
 category: survey-research

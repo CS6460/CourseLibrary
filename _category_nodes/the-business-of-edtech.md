@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "The Business of EdTech"
 group: broader-issues
 category: the-business-of-edtech

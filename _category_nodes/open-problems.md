@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Open Problems"
 group: broader-issues
 category: open-problems

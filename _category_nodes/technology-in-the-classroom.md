@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Technology in the Classroom"
 group: broader-issues
 category: technology-in-the-classroom

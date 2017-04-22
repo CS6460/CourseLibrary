@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Online Learning"
 group: technologies
 category: online-learning

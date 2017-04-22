@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Formative Assessment"
 group: pedagogical-styles
 category: formative-assessment

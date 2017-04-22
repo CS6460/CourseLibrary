@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Tips for the Class"
 group: introduction
 category: tips-for-class

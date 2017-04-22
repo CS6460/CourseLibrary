@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Survey of EdTech"
 group: introduction-to-edtech
 category: survey-of-edtech

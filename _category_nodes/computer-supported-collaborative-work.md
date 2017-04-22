@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Computer-Supported Collaborative Work"
 group: technologies
 category: computer-supported-collaborative-work

@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Simulation-Based Learning"
 group: technologies
 category: simulation-based-learning

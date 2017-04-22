@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Social Networking"
 group: technologies
 category: social-networking

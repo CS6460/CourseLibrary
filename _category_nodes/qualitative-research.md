@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Qualitative Research"
 group: research-principles-and-methodologies
 category: qualitative-research

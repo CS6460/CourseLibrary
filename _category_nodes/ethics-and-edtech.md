@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Ethics and Edtech"
 group: broader-issues
 category: ethics-and-edtech

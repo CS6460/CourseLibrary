@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Research Basics"
 group: research-principles-and-methodologies
 category: research-basics

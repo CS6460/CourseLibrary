@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Intelligent Tutoring Systems"
 group: technologies
 category: intelligent-tutoring-systems

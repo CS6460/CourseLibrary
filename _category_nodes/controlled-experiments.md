@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Controlled Experiments"
 group: research-principles-and-methodologies
 category: controlled-experiments

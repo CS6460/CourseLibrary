@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Metacognition"
 group: pedagogical-styles
 category: metacognition

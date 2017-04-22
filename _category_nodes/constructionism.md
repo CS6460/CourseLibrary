@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Constructionism"
 group: pedagogical-styles
 category: constructionism

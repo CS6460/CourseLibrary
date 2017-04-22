@@ -23,8 +23,7 @@
 
           <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
-          <span class="nav__sub-title">{{ nav.title }}</span>
-         <!--  <div class="toggle">
+         <div class="toggle">
           {% assign checked = "" %}
           {% for child in nav.children %}
             {% if child.url == page.url %}
@@ -32,12 +31,11 @@
             {% endif %}
           {% endfor %}
           	<input type="checkbox" value="selected" class="toggle-input" id="{{ nav.nav-id }}" {{ checked }}>
-          	<label for="{{ nav.nav-id }}" class="toggle-label"><span class="nav__sub-title">{{ nav.title }}</span></label> -->
+          	<label for="{{ nav.nav-id }}" class="toggle-label"><span class="nav__sub-title">{{ nav.title }}</span></label>
         {% endif %}
 
         {% if nav.children != null %}
-        <ul>
-        <!-- <ul class="toggle-content"> -->
+        <ul class="toggle-content">
           {% for child in nav.children %}
             {% comment %} internal/external URL check {% endcomment %}
             {% if child.url contains "://" %}

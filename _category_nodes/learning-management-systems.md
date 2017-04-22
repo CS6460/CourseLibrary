@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Learning Management Systems"
 group: technologies
 category: learning-management-systems

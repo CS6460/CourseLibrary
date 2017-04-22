@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Project-Based Learning"
 group: pedagogical-styles
 category: project-based-learning

@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Privacy in Educational Technology"
 group: broader-issues
 category: privacy-in-educational-technology

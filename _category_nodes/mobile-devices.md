@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Mobile Devices"
 group: technologies
 category: mobile-devices

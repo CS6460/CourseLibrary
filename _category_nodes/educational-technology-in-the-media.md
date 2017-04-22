@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Educational Technology in the Media"
 group: introduction-to-edtech
 category: educational-technology-in-the-media

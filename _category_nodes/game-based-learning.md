@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Game-Based Learning"
 group: technologies
 category: game-based-learning

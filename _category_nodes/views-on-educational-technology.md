@@ -1,5 +1,5 @@
 ---
-layout: topic
+layout: category
 title: "Views on Educational Technology"
 group: introduction-to-edtech
 category: views-on-educational-technology
