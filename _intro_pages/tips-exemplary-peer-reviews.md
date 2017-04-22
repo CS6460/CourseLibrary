@@ -5,7 +5,7 @@ sidebar:
   nav: "side-nav"
 ---
 
-#Tips For The Class: Exemplary Peer Reviews
+## Tips For The Class: Exemplary Peer Reviews
 
 This class leverages the benefits of peer review frequently. On every assignment,
 you'll generally review four of your classmates' assignments. The purposes of this
