@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=wdBEU2HzQfY"
 author: "David Joyner"
 groups: technologies
 categories: learning-management-systems
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Learning Management Systems as part of Technologies.
 cite: >
