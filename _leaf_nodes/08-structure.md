@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Course Structure"
-title-url: "https://www.youtube.com/watch?v=SNJj8B0mGhU"
+title-url: "https://www.youtube.com/watch?v=KCcc6oqx6qk"
 author: David Joyner
 groups: introduction
 categories: course-introduction
