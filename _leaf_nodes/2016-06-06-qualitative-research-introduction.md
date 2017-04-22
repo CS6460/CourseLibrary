@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=spIpkKYOtnA"
 author: "David Joyner"
 groups: research-principles-and-methodologies
 categories: qualitative-research
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Qualitative Research as part of Research Principles and Methodologies.
 cite: >
