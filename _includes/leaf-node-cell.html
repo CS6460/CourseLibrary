@@ -1,6 +1,6 @@
 {% assign leaf_node = include.leaf_node %}
 <tr>
-  <td style="text-align: center;">
+  <!-- <td style="text-align: center;">
     {% if leaf_node.resource-type == "external-page" %}
     <i class="fa fa-external-link res-icon">
     {% endif %}
@@ -16,11 +16,11 @@
     {% if leaf_node.resource-type == "video-course" or leaf_node.resource-type == "video" %}
     <i class="fa fa-film res-icon">
     {% endif %}
-  </td>
+  </td> -->
   <td>
     <div class="leaf-node">
       {% if leaf_node.youtube-id %}
-      {% include youtube-player.html id=leaf_node.youtube-id %}
+      {% include youtube-player.html id=leaf_node.youtube-id %}<br>
       {% endif %}
       <p class="leaf-node-title"><a href="{{leaf_node.title-url}}" target="_blank">{{ leaf_node.title }}</a></p>
       <p class="leaf-node-byline">

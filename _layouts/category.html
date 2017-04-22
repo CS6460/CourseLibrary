@@ -29,18 +29,19 @@ layout: default
   }
   .leaf-node p.leaf-node-title {
   	margin-bottom: 0.5em;
+  	font-size: 1.2em;
   }
   .leaf-node-title a:hover {
   	cursor: pointer;
   }
   .leaf-node p.leaf-node-byline {
   	margin-bottom: 0.5em;
-  	font-size: 0.8em;
+  	font-size: 1em;
   }
   .leaf-node p.leaf-node-summary {
   	color: #888;
   	margin-bottom: 0;
-  	font-size: 0.8em;
+  	font-size: 1em;
   }
   .topic-list {
   	margin-bottom: 1em;
@@ -93,7 +94,7 @@ layout: default
           {% for topic in topic_array %}
             {% for _topic in site.data.topics %}
               {% if _topic.slug == topic %}
-            <a href="#{{_topic.slug}}">{{_topic.pretty}}</a> {% unless forloop.last %}|{% endunless %}
+             {% unless forloop.first %}|{% endunless %} <a href="#{{_topic.slug}}">{{_topic.pretty}}</a>
                 {% break %}
               {% endif %}
             {% endfor %}
@@ -102,6 +103,12 @@ layout: default
         </header>
       {% endunless %}
       <section class="page__content" itemprop="text">
+      {% if topic_array.size < 1%}
+      <br>
+      <b>Sorry, there don't seem to be any resources here yet!</b>
+      <br>
+      <p> If you have one, please add it using the 'Add a Resource' link in the top right menu.</p>
+      {% endif %}
       {% for topic in topic_array %}
         {% for _topic in site.data.topics %}
           {% if _topic.slug == topic %}
