@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=-qsiqetMlCg"
 author: David Joyner
 groups: technologies
 categories: constructionism
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Constructionism as part of Pedagogical Styles.
 cite: |
