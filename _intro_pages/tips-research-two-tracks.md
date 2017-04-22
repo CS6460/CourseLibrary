@@ -2,9 +2,6 @@
 layout: default
 permalink: /introduction/tips-research-two-tracks/
 ---
-
-# Tips For The Class
-
 ## Two Tracks: Design and Research
 
 You'll notice in much of the documentation for this class, we describe two general categories of class projects: designs that solve problems and research that investigates phenomena. When you propose your project, you can choose either kind of project.
