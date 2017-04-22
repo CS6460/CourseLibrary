@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "Online Learning: Sebastian Thrun"
+title: "MOOCs: Siya Raj Purohit"
 title-url: "https://www.youtube.com/watch?v=CKLkg50SGtc"
 author: "David Joyner"
 groups: technologies
