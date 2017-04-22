@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "Intro to EdTech"
+title: "Intro to CS6460 EdTech"
 title-url: "https://www.youtube.com/watch?v=WxYy9A20c54"
 author: David Joyner
 groups: introduction
