@@ -1,5 +1,8 @@
 ---
 layout: page
+permalink: /introduction/tips-exemplary-peer-reviews/
+sidebar:
+  nav: "side-nav"
 ---
 
 #Tips For The Class: Exemplary Peer Reviews
