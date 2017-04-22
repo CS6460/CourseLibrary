@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=2tKqSaopvt4"
 author: David Joyner
 groups: technologies
 categories: project-based-learning
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Project Based Learning as part of Pedagogical Styles.
 cite: |
