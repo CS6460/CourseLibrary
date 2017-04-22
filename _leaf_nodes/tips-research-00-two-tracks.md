@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Research: Two Tracks"
-title-url: "tips-research-two-tracks.html"
+title-url: "tips-research-two-tracks"
 author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
