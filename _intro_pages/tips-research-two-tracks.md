@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /introduction/tips-research-two-tracks/
 ---
 ## Two Tracks: Design and Research
 
