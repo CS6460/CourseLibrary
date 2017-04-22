@@ -1,11 +1,11 @@
 ---
 layout: leaf-node
-title: "The Project"
+title: "The Class Project"
 title-url: "https://www.youtube.com/watch?v=SNJj8B0mGhU"
 author: David Joyner
 groups: introduction
-categories: the-project
-topics: introductory-resources-video
+categories: course-introduction
+topics: intro-video
 summary: >
     David Joyner describes the requirements for the class project.  Specific requirements
     may vary from semester to semester as our experimental continues.
