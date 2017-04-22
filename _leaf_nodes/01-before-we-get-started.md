@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=wnCSVssDPv8"
 author: David Joyner
 groups: introduction
 categories: course-introduction
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner provides readiness questions for the Ed Tech course.
 cite: >
