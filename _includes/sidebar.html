@@ -1,7 +1,8 @@
-<script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js" type="text/javascript"></script>
-<script src="{{ site.baseurl }}/assets/js/scroll-sticky.js" type="text/javascript"></script>
+<!-- <script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js" type="text/javascript"></script> -->
+<!-- <script src="{{ site.baseurl }}/assets/js/scroll-sticky.js" type="text/javascript"></script> -->
+<!-- <script src="{{ site.baseurl }}/assets/js/sticky-kit.js" type="text/javascript"></script> -->
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar " id="scroll-side">
+  <div class="sidebar sticky" id="scroll-side">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
@@ -22,4 +23,7 @@
     {% endif %}
   {% endif %}
   </div>
+  <!-- <script type="text/javascript">
+  	$("#scroll-side").stick_in_parent({sticky_class:"sticky"});
+  </script> -->
 {% endif %}

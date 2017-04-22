@@ -353,7 +353,19 @@ body:hover .visually-hidden button {
     @include clearfix();
     position: -webkit-sticky;
     position: sticky;
-    /*top: 2em;*/
+    top: 2em;
+
+    > * {
+      display: block;
+    }
+  }
+}
+
+.sticky-scroll {
+  @include breakpoint($large) {
+    @include clearfix();
+    position: -webkit-fixed;
+    position: fixed;
 
     > * {
       display: block;

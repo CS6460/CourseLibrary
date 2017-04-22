@@ -44,7 +44,7 @@ if ($sidebar.length > 0) {
             }
         } else if (dragTopUp) {
             $sidebar.css('top', stickyPadding);
-        } else if ($sidebar.hasClass('sticky')) {
+        } else if ($sidebar.hasClass('sticky-scroll')) {
             var currentTop = parseInt($sidebar.css('top'), 10);
 
             var minTop = -heightDelta;
