@@ -1,5 +1,8 @@
 ---
 layout: page
+permalink: /introduction/tips-two-tracks/
+sidebar:
+  nav: "side-nav"
 ---
 ## Two Tracks: Design and Research
 
