@@ -35,7 +35,7 @@ layout: default
   	cursor: pointer;
   }
   .leaf-node p.leaf-node-byline {
-  	margin-bottom: 0.5em;
+  	margin-bottom: 0.2em;
   	font-size: 1em;
   }
   .leaf-node p.leaf-node-summary {
@@ -78,23 +78,28 @@ layout: default
             {% if leaf_node.categories contains page.category %}
               {% for topic in leaf_node.topics %}
                 {% unless topic_list contains topic %}
-                  {% assign topic_list = topic_list | append: "|" | append: topic %}
+                  {% assign topic_list = topic_list | append: topic %}
                 {% endunless %}
               {% endfor %}
             {% endif %}
           {% endfor %}
           {% assign ordered_topics = "" %}
           {% for topic in site.data.topics %}
-          {% if topic_list contains topic.slug %}
-          {% assign ordered_topics = ordered_topics | append: "|" | append: topic.slug %}
-          {% endif %}
+            {% if topic_list contains topic.slug %}
+              {% unless ordered_topics == "" %}
+              {% assign ordered_topics = ordered_topics | append: "|" %}
+              {% endunless %}
+              {% assign ordered_topics = ordered_topics | append: topic.slug %}
+            {% endif %}
           {% endfor %}
           {% assign topic_array = ordered_topics | split: "|" %}
           <div class="topic-list">
+          {% assign first_topic = true %}
           {% for topic in topic_array %}
             {% for _topic in site.data.topics %}
               {% if _topic.slug == topic %}
-             {% unless forloop.first %}|{% endunless %} <a href="#{{_topic.slug}}">{{_topic.pretty}}</a>
+                {% unless first_topic %}|{% endunless %} <a href="#{{_topic.slug}}">{{_topic.pretty}}</a>
+                {% assign first_topic = false %}
                 {% break %}
               {% endif %}
             {% endfor %}
@@ -103,7 +108,7 @@ layout: default
         </header>
       {% endunless %}
       <section class="page__content" itemprop="text">
-      {% if topic_array.size < 1%}
+      {% if topic_array.size < 1 %}
       <br>
       <b>Sorry, there don't seem to be any resources here yet!</b>
       <br>

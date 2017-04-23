@@ -22,12 +22,16 @@
       {% if leaf_node.youtube-id %}
       {% include youtube-player.html id=leaf_node.youtube-id %}<br>
       {% endif %}
-      <p class="leaf-node-title"><a href="{{leaf_node.title-url}}" target="_blank">{{ leaf_node.title }}</a></p>
+      <p class="leaf-node-title"><a href="{{leaf_node.title-url}}" target="_blank">{{ leaf_node.title }}{% if leaf_node.youtube-id %} (watch on YouTube){% endif %}</a></p>
       <p class="leaf-node-byline">
         {% if leaf_node.author != "n.a." %}
-          {{ leaf_node.author }}{% if leaf_node.pub-date %},{% endif %}
+        {% for a in leaf_node.author%}
+        {% unless forloop.first %}, {% endunless %}{{ a | strip }}
+        {% endfor %}
         {% endif %}
-        {% if leaf_node.pub-date %}{{ leaf_node.pub-date }}{% endif %}
+      </p>
+      <p class="leaf-node-byline">
+        {% if leaf_node.pub-date %}{{ leaf_node.pub-date | date: "%b %e, %Y" }}.{% endif %}
       </p>
       <p class="leaf-node-summary">{{ leaf_node.summary }}</p>
     </div>

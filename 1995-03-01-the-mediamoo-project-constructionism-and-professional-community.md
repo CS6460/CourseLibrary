@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "The  MediaMOO  Project: Constructionism  and  Professional  Community"
 title-url: "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.73.3158&rep=rep1&type=pdf"
 author: ["Amy Bruckman","Mitchel Resnick"]

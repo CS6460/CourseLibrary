@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Monitoring Constructivist Classroom Learning Environments"
 title-url: "https://www.researchgate.net/profile/Peter_Taylor11/publication/240433642_Monitoring_constructivist_classroom_learning_environments/links/0deec5248c6258f0c9000000.pdf"
-author: {"Peter Taylor","Barry Fraser","Darrell Fisher"]
+author: ["Peter Taylor","Barry Fraser","Darrell Fisher"]
 groups: pedagogical-styles
 categories: constructionism
 topics: scholarly-readings
