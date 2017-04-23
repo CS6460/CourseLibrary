@@ -34,9 +34,7 @@
         {% if leaf_node.pub-date %}{{ leaf_node.pub-date | date: "%b %e, %Y" }}{% endif %}
       </p>
       <p class="leaf-node-summary">{{ leaf_node.summary }}</p>
-      <p class="leaf-node-summary">APA Citation: 
-        <p class="leaf-node-cite">{{ leaf_node.cite }}</p>
-      </p>
+      <p class="leaf-node-cite">{{ leaf_node.cite }}</p>
     </div>
   </td>
 </tr>

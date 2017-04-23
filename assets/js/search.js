@@ -22,7 +22,8 @@ layout:
 		item.author = item.author.replace("&quot;", "");
 		appendString += item.author + '</p><p class="leaf-node-byline">';
 		appendString += printShortDate(item.pub_date) + '</p><p class="leaf-node-summary">';
-		appendString += item.summary + '</p></div></td></tr>';
+		appendString += item.summary + '</p><p class="leaf-node-cite">';
+		appendString += item.cite + '</p></div></td></tr>';
       }
 
       searchResults.innerHTML = appendString;
