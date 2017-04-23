@@ -5,7 +5,7 @@ title-url: "tips-publication-formats-and-destinations"
 author: 
 groups: Introduction
 categories: tips-for-class
-topics: [publication-formats, publication-destinations]
+topics: introductory-resources
 summary: >
     David Joyner discusses types of publications, conference paper formats, and paper content. Some conferences are also listed, but may be dated, and the list is not comprehensive.
 cite: |
