@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "How to Give and Receive Effective Peer Reviews"
-title-url: "tips-10-effective-peer-reviews"
+title-url: "tips-09-effective-peer-reviews"
 author: 
 groups: Introduction
 categories: tips-for-class
