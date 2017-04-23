@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introductions/tips-finding-sources/
+permalink: /introduction/tips-finding-sources/
 sidebar:
   nav: "side-nav"
 ---
