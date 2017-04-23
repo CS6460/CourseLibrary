@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduction/tips-citi/
+permalink: /introduction/tips-02-citi/
 sidebar:
   nav: "side-nav"
 ---
