@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduction/tips-class-library-contributions/
+permalink: /introduction/tips-05-class-library-contributions/
 sidebar:
   nav: "side-nav"
 ---
