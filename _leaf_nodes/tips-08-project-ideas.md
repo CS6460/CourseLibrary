@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Project Ideas"
-title-url: "tips-project-ideas"
+title-url: "tips-08-project-ideas"
 author: 
 groups: Introduction
 categories: tips-for-class
