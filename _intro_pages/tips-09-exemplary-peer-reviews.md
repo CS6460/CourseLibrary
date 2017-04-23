@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /introduction/tips-exemplary-peer-reviews/
+permalink: /introduction/tips-09-exemplary-peer-reviews/
 sidebar:
   nav: "side-nav"
 ---
 
-## Tips For The Class: Exemplary Peer Reviews
+## Exemplary Peer Reviews
 
 This class leverages the benefits of peer review frequently. On every assignment,
 you'll generally review four of your classmates' assignments. The purposes of this
