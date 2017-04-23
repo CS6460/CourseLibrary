@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduction/tips-publication-formats-and-destinations/
+permalink: /introduction/tips-07-publication-formats-and-destinations/
 sidebar:
   nav: "side-nav"
 ---
