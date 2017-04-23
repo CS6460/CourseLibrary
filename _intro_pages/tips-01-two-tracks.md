@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduction/tips-two-tracks/
+permalink: /introduction/tips-01-two-tracks/
 sidebar:
   nav: "side-nav"
 ---
