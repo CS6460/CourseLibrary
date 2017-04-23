@@ -5,7 +5,7 @@ sidebar:
   nav: "side-nav"
 ---
 
-## Tips For The Class: Publication Formats and Destinations
+## Publication Formats and Destinations
 
 ## Types of Publications
 
