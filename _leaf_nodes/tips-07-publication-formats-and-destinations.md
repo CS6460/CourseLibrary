@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Publication Formats and Destinations"
-title-url: "tips-publication-formats-and-destinations"
+title-url: "tips-07-publication-formats-and-destinations"
 author: 
 groups: Introduction
 categories: tips-for-class
