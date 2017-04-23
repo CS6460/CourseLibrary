@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Contributing to the Library"
-title-url: "tips-class-library-contributions"
+title-url: "tips-05-class-library-contributions"
 author: 
 groups: Introduction
 categories: tips-for-class
