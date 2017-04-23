@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Finding Sources"
-title-url: "tips-finding-sources"
+title-url: "tips-04-finding-sources"
 author: 
 groups: Introduction
 categories: tips-for-class
