@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /introduction/tips-finding-sources/
+permalink: /introduction/tips-04-finding-sources/
 sidebar:
   nav: "side-nav"
 ---
 
-## Tips For The Class: Finding Sources and Articles
+## Finding Sources and Articles
 
 We've provided a number of sources on a variety of topics to get you started
 in your research. Chances are, however, that you're going to need to delve
