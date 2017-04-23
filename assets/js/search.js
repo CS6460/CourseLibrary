@@ -12,11 +12,16 @@ layout:
         var item = store[results[i].ref];
         // appendString += '<li><a href="' + item['title-url'] + '"><h3>' + item.title + '</h3></a>';
         // appendString += '<p>' + item.summary + '</p></li>';
-        appendString += '<tr><td style="text-align: center;"><i class="fa fa-file-text-o res-icon"></td>';
-		appendString += '<td><div class="leaf-node">';
+        // appendString += '<tr><td style="text-align: center;"><i class="fa fa-file-text-o res-icon"></td>';
+		appendString += '<tr><td><div class="leaf-node">';
 		appendString += '<p class="leaf-node-title"><a href="' + item['title-url'] + '" target="_blank">';
 		appendString += item.title + '</a></p><p class="leaf-node-byline">';
-		appendString += item.author + '</p><p class="leaf-node-summary">';
+		item.author = item.author.replace("[", "");
+		item.author = item.author.replace("]", "");
+		item.author = item.author.replace("\"", "");
+		item.author = item.author.replace("&quot;", "");
+		appendString += item.author + '</p><p class="leaf-node-byline">';
+		appendString += printShortDate(item.pub_date) + '</p><p class="leaf-node-summary">';
 		appendString += item.summary + '</p></div></td></tr>';
       }
 
@@ -24,6 +29,52 @@ layout:
     } else {
       searchResults.innerHTML = '<tr><td>No results found</td><tr>';
     }
+  }
+
+  function printShortDate(dateString) {
+  	return getMonthString(dateString.substring(5, 7)) + " " + getDayString(dateString.substring(9, 11)) + ", " + dateString.substring(0, 4);
+  }
+
+  function getMonthString(month) {
+  	if (month == "01") {
+  		return "Jan";
+  	}
+  	if (month == "012") {
+  		return "Feb";
+  	}
+  	if (month == "03") {
+  		return "Mar";
+  	}
+  	if (month == "04") {
+  		return "Apr";
+  	}
+  	if (month == "05") {
+  		return "May";
+  	}
+  	if (month == "06") {
+  		return "Jun";
+  	}
+  	if (month == "07") {
+  		return "Jul";
+  	}
+  	if (month == "08") {
+  		return "Aug";
+  	}
+	if (month == "09") {
+  		return "Sept";
+  	}
+  	if (month == "10") {
+  		return "Oct";
+  	}
+  	if (month == "11") {
+  		return "Nov";
+  	}
+  	if (month == "12") {
+  		return "Dec";
+  	}
+  }
+  function getDayString(day) {
+  	return parseInt(day).toString();
   }
 
   function getQueryVariable(variable) {

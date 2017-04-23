@@ -20,18 +20,19 @@ permalink: /search
   }
   .leaf-node p.leaf-node-title {
   	margin-bottom: 0.5em;
+  	font-size: 1.2em;
   }
   .leaf-node-title a:hover {
   	cursor: pointer;
   }
   .leaf-node p.leaf-node-byline {
-  	margin-bottom: 0.5em;
-  	font-size: 0.8em;
+  	margin-bottom: 0.2em;
+  	font-size: 1em;
   }
   .leaf-node p.leaf-node-summary {
   	color: #888;
   	margin-bottom: 0;
-  	font-size: 0.8em;
+  	font-size: 1em;
   }
 </style>
 <!-- <form action="/search-results.html" method="get">
@@ -57,7 +58,8 @@ permalink: /search
         "categories": "{{ post.categories | xml_escape }}",
         "topics": "{{ post.topics | xml_escape }}",
         "summary": {{ post.summary | jsonify }},
-        "cite": {{ post.cite | jsonify }}
+        "cite": {{ post.cite | jsonify }},
+        "pub_date": "{{ post.pub-date | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
