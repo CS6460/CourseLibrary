@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduction/tips-how-to-read-an-academic-publication/
+permalink: /introduction/tips-03-how-to-read-an-academic-publication/
 sidebar:
   nav: "side-nav"
 ---
