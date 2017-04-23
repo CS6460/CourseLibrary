@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduction/tips-09-exemplary-peer-reviews/
+permalink: /introduction/tips-10-exemplary-peer-reviews/
 sidebar:
   nav: "side-nav"
 ---
