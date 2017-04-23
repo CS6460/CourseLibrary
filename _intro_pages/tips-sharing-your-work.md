@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introductions/tips-sharing-your-work/
+permalink: /introduction/tips-sharing-your-work/
 sidebar:
   nav: "side-nav"
 ---
