@@ -8,7 +8,7 @@ categories: depends on the group.  Choose one or more categories.
 topics: introductory-resources-video, introductory-resources, scholarly-readings, biographies, ongoing-projects, in-the-media, interviews
 summary: >
     A short summary to appear in the search results or content link list. > uses browser line breaks. | uses line formatting provided in the section, as below Location: is indented 1 TAB.
-cite: |
+cite: >
     Author, A. (2015). Use APA Style. website.com.  August 28, 2015.
         Location: use link from browser if possible
 pub-date: 2015-08-28
