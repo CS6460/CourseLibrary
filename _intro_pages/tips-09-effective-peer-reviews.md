@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introduction/tips-10-effective-peer-reviews/
+permalink: /introduction/tips-09-effective-peer-reviews/
 sidebar:
   nav: "side-nav"
 ---
