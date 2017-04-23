@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "CITI Training"
-title-url: "tips-citi"
+title-url: "tips-02-citi"
 author: 
 groups: Introduction
 categories: tips-for-class
