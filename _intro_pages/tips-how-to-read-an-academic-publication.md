@@ -69,5 +69,3 @@ Of course, that's just my view. Reading academic publications is a topic on whic
 * ["How to Read a Paper"](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf), from Srinivasan Keshav, Professor of Computer Science at the University of Waterloo
 
 * ["How to Read a Technical Paper"](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html), from Jason Eisner, Professor of Computer Science at Johns Hopkins University
-
-{% include footer.html %}
