@@ -22,41 +22,6 @@
   description:
 
 ##Group specific
-#Tips for the Class
-- slug: research-two-tracks
-  pretty: "Two Tracks: Design and Researchs"
-  description:
-- slug: citi-training
-  pretty: "CITI Training"
-  description:
-- slug: how-to-read-an-academic-publication
-  pretty: "How to Read an Academic Publication"
-  description:
-- slug: finding-sources
-  pretty: "Finding Sources"
-  description:    
-- slug: class-library-contributions
-  pretty: "Class Library Contributions"
-  description:
-- slug: sharing-your-work-outside-the-class
-  pretty: "Sharing Your Work Outside the Class"
-  description:
-- slug: publication-formats
-  pretty: "Publication Formats"
-  description:
-- slug: publication-destinations
-  pretty: "Publication Destinations"
-  description:
-- slug: project-ideas
-  pretty: "Project Ideas"
-  description:
-- slug: exemplary-peer-reviews
-  pretty: "Exemplary Peer Reviews"
-  description:  
-- slug: how-to-give-and-receive-effective-feedback
-  pretty: "How to Give and Receive Effective Feedback"
-  description:
-
 #Intro to Educational Technology
 - slug: survey-of-edtech
   pretty: "Survey of EdTech"
