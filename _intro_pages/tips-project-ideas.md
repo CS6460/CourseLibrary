@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /introductions/project-ideas/
+permalink: /introduction/project-ideas/
 sidebar:
   nav: "side-nav"
 ---
