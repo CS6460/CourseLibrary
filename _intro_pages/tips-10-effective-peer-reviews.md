@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /introduction/tips-effective-peer-reviews/
+permalink: /introduction/tips-10-effective-peer-reviews/
 sidebar:
   nav: "side-nav"
 ---
 
-## Tips For The Class: How to Give and Receive Effective Peer Reviews
+## How to Give and Receive Effective Peer Reviews
 
 This class involves a lot of peer review assignments; it's crucial to understand how to
 give and receive effective peer reviews.
