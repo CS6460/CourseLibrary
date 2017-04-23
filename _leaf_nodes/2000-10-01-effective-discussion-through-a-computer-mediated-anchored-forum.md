@@ -1,8 +1,8 @@
 ---
 layout: leaf-node
-title: "a title inside quotes"
+title: "Effective Discussion through a Computer-Mediated Anchored Forum"
 title-url: ["https://www.jstor.org/stable/1466764?seq=1#page_scan_tab_contents","http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.667.866&rep=rep1&type=pdf"]
-author: ["Mark Guzdial","Jennifer Turns"]
+author: ["Mark Guzdial, Jennifer Turns"]
 groups: technologies
 categories: computer-supported-collaborative-work
 topics: scholarly-readings
