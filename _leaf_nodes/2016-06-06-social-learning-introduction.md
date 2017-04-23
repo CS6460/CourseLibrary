@@ -2,11 +2,10 @@
 layout: leaf-node
 title: "Introduction to Project Based Learning"
 title-url: "https://www.youtube.com/watch?v=2tKqSaopvt4"
-youtube-id: 2tKqSaopvt4
 author: David Joyner
 groups: pedagogical-styles
-categories: project-based-learning
-topics: intro-video
+categories: social-learning
+topics: introductory-resources-video
 summary: >
     David Joyner introduces Project Based Learning as part of Pedagogical Styles.
 cite: >
