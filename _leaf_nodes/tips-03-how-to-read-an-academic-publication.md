@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "How to Read an Academic Publication"
-title-url: "tips-how-to-read-an-academic-publication"
+title-url: "tips-03-how-to-read-an-academic-publication"
 author: 
 groups: Introduction
 categories: tips-for-class
