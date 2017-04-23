@@ -189,5 +189,3 @@ can be improving a tool specifically for another class in which you're involved,
 a live test audience for whatever you develop.
 
 ----
-
-{% include footer.html %}
