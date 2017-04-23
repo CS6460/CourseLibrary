@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Exemplary Peer Reviews"
-title-url: "tips-exemplary-peer-reviews"
+title-url: "tips-09-exemplary-peer-reviews"
 author: "David Joyner"
 groups: Introduction
 categories: tips-for-class
