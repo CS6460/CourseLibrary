@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=BzKgCgu4CUs"
 youtube-id: BzKgCgu4CUs
 author: "David Joyner"
 groups: broader-issues
-categories: business
+categories: the-business-of-edtech
 topics: interviews
 summary: >
     David Joyner interviews Jason Barros, Udacity Program Manager for the Georgia Tech team, about the business side of Educational Technology.
