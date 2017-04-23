@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=9hinEQktxKM"
 author: David Joyner
 groups: technologies
 categories: communities-of-practice
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Communities of Practice as part of Pedagogical Styles.
 cite: >

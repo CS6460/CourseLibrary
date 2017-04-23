@@ -6,7 +6,7 @@ youtube-id: QoID5_JZHFk
 author: "David Joyner"
 groups: Design-Based Research-principles-and-methodologies
 categories: Design-Based Research-basics
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Design-Based Research as part of Research Principles and Methodologies.
 cite: >

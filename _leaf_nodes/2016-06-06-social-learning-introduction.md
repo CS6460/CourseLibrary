@@ -6,7 +6,7 @@ youtube-id: 2tKqSaopvt4
 author: David Joyner
 groups: pedagogical-styles
 categories: social-learning
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Project Based Learning as part of Pedagogical Styles.
 cite: >

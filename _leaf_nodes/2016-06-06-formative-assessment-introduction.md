@@ -6,7 +6,7 @@ youtube-id: TL293hWKZHU
 author: David Joyner
 groups: pedagogical-styles
 categories: formative-assessment
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Formative Assessment as part of Pedagogical Styles.
 cite: >
