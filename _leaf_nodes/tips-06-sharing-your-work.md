@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Sharing Your Work Outside of Class"
-title-url: "tips-sharing-your-work"
+title-url: "tips-06-sharing-your-work"
 author: 
 groups: Introduction
 categories: tips-for-class
