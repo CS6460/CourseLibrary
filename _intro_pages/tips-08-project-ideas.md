@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /introduction/project-ideas/
+permalink: /introduction/tips-08-project-ideas/
 sidebar:
   nav: "side-nav"
 ---
-## Tips For The Class: Project Ideas
+## Project Ideas
 
 While brainstorming this class, we came up with a few sample ideas for possible projects.
 Note that you absolutely do _not_ need to choose a project from the list below,
