@@ -36,7 +36,7 @@
 ##category specific
 - slug: advanced-stats
   pretty: "Advanced Stats"
-  description:
+  description: "ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance? The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning.
 - slug: basic-stats-anova
   pretty: "Basic Stats: ANOVA"
   description:
@@ -87,7 +87,7 @@
   description: "The following are a few available online courses, textbooks, and other resources:"
 - slug: online-statistics-courses
   pretty: "Online Statistics Courses"
-  description:
+  description: "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts. Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
 - slug: plagiarism
   pretty: "Plagiarism"
   description:
