@@ -12,7 +12,7 @@ summary: >
     answers.
 cite: >
     Kim, J. (2015). (web log) Toward a Humanist Educational Technology?,
-    retreeved April 20, 2017 from: https://www.insidehighered.com/blogs/technology-and-learning/toward-humanist-educational-technology
+    Retrieved April 20, 2017 from: https://www.insidehighered.com/blogs/technology-and-learning/toward-humanist-educational-technology
 pub-date: 2015-08-19
 added-date: 2017-04-20
 resource-type: external-page

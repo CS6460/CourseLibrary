@@ -4,14 +4,13 @@ title: "Introduction to Project Based Learning"
 title-url: "https://www.youtube.com/watch?v=2tKqSaopvt4"
 youtube-id: 2tKqSaopvt4
 author: David Joyner
-groups: technologies
+groups: pedagogical-styles
 categories: project-based-learning
 topics: intro-video
 summary: >
     David Joyner introduces Project Based Learning as part of Pedagogical Styles.
-cite: |
-    Joyner, David. (2016). Pedagogical Styles: Project Based Learning Introductory Video.
-        Udacity.  June 6, 2016.
+cite: >
+    Joyner, D. & Udacity. (2016). Pedagogical Styles: Project Based Learning Introductory Video. Retrieved from https://www.youtube.com/watch?v=2tKqSaopvt4
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video
