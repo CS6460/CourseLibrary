@@ -18,8 +18,8 @@ other views from around the community.
 In my opinion, the important thing to recognize about academic publications
 is that they typically serve at least two primary functions: to make a
 contribution, and to justify that contribution. Papers will often be grounded
-around some claim, such as ["minimally guided instruction is likely to be ineffective"](http://dspace.library.uu.nl/bitstream/handle/1874/16899/kirschner_06_minimal_guidance.pdf)
-or ["engagement with a metacognitive tutoring system improves students' participation"](http://www.davidjoyner.net/blog/wp-content/uploads/2015/03/IUI2015_Camera-Ready.pdf).
+around some claim, such as ["minimally guided instruction is likely to be ineffective"](http://dspace.library.uu.nl/bitstream/handle/1874/16899/kirschner_06_minimal_guidance.pdf){:target="_blank"}
+or ["engagement with a metacognitive tutoring system improves students' participation"](http://www.davidjoyner.net/blog/wp-content/uploads/2015/03/IUI2015_Camera-Ready.pdf){:target="_blank"}.
 A significant portion of the paper will then be spent justifying that claim based on the
 analysis that has been conducted. Whether or not the claim is adequately justified is a
 key factor in whether the paper passes peer review and is ultimately published.
@@ -60,12 +60,12 @@ The goal of this process is to ensure the majority of your time is spent in usef
 Of course, that's just my view. Reading academic publications is a topic on which many people have written. Here are a few other views:
 
 
-* ["Efficient Reading of Papers in Science and Technology"](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf), from Michael J. Hanson and Dylan J. McNamee
+* ["Efficient Reading of Papers in Science and Technology"](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf){:target="_blank"}, from Michael J. Hanson and Dylan J. McNamee
 
-* ["How to Read a Research Paper"](http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt), from Spencer Rugaber, Professor of Computer Science at Georgia Tech, and the original instructor for our own Software Architecture &amp; Design Course
+* ["How to Read a Research Paper"](http://www.cc.gatech.edu/fac/Spencer.Rugaber/txt/research_paper.txt){:target="_blank"}, from Spencer Rugaber, Professor of Computer Science at Georgia Tech, and the original instructor for our own Software Architecture &amp; Design Course
 
-* ["How to read a research paper"](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf), from Prof. Michael Mitzenmacher, Professor of Computer Science at Harvard University
+* ["How to read a research paper"](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf){:target="_blank"}, from Prof. Michael Mitzenmacher, Professor of Computer Science at Harvard University
 
-* ["How to Read a Paper"](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf), from Srinivasan Keshav, Professor of Computer Science at the University of Waterloo
+* ["How to Read a Paper"](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf){:target="_blank"}, from Srinivasan Keshav, Professor of Computer Science at the University of Waterloo
 
-* ["How to Read a Technical Paper"](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html), from Jason Eisner, Professor of Computer Science at Johns Hopkins University
+* ["How to Read a Technical Paper"](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html){:target="_blank"}, from Jason Eisner, Professor of Computer Science at Johns Hopkins University
