@@ -13,8 +13,6 @@ summary: >
 
     How can you know which to choose? Let's look a little bit at the two types of projects.
 cite: |
-    Joyner, David. (2015). Tips for Class: CITI Training.
-        Udacity.  August 28, 2015.
 pub-date: 
 added-date: 2015-08-28
 resource-type: internal-page
