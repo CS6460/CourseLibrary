@@ -9,9 +9,8 @@ categories: constructionism
 topics: intro-video
 summary: >
     David Joyner introduces Constructionism as part of Pedagogical Styles.
-cite: |
-    Joyner, David. (2016). Pedagogical Styles: Constructionism Introductory Video.
-        Udacity.  June 6, 2016.
+cite: >
+    Joyner, D. & Udacity. (2016, June 6). Pedagogical Styles: Constructionism Introductory Video.  Retrieved from https://www.youtube.com/watch?v=-qsiqetMlCg
 pub-date: 2016-06-06
 added-date: 2016-06-06
 resource-type: video
