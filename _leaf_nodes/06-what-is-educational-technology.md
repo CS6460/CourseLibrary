@@ -3,7 +3,7 @@ layout: leaf-node
 title: "What is Educational Technology?"
 title-url: "https://www.youtube.com/watch?v=M9Bvrtknm_4"
 youtube-id: M9Bvrtknm_4
-author: David Joyner
+author: 
 groups: introduction
 categories: course-introduction
 topics: intro-video
@@ -12,7 +12,7 @@ summary: >
     might think.
 cite: >
     Joyner, D. & Udacity. (2016, June 6). What is Educational Technology? Retrieved from https://www.youtube.com/watch?v=M9Bvrtknm_4
-pub-date: 2016-06-06
+pub-date: 
 added-date: 2016-06-06
 resource-type: video
 ---
