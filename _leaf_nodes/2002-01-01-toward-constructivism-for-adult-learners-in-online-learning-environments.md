@@ -19,7 +19,7 @@ summary: >
     between  constructivism  and  adult  learning  theory.  In  addition,  the
     paper  proposes  instructional  guidelines  using  the  constructivist  approach
     in online learning for adults."
-cite: |
+cite: >
     Huang, H. M. (2002). Toward constructivism for adult learners in online learning environments. British Journal of Educational Technology, 33(1), 27-37.
 pub-date: 2002-01-01
 added-date: 2017-04-10

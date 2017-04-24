@@ -16,6 +16,7 @@ layout: default
 <style>
   table.resource-table {
   	border:none;
+  	table-layout: fixed;
   }
   table.resource-table tr {
   	border: none;
@@ -26,6 +27,11 @@ layout: default
   }
   .leaf-node {
   	padding: 1em;
+  }
+  .leaf-node p,
+  .leaf-node td {
+  	/*display: inline-block;*/
+  	word-wrap: break-word;
   }
   .leaf-node p.leaf-node-title {
   	margin-bottom: 0.5em;
