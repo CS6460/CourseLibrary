@@ -7,10 +7,14 @@ groups: research-principles-and-methodologies
 categories: design-based-research
 topics: introductory-resources
 summary: >
-    While there is an ongoing debate about what constitutes design-based research (Van den Akker & et al., in press), the definition of design-based research proposed by Wang and Hannafin (2005) captures its critical characteristics:Summaries of papers are at the linked page. Search for the author or paper title for additional information.
+    A PEER tutorial for Design-based Research (DBR) that addresses the following questions:
+        What is Design-based Research (DBR)?
+        How does DBR differ from other approaches?
+        How did DBR get started?
+        What are the benefits of DBR?
+        What are some critical perspective?
 cite: >
-    What is Design-based Research? University of Georgia
-    Retrieved from : http://dbr.coe.uga.edu/explain01.htm
+    What is Design-based Research? University of Georgia. Retrieved from : http://dbr.coe.uga.edu/explain01.htm
 pub-date: 2006
 added-date: 2017-04-24
 resource-type: external-page
