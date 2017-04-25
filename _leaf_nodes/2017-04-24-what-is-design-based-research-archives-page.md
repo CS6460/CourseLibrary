@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: “What is Design-based Research”
+title: “What is Design-based Research?”
 title-url: "http://dbr.coe.uga.edu/explain01.htm"
 author: 
 groups: research-principles-and-methodologies
