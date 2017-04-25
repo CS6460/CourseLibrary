@@ -1,3 +1,4 @@
+---
 layout: leaf-node
 title: "Design-Based Research"
 title-url: "http://www.cea-ace.ca/education-canada/article/design-based-research"
@@ -12,3 +13,4 @@ cite: >
 pub-date: 2014-11-00
 added-date: 2017-04-25
 resource-type: external-page
+---
