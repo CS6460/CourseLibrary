@@ -7,7 +7,7 @@ groups: research-principles-and-methodologies
 categories: design-based-research
 topics: introductory-resources
 summary: >
-    A PEER tutorial for Design-based Research (DBR) that addresses the following questions:
+    A PEER tutorial for Design-based Research (DBR) that addresses 5 main questions.
     What is Design-based Research (DBR)?
     How does DBR differ from other approaches?
     How did DBR get started?
