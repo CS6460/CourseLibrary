@@ -1,16 +1,30 @@
 ---
-layout: archive
+layout: default
 ---
+<style>
+  header.sticky-header {
+  	background-color: #fff;
+  	padding-top: 1.2em;
+  }
+</style>
+<div id="main" role="main">
+  {% include sidebar.html %}
 
-<h3 class="archive__subtitle">Welcome to the Educational Technology library!</h3>
-<p>This library is primarily assembled as an archive of resources for the Georgia Tech OMSCS CS6460 class by the same name.</p>
-<p>You'll find several pages with publications, media articles, original interviews, and other resources on a number of different topics in Educational Technology.</p>
-<p>Use the options in the top header to find more information regarding GT 6460.</p>
-<p>Use the menu on the left to browse through the library content and resources.</p>
-<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Welcome to the Educational Technology library!">
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header class="sticky-header">
+          <h1 class="page__title" itemprop="headline">Welcome to the Educational Technology library!</h1>
+          <p>This library is primarily assembled as an archive of resources for the Georgia Tech OMSCS CS6460 class by the same name.</p>
+		  <p>You'll find several pages with publications, media articles, original interviews, and other resources on a number of different topics in Educational Technology.</p>
+		  <p>Use the options in the top header to find more information regarding CS 6460.</p>
+		  <p>Use the menu on the left to browse through the library content and resources.</p>
+        </header>
+      {% endunless %}
 
-{% include paginator.html %}
+    </div>
+  </article>
+
+</div>

@@ -1,40 +1,13 @@
 {% assign leaf_node = include.leaf_node %}
 <tr>
-  <!-- <td style="text-align: center;">
-    {% if leaf_node.resource-type == "external-page" %}
-    <i class="fa fa-external-link res-icon">
-    {% endif %}
-    {% if leaf_node.resource-type == "internal-page" %}
-    <i class="fa fa-link res-icon">
-    {% endif %}
-    {% if leaf_node.resource-type == "interview-mp3" %}
-    <i class="fa fa-microphone res-icon">
-    {% endif %}
-    {% if leaf_node.resource-type == "pdf-document" %}
-    <i class="fa fa-file-text-o res-icon">
-    {% endif %}
-    {% if leaf_node.resource-type == "video-course" or leaf_node.resource-type == "video" %}
-    <i class="fa fa-film res-icon">
-    {% endif %}
-  </td> -->
   <td>
     <div class="leaf-node">
-      {% if leaf_node.youtube-id %}
-      {% include youtube-player.html id=leaf_node.youtube-id %}<br>
-      {% endif %}
+      {% if leaf_node.youtube-id %}{% include youtube-player.html id=leaf_node.youtube-id %}<br>{% endif %}
       <p class="leaf-node-title"><a href="{{leaf_node.title-url}}" target="_blank">{{ leaf_node.title }}{% if leaf_node.youtube-id %} (watch on YouTube){% endif %}</a></p>
-      <p class="leaf-node-byline">
-        {% if leaf_node.author != "n.a." %}
-        {% for a in leaf_node.author%}
-        {% unless forloop.first %}, {% endunless %}{{ a | strip }}
-        {% endfor %}
-        {% endif %}
-      </p>
-      <p class="leaf-node-byline">
-        {% if leaf_node.pub-date %}{{ leaf_node.pub-date | date: "%b %e, %Y" }}{% endif %}
-      </p>
-      <p class="leaf-node-summary">{{ leaf_node.summary }}</p>
-      <p class="leaf-node-cite">{{ leaf_node.cite }}</p>
+      {% if leaf_node.author and leaf_node.author != "n.a." %}<p class="leaf-node-byline">{% for a in leaf_node.author%}{% unless forloop.first %}, {% endunless %}{{ a | strip }}{% endfor %}</p>{% endif %}
+      {% if leaf_node.pub-date %}<p class="leaf-node-byline">{{ leaf_node.pub-date | date: "%b %e, %Y" }}</p>{% endif %}
+      {% if leaf_node.summary %}<p class="leaf-node-summary">{{ leaf_node.summary }}</p>{% endif %}
+      {% if leaf_node.cite %}<p class="leaf-node-cite">{{ leaf_node.cite }}</p>{% endif %}
     </div>
   </td>
 </tr>
