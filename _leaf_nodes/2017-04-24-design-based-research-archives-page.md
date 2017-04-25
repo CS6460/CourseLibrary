@@ -1,17 +1,16 @@
 ---
 layout: leaf-node
-title: “Design-based research”
+title: “Design-based Research”
 title-url: "http://edutechwiki.unige.ch/en/Design-based_research"
-author: 
+author: ""
 groups: research-principles-and-methodologies
 categories: design-based-research
 topics: introductory-resources
 summary: >
-    Edutech wiki. Summaries of papers are at the linked page. Search for the author or paper title for additional information.
-cite: >
-    Design-based Research.edutechwiki
-    Retrieved from : http://edutechwiki.unige.ch/en/Design-based_research
+    Edutech wiki page for Design Based Research.
+cite: |
+    Design-based Research. edutech Wiki. Retrieved from http://edutechwiki.unige.ch/en/Design-based_research
 pub-date: 2016-06-09
-added-date: 2017-04-24
+added-date: 2017-04-10
 resource-type: external-page
 ---
