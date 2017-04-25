@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "High Tech High"
-title-url: ""
+title-url: "http://www.hightechhigh.org"
 author: "n.a."
 groups: pedagogical-styles
 categories: project-based-learning
