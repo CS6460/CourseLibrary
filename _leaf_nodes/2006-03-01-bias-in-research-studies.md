@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Bias in Research Studies"
-title-url: ""
+title-url: "http://pubs.rsna.org/doi/full/10.1148/radiol.2383041109"
 author: [ "Gregory T. Sica" ]
 groups: research-principles-and-methodologies
 categories: [ "research-basics" ]
