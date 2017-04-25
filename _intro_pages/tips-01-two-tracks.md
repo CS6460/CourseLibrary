@@ -24,7 +24,7 @@ If you choose to do a design project, your ultimate deliverable will be a tool y
 
 ### Research Projects
 
-In a research project, you're typically trying to investigate a phenomenon that already exists. The goal is to gain greater understanding of the nature of the phenomenon and why it exists. Research is often thought of more in the context of the natural sciences, but [research in EdTech is a massive field as well](https://www.edsurge.com/n/2015-06-03-edtech-conferences-you-need-to-know). Some general topics for research would include how certain tools actually change the learning process, how schools with technology differ from schools without, how different audiences receive and view educational technology differently, etc.
+In a research project, you're typically trying to investigate a phenomenon that already exists. The goal is to gain greater understanding of the nature of the phenomenon and why it exists. Research is often thought of more in the context of the natural sciences, but [research in EdTech is a massive field as well](https://www.edsurge.com/n/2015-06-03-edtech-conferences-you-need-to-know){:target="_blank"}. Some general topics for research would include how certain tools actually change the learning process, how schools with technology differ from schools without, how different audiences receive and view educational technology differently, etc.
 
 If you choose to do a research project, you'll want to:
 

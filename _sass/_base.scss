@@ -6,12 +6,15 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: #eee;
 }
 
 body {
   margin: 0;
+  margin-bottom: 120px!important;
   padding: 0;
   color: $text-color;
+  background-color: #eee;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -26,6 +29,8 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  color: #00254C;
+  /*padding: 0.4em;*/
 }
 
 h1 {

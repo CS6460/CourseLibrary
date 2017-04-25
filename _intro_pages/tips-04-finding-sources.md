@@ -23,7 +23,7 @@ Finding sources can be difficult, however. Here are some tips we've picked up ov
 
 ##  Tip #1: Use Google Scholar
 
-If you're not familiar with [Google Scholar](http://scholar.google.com/) already,
+If you're not familiar with [Google Scholar](http://scholar.google.com/){:target="_blank"} already,
 you're going to fall in love with it very quickly. Google Scholar is Google's
 search engine for academic publications (as well as patents and some other formal
 information). It gives you the ability to filter by dates, and generally has a
@@ -31,9 +31,9 @@ pretty good keyword search. It may not find you exactly the article you want,
 but it will usually find you one that will help you get started with the next couple tips.
 
 Note also that you can use Google Scholar to search for specific authors as well
-using the [author search tool](https://scholar.google.com/citations?view_op=search_authors).
-For example, [here](https://scholar.google.com/citations?mauthors=David+Joyner&amp;hl=en&amp;view_op=search_authors)
-are the search results for my name, and [here](https://scholar.google.com/citations?user=yaCigtkAAAAJ&amp;hl=en)
+using the [author search tool](https://scholar.google.com/citations?view_op=search_authors){:target="_blank"}.
+For example, [here](https://scholar.google.com/citations?mauthors=David+Joyner&amp;hl=en&amp;view_op=search_authors){:target="_blank"}
+are the search results for my name, and [here](https://scholar.google.com/citations?user=yaCigtkAAAAJ&amp;hl=en){:target="_blank"}
 is my author page on Google Scholar.
 
 ##  Tip #2: Follow the Reference List
@@ -67,7 +67,7 @@ publication history to find when they may have originally made that claim.
 Oftentimes when you're searching on Google Scholar, you'll come across many
 articles which you cannot directly access. Sometimes the abstract gives you
 all you need to know, but other times you want to see the rest of the article.
-In these cases, the [Georgia Tech Library](http://www.library.gatech.edu/)
+In these cases, the [Georgia Tech Library](http://www.library.gatech.edu/){:target="_blank"}
 will often have a subscription to that journal, allowing you free access to
 the article so long as you're logged in through the library. See the library
 web site for more information.

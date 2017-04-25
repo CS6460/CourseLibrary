@@ -16,16 +16,22 @@ layout: default
 <style>
   table.resource-table {
   	border:none;
+  	table-layout: fixed;
   }
   table.resource-table tr {
   	border: none;
-  	border-top: 2px solid #bbb;
+  	border-top: 2px solid #ddd;
   }
   table.resource-table td {
   	border:none;
   }
   .leaf-node {
   	padding: 1em;
+  }
+  .leaf-node p,
+  .leaf-node td {
+  	/*display: inline-block;*/
+  	word-wrap: break-word;
   }
   .leaf-node p.leaf-node-title {
   	margin-bottom: 0.5em;
@@ -39,13 +45,13 @@ layout: default
   	font-size: 1em;
   }
   .leaf-node p.leaf-node-summary {
-  	color: #777;
+  	color: #262626;
   	margin-bottom: 0.4em;
   	font-size: 1em;
   }
   .leaf-node p.leaf-node-cite {
   	font-size: 0.8em;
-  	background-color: #ddd;
+  	background-color: #eee;
   	border-radius: 8px;
   	padding: 10px;
   	margin-bottom: 0em;
@@ -68,6 +74,11 @@ layout: default
   .anchor {
   	padding-top: 6.5em;
   	margin-top: -6.5em;
+  	display: inline-block;
+  }
+  .topic-descr {
+  	font-size: 0.7em;
+  	color: #545454;
   }
 </style>
 <div id="main" role="main">
@@ -119,12 +130,21 @@ layout: default
       <br>
       <b>Sorry, there don't seem to be any resources here yet!</b>
       <br>
-      <p> If you have one, please add it using the <a href="{{ site.baseurl }}/contribute">Add a Resource page</a>.</p>
+      <p> If you have one, please add it using the <a href="{{ site.baseurl }}/contribute?refpage={{page.url}}">Add a Resource page</a>.</p>
       {% endif %}
       {% for topic in topic_array %}
         {% for _topic in site.data.topics %}
           {% if _topic.slug == topic %}
         <h3 class="anchor" id="{{ _topic.slug }}">{{ _topic.pretty }}</h3>
+        {% if _topic.description %}
+        <span class="toggle">
+          <input type="checkbox" value="selected" class="toggle-input" id="{{ _topic.slug }}-info">
+          <label style="display:inline-block" for="{{ _topic.slug }}-info" class="toggle-label"><i class="fa fa-info-circle"></i></label>
+	      <div class="toggle-content topic-descr">
+	        <p>{{ _topic.description }}</p>
+	      </div>
+        </span>
+        {% endif %}
         <table class="resource-table">
           <tbody>
       	  {% for leaf_node in site.leaf_nodes %}

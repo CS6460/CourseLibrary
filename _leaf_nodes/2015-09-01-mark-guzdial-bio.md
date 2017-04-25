@@ -3,7 +3,7 @@ layout: leaf-node
 title: "Mark Guzdial"
 title-url: "https://scholar.google.com/citations?user=iQV2L2IAAAAJ&hl=en"
 author: "Google Scholar"
-groups:[] broader-issues, pedagogical-styles]
+groups: [broader-issues, pedagogical-styles]
 categories: [computer-science-education, project-based-learning]
 topics: biographies
 summary: |

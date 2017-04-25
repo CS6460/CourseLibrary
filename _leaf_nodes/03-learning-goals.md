@@ -3,7 +3,7 @@ layout: leaf-node
 title: "Learning Goals"
 title-url: "https://www.youtube.com/watch?v=yAxck_1RYCo"
 youtube-id: yAxck_1RYCo
-author: David Joyner
+author: 
 groups: introduction
 categories: course-introduction
 topics: intro-video
@@ -13,7 +13,7 @@ summary: >
     technology community.
 cite: >
     Joyner, D. & Udacity. (2016, June 6). Learning Goals. Retrieved from https://www.youtube.com/watch?v=yAxck_1RYCo
-pub-date: 2016-06-06
+pub-date: 
 added-date: 2016-06-06
 resource-type: video
 ---

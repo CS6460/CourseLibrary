@@ -15,14 +15,14 @@ give and receive effective peer reviews.
 Significant work has been done on peer review to figure out what's most effective.
 Below are some resources to get you started:
 
-* [Peer review: how to get it right – 10 tips][1],
+* [Peer review: how to get it right – 10 tips][1]{:target="_blank"},
 a good rundown of peer review in science from the Guardian, with lots of applicable advice to us.
-* [Giving Constructive Feedback][2], a guide from Cabrillo College.
-* [Giving and Receiving Feedback: A Guide to the Use of Peers in Self-Assessment][3], a guide
+* [Giving Constructive Feedback][2]{:target="_blank"}, a guide from Cabrillo College.
+* [Giving and Receiving Feedback: A Guide to the Use of Peers in Self-Assessment][3]{:target="_blank"}, a guide
 from the University of Technology Sydney.
-* [How to Give Effective Feedback, Both Positive and Negative][4], from the New York Times,
+* [How to Give Effective Feedback, Both Positive and Negative][4]{:target="_blank"}, from the New York Times,
 focused on workplace feedback but still pertinent to us.
-* [Giving Constructive Feedback for Dummies][5], because there's a 'for dummies' for
+* [Giving Constructive Feedback for Dummies][5]{:target="_blank"}, because there's a 'for dummies' for
 everything nowadays!
 
 

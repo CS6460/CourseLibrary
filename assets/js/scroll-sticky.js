@@ -10,6 +10,19 @@ if ($sidebar.length > 0) {
 
     var initialSidebarTop = $sidebar.position().top;
 
+    var initialScrollBarWidth = $sidebar.width();
+    $sidebar.width(initialScrollBarWidth);
+
+    $window.resize(function(event) {
+    	console.log($sidebar.width());
+    	$sidebar.width('auto');
+
+    	console.log($sidebar.width());
+    	initialScrollBarWidth = $sidebar.width();
+    	$sidebar.width(initialScrollBarWidth);
+    	console.log($sidebar.width());
+    });
+
     $window.scroll(function(event) {
 
         var windowHeight = $window.height();
@@ -28,9 +41,9 @@ if ($sidebar.length > 0) {
         var isWindowLarger = (windowHeight > sidebarHeight);
 
         if ((isWindowLarger && scrollTop > (initialSidebarTop - stickyPadding)) || (!isWindowLarger && scrollTop > initialSidebarTop + heightDelta)) {
-            $sidebar.addClass('sticky');
+            $sidebar.addClass('sticky-scroll');
         } else if (!isScrollingDown && scrollTop <= (initialSidebarTop - stickyPadding)) {
-            $sidebar.removeClass('sticky');
+            $sidebar.removeClass('sticky-scroll');
         }
 
         var dragBottomDown = (sidebarBottom <= scrollBottom && isScrollingDown);

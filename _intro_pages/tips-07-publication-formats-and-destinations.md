@@ -17,7 +17,7 @@ technical reports, conference papers, and journal articles.
 Anyone can submit anything for publication here. Publications here are not peer-reviewed;
 thus, this is mostly simply for information dissemination. Technical reports can
 be of any length and any format. Any papers can be submitted using
-[this form](http://d7.library.gatech.edu/scdc/SMARTech_submission),
+[this form](http://d7.library.gatech.edu/scdc/SMARTech_submission){:target="_blank"},
 and we highly recommend doing so!
 * __Conference papers__ are publications submitted to a conference. Submissions go
 through a peer review process and are either accepted or rejected. If accepted, the
@@ -70,34 +70,34 @@ where publishing is an option.
 
 | __Conference Name__| __Format__ | __Lengths__ | __Next Date__ | __Next Location__ | __Next Submission Deadline__ | Web Site |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Computer-Human Interaction (CHI) | [ACM CHI](https://chi2016.acm.org/wp/guide-to-submission-formats/) | 10 pages (paper); 4 pages (note) | May 7-12, 2016 | San Jose, CA, USA | September 25, 2015 | [Link](http://chi2016.acm.org/wp/) |
+| Computer-Human Interaction (CHI) | [ACM CHI](https://chi2016.acm.org/wp/guide-to-submission-formats/){:target="_blank"} | 10 pages (paper); 4 pages (note) | May 7-12, 2016 | San Jose, CA, USA | September 25, 2015 | [Link](http://chi2016.acm.org/wp/) |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Learning @ Scale | [ACM CHI](https://chi2016.acm.org/wp/guide-to-submission-formats/) | 10 pages (paper); 4 pages (work-in-progress) | TBD 2017 | Boston, Massachusetts | ?? | [Link](http://learningatscale.acm.org/las2016/) |
+| Learning @ Scale | [ACM CHI](https://chi2016.acm.org/wp/guide-to-submission-formats/) | 10 pages (paper); 4 pages (work-in-progress) | TBD 2017 | Boston, Massachusetts | ?? | [Link](http://learningatscale.acm.org/las2016/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Learning Analytics &amp; Knowledge Conference | [ACM CHI](https://chi2016.acm.org/wp/guide-to-submission-formats/) | 10 pages (paper); 5 pages (short paper); 2 pages (poster paper) | TBD 2017 | TBD | TBD | [Link](http://lak16.solaresearch.org/) |
+| Learning Analytics &amp; Knowledge Conference | [ACM CHI](https://chi2016.acm.org/wp/guide-to-submission-formats/){:target="_blank"} | 10 pages (paper); 5 pages (short paper); 2 pages (poster paper) | TBD 2017 | TBD | TBD | [Link](http://lak16.solaresearch.org/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| AI in Education | [Springer](ftp://ftp.springer.de/pub/tex/latex/llncs/word/splnproc1110.zip) | 10 pages (full paper); 4 pages (poster paper) | TBD 2017 | Philipines | TBD | [Link](http://iaied.org/conf/1/) |
+| AI in Education | [Springer](ftp://ftp.springer.de/pub/tex/latex/llncs/word/splnproc1110.zip){:target="_blank"} | 10 pages (full paper); 4 pages (poster paper) | TBD 2017 | Philipines | TBD | [Link](http://iaied.org/conf/1/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Intelligent Tutoring Systems | [Springer](ftp://ftp.springer.de/pub/tex/latex/llncs/word/splnproc1110.zip) | 10 pages (full paper); 3 pages (young researchers track) | June 6-10, 2016 | Zagreb, Croatia | January 27, 2016 | [Link](http://its2016.its-conferences.com/) |
+| Intelligent Tutoring Systems | [Springer](ftp://ftp.springer.de/pub/tex/latex/llncs/word/splnproc1110.zip){:target="_blank"} | 10 pages (full paper); 3 pages (young researchers track) | June 6-10, 2016 | Zagreb, Croatia | January 27, 2016 | [Link](http://its2016.its-conferences.com/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| International Conference of the Learning Sciences | [ISLS](http://isls.org/cscl2015/resources/ISLS_Conference_Submission-Template_Oct2014.docx.zip) | 8 pages (full); 4 pages (short); 2 pages (poster paper) | June 20-24, 2016 | Singapore | November 20, 2015 | [Link](https://www.isls.org/icls/2016/) |
+| International Conference of the Learning Sciences | [ISLS](http://isls.org/cscl2015/resources/ISLS_Conference_Submission-Template_Oct2014.docx.zip){:target="_blank"} | 8 pages (full); 4 pages (short); 2 pages (poster paper) | June 20-24, 2016 | Singapore | November 20, 2015 | [Link](https://www.isls.org/icls/2016/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Computer Supported Collaborative Learning | [ISLS](http://isls.org/cscl2015/resources/ISLS_Conference_Submission-Template_Oct2014.docx.zip) | 8 pages (full paper); 4 pages (short paper) | TBD 2017 | Philadelpha, PA, USA | TBD | [Link](http://www.isls.org/cscl2015/) |
+| Computer Supported Collaborative Learning | [ISLS](http://isls.org/cscl2015/resources/ISLS_Conference_Submission-Template_Oct2014.docx.zip){:target="_blank"} | 8 pages (full paper); 4 pages (short paper) | TBD 2017 | Philadelpha, PA, USA | TBD | [Link](http://www.isls.org/cscl2015/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Cognitive Science | [CogSci](http://cognitivesciencesociety.org/conference2015/submissions.html) | 6 pages (paper) | August 10-13, 2016 | Philadelphia, PA, USA | TBD | [Link](http://cognitivesciencesociety.org/conference2016/index.html) |
+| Cognitive Science | [CogSci](http://cognitivesciencesociety.org/conference2015/submissions.html){:target="_blank"} | 6 pages (paper) | August 10-13, 2016 | Philadelphia, PA, USA | TBD | [Link](http://cognitivesciencesociety.org/conference2016/index.html){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Computational Creativity | [AAAI](http://www.aaai.org/Publications/Author/author.php) | 8 pages (paper) | June 27-July 1, 2016 | Paris, France | February 27, 2016 | [Link](http://www.computationalcreativity.net/iccc2016/) |
+| Computational Creativity | [AAAI](http://www.aaai.org/Publications/Author/author.php){:target="_blank"} | 8 pages (paper) | June 27-July 1, 2016 | Paris, France | February 27, 2016 | [Link](http://www.computationalcreativity.net/iccc2016/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Virtual Worlds and Games for Serious Applications | [IEEE](http://www.ieee.org/conferences_events/conferences/publishing/templates.html) | 8 pages (paper); 4 pages (short paper); 2 pages (poster paper) | September 7-9, 2016 | Barcelona, Spain | March 25, 2016 | [Link](http://vsgames2016.com/) |
+| Virtual Worlds and Games for Serious Applications | [IEEE](http://www.ieee.org/conferences_events/conferences/publishing/templates.html){:target="_blank"} | 8 pages (paper); 4 pages (short paper); 2 pages (poster paper) | September 7-9, 2016 | Barcelona, Spain | March 25, 2016 | [Link](http://vsgames2016.com/) |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Mobile Learning | [IADIS](http://mlearning-conf.org/submissions/) | 10 pages (paper); 4 pages (short paper); 2 pages (poster paper) | TBD 2017 | TBD | TBD | [Link](http://mlearning-conf.org/) |
+| Mobile Learning | [IADIS](http://mlearning-conf.org/submissions/){:target="_blank"} | 10 pages (paper); 4 pages (short paper); 2 pages (poster paper) | TBD 2017 | TBD | TBD | [Link](http://mlearning-conf.org/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| SICSE (Computer Science Education) | [SIGCSE](http://www.sheridanprinting.com/typedept/sigcse.htm) | 6 pages (paper) | March 2-5, 2016 | Memphis, Tennessee, USA | August 28, 2015 | [Link](http://sigcse2016.sigcse.org/) |
+| SICSE (Computer Science Education) | [SIGCSE](http://www.sheridanprinting.com/typedept/sigcse.htm){:target="_blank"} | 6 pages (paper) | March 2-5, 2016 | Memphis, Tennessee, USA | August 28, 2015 | [Link](http://sigcse2016.sigcse.org/){:target="_blank"} |
 | ------------------ | ---------- | ----------- | ------------- | ----------------- | ---------------------------- | -------- |
-| Intelligent User Interfaces | [SIGCHI](http://www.sigchi.org/publications/chipubform/) | 10 pages (paper); 4 pages (short paper) | March 13-16, 2017 | Limassol, Cyprus | October 9, 2016 | [Link](http://iui.acm.org/2017) |
+| Intelligent User Interfaces | [SIGCHI](http://www.sigchi.org/publications/chipubform/){:target="_blank"} | 10 pages (paper); 4 pages (short paper) | March 13-16, 2017 | Limassol, Cyprus | October 9, 2016 | [Link](http://iui.acm.org/2017){:target="_blank"} |
 
 A more complete list of conferences can be found
-[here](http://www.wikicfp.com/cfp/call?conference=education); note that if
+[here](http://www.wikicfp.com/cfp/call?conference=education){:target="_blank"}; note that if
 your conference is not listed above, it is a good idea to check with your
 mentor to learn the conference's notoriety.
 

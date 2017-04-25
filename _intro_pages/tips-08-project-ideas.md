@@ -64,7 +64,7 @@ from graders? Does access to peer review change the grades that graders ultimate
 give to students?
 
 __The Harvard Business School (HBS) Case Method:__ The
-[Harvard Business School Case Method](http://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx)
+[Harvard Business School Case Method](http://www.hbs.edu/mba/academic-experience/Pages/the-hbs-case-method.aspx){:target="_blank"}
 is a way of approaching business courses to engage students. Though it was
 developed at HBS other institutions leverage the methodology for teaching
 their students.&nbsp; Because much of the method revolves around synchronous

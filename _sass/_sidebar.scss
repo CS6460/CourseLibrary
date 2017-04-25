@@ -11,13 +11,17 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-bottom: 0em;
+
+  margin-top: 2em;
 
   @include breakpoint($large) {
     @include span(3 of 12);
-    opacity: 0.75;
-    -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    /*@include suffix(0.3 of 12);*/
+    opacity: 1;
+    color: #545454;
+    /*-webkit-transition: opacity 0.2s ease-in-out;
+            transition: opacity 0.2s ease-in-out;*/
 
     /*&:hover {
       opacity: 1;
@@ -41,7 +45,7 @@
   }
 
   li a:hover {
-  	color: black;
+  	color: #262626;
   }
 
   img {
