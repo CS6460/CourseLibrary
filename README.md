@@ -32,4 +32,18 @@ Let people know how they can dive into the project, include important links to t
 A short snippet describing the license (MIT, Apache, etc.)
 
 
+### Goal of the library
+
+### Technical framework of the libary (GitHub pages, Jekyll, Markdown, etc)
+
+### Overall structure of the library
+
+### Procedure for maintaining library
+
+#### Adding new items
+
+#### Editing items
+
+
+
 http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
