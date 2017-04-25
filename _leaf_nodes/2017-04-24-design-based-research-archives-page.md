@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: “Design-based Research”
+title: Design-based Research
 title-url: "http://edutechwiki.unige.ch/en/Design-based_research"
 author: ""
 groups: research-principles-and-methodologies
