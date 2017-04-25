@@ -1,3 +1,4 @@
+---
 layout: leaf-node
 title: "Graduate Student Resource Hub in Design Research in Education"
 title-url: "http://www.lkl.ac.uk/projects/designresearch/"
@@ -6,9 +7,9 @@ group: research-principles-and-methodologies
 categories: design-based-research
 topics: introductory-resources
 summary: >
-    "...."
 cite: >
    "http://www.lkl.ac.uk/projects/designresearch/"
 pub-date: N/A
 added-date: 2017-04-25
 resource-type: external-page
+---
