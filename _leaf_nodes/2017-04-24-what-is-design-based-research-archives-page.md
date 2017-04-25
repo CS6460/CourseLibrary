@@ -15,7 +15,7 @@ summary: >
     What are some critical perspective?
 cite: >
     What is Design-based Research? University of Georgia. Retrieved from : http://dbr.coe.uga.edu/explain01.htm
-pub-date: 2006
+pub-date: 2006-01-01
 added-date: 2017-04-24
 resource-type: external-page
 ---
