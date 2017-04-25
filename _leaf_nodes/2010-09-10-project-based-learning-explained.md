@@ -3,7 +3,7 @@ layout: leaf-node
 title: "Project Based Learning: Explained"
 title-url: "https://www.youtube.com/watch?v=LMCZvGesRz8"
 youtube-id: LMCZvGesRz8
-author: "David Joyner"
+author: "Buck Institute for Learning"
 groups: pedagogical-style
 categories: project-based-learning
 topics: introductory-resources
