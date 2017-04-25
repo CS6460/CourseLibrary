@@ -1,0 +1,14 @@
+layout: leaf-node
+title: "Design-Based Research"
+title-url: "http://www.cea-ace.ca/education-canada/article/design-based-research"
+author: "Michelle Jacobsen"
+group: research-principles-and-methodologies
+categories: design-based-research
+topics: introductory-resources
+summary: >
+    "Design-Based Reserch funded by University of Calgary. Please search for author for direct path to article "
+cite: >
+   "http://www.cea-ace.ca/education-canada/article/design-based-research. Michelle Jacobsen.University of Calgary"
+pub-date: 2014-11-00
+added-date: 2017-04-25
+resource-type: external-page
