@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: “What is Design-based research (DBR)?”
+title: What is Design-based research (DBR)?
 title-url: "http://dbr.coe.uga.edu/FAQ.html"
 author: “Webliography Group”
 groups: research-principles-and-methodologies
