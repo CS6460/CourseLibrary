@@ -75,7 +75,11 @@
   description:
 - slug: irb-procedures
   pretty: "IRB Procedures"
-  description: "test"
+  description: >
+      "If your work qualifies as human subjects research, then you'll need IRB approval to conduct your work. Your work generally qualifies as human subjects research if:
+      1 - It involves human subjects. This includes data on human subjects that is already generated, such as OMS student data.
+      2 - It is research. According to the Federal Policy for the Protection of Human Subjects, research is 'a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge.' Thus, if your intent is not to contribute to generalizable knowledge (for example, if your intent is instead to simply improve your tool), this does not qualify as research. Note that if you have any intention of publishing your work in academic conferences or journals, then it does qualify as research.
+      Here are some resources on understanding what IRB is, whether you need to work with them, and how to go about doing so. If you think you need IRB approval, please make sure to consult with your mentor and the teaching team."
 - slug: learner-motivation
   pretty: "Learner Motivation"
   description:
