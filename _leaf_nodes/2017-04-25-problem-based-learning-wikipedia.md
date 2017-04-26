@@ -4,7 +4,7 @@ title: "Problem-Based Learning"
 title-url: "https://en.wikipedia.org/wiki/Problem-based_learning"
 author: "Various"
 groups: technologies
-categories: intelligent-tutoring-systems
+categories: problem-based-learning
 topics: introductory-resources
 summary: >
     Wikipedia is an open encyclopedia. This link is for the entry for Problem-Based Learning.
