@@ -1,7 +1,7 @@
 ---
 layout: leaf-node
 title: "Problem-Based Learning"
-title-url: "https://en.wikipedia.org/wiki/Intelligent_tutoring_system"
+title-url: "https://en.wikipedia.org/wiki/Problem-based_learning"
 author: "Various"
 groups: technologies
 categories: intelligent-tutoring-systems
