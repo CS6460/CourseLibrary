@@ -10,20 +10,39 @@ layout:
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
-        // appendString += '<li><a href="' + item['title-url'] + '"><h3>' + item.title + '</h3></a>';
-        // appendString += '<p>' + item.summary + '</p></li>';
-        // appendString += '<tr><td style="text-align: center;"><i class="fa fa-file-text-o res-icon"></td>';
+        var hasVideo = false;
 		appendString += '<tr><td><div class="leaf-node">';
+		if (item['youtube-id'] && item['youtube-id'].trim().length > 0) {
+			hasVideo = true;
+			appendString += '<iframe width="560" height="315" src="https://www.youtube.com/embed/' + item['youtube-id'] + '" frameborder="0" allowfullscreen></iframe><br>';
+		}
 		appendString += '<p class="leaf-node-title"><a href="' + item['title-url'] + '" target="_blank">';
-		appendString += item.title + '</a></p><p class="leaf-node-byline">';
-		item.author = item.author.replace("[", "");
-		item.author = item.author.replace("]", "");
-		item.author = item.author.replace("\"", "");
-		item.author = item.author.replace("&quot;", "");
-		appendString += item.author + '</p><p class="leaf-node-byline">';
-		appendString += printShortDate(item.pub_date) + '</p><p class="leaf-node-summary">';
-		appendString += item.summary + '</p><p class="leaf-node-cite">';
-		appendString += item.cite + '</p></div></td></tr>';
+		appendString += item.title;
+		if (hasVideo) {
+			appendString += ' (watch on YouTube)';
+		}
+		appendString += '</a></p>';
+		if (item.author && item.author.trim().length > 0) {
+			appendString += '<p class="leaf-node-byline">';
+			item.author = item.author.replace("[", "");
+			item.author = item.author.replace("]", "");
+			item.author = item.author.replace("\"", "");
+			item.author = item.author.replace("&quot;", "");
+			appendString += item.author + '</p>';
+		}
+		if (item.pub_date && item.pub_date.trim().length > 0) {
+			appendString += '<p class="leaf-node-byline">';
+			appendString += printShortDate(item.pub_date) + '</p>';
+		}
+		if (item.summary && item.summary.trim().length > 0) {
+			appendString += '<p class="leaf-node-summary">';
+			appendString += item.summary + '</p>';
+		}
+		if (item.cite && item.cite.trim().length > 0) {
+			appendString += '<p class="leaf-node-cite">';
+			appendString += item.cite + '</p>';
+		}
+		appendString += '</div></td></tr>';
       }
 
       searchResults.innerHTML = appendString;

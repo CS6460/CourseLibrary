@@ -1,0 +1,16 @@
+---
+layout: archive
+---
+
+<h3 class="archive__subtitle">Welcome to the Educational Technology library!</h3>
+<p>This library is primarily assembled as an archive of resources for the Georgia Tech OMSCS CS6460 class by the same name.</p>
+<p>You'll find several pages with publications, media articles, original interviews, and other resources on a number of different topics in Educational Technology.</p>
+<p>Use the options in the top header to find more information regarding GT 6460.</p>
+<p>Use the menu on the left to browse through the library content and resources.</p>
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

@@ -61,6 +61,7 @@
   @include clearfix();
   margin-top: 1em;
   padding-top: 1em;
+  margin-bottom: 2em;
 
   ul {
     margin: 0;
@@ -179,17 +180,18 @@
   display: flex;
   -webkit-box-align: center;
         align-items: center;
-  background: $background-color;
+  background: #262626;/*$background-color;*/
+  color: #eeb211;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #eeb211;/*$masthead-link-color;*/
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #eeb211;/*$masthead-link-color-hover;*/
     }
 
     &.site-title {
@@ -202,8 +204,8 @@
     align-self: stretch;
     border: 0;
     outline: none;
-    color: #fff;
-    background-color: $primary-color;
+    color: #262626;
+    background-color: #eeb221;/*$primary-color;*/
     cursor: pointer;
   }
 
@@ -236,8 +238,8 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        height: 2px;
+        background: #eeb211;/*mix(#fff, $primary-color, 50%);*/
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -272,10 +274,11 @@
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      color: #545454;
 
       &:hover {
-        color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        color: #262626;/*$masthead-link-color-hover;*/
+        background: #fff;/*mix(#fff, $primary-color, 75%);*/
       }
     }
 
@@ -335,7 +338,7 @@
       position: relative;
       display: inline-block;
       padding: 0.5em 1em 0.5em 1em;
-      color: $gray;
+      color: #545454;/*$gray;*/
       font-size: $type-size-6;
       font-weight: bold;
       border: 1px solid $light-gray;
@@ -435,12 +438,12 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: $primary-color;
+    background: #00254c;/*$primary-color;*/
     border-radius: $border-radius;
 
-    &:hover {
+    /*&:hover {
       color: #eee;
-    }
+    }*/
   }
 
   @include breakpoint(max-width ($large - 1px)) {
@@ -487,7 +490,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid #545454;/*$border-color;*/
 }
 
 .toggle {

@@ -7,16 +7,22 @@ permalink: /search
 <style>
   table.resource-table {
   	border:none;
+  	table-layout: fixed;
   }
   table.resource-table tr {
   	border: none;
-  	border-top: 2px solid #bbb;
+  	border-top: 2px solid #ddd;
   }
   table.resource-table td {
   	border:none;
   }
   .leaf-node {
   	padding: 1em;
+  }
+  .leaf-node p,
+  .leaf-node td {
+  	/*display: inline-block;*/
+  	word-wrap: break-word;
   }
   .leaf-node p.leaf-node-title {
   	margin-bottom: 0.5em;
@@ -30,13 +36,13 @@ permalink: /search
   	font-size: 1em;
   }
   .leaf-node p.leaf-node-summary {
-  	color: #777;
+  	color: #262626;
   	margin-bottom: 0.4em;
   	font-size: 1em;
   }
   .leaf-node p.leaf-node-cite {
   	font-size: 0.8em;
-  	background-color: #ddd;
+  	background-color: #eee;
   	border-radius: 8px;
   	padding: 10px;
   	margin-bottom: 0em;
@@ -66,7 +72,8 @@ permalink: /search
         "topics": "{{ post.topics | xml_escape }}",
         "summary": {{ post.summary | jsonify }},
         "cite": {{ post.cite | jsonify }},
-        "pub_date": "{{ post.pub-date | xml_escape }}"
+        "pub_date": "{{ post.pub-date | xml_escape }}",
+        "youtube-id": "{{ post.youtube-id | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

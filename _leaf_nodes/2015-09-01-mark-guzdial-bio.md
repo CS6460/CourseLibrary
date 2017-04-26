@@ -3,8 +3,8 @@ layout: leaf-node
 title: "Mark Guzdial"
 title-url: "https://scholar.google.com/citations?user=iQV2L2IAAAAJ&hl=en"
 author: "Google Scholar"
-groups: broader-issues
-categories: computer-science-education
+groups: [broader-issues, pedagogical-styles]
+categories: [computer-science-education, project-based-learning]
 topics: biographies
 summary: |
     Professor, School of Interactive Computing, College of Computing, Georgia Institute of Technology Google Scholar topics: Computing Education, Learning Sciences & Technologies, Computer Supported Collaborative Learning Verified email at cc.gatech.edu (2017-04-09)
