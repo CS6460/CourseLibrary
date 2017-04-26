@@ -1,19 +1,54 @@
 ---
-layout: single
+layout: contribute-form
+title: "Add a Resource"
 sidebar:
   nav: "side-nav"
 ---
+<style>
+  small {
+  	margin-top: -10px;
+  }
+</style>
+<p class="instuctions">To add to the content of this library please fill out the following fields in regards to your resource.</p>
 <form action="//formspree.io/nicholsonc@gmail.com" method="POST">
     <fieldset>
-        <label for="name">Your name</label><br>
-        <input type="text" name="name" placeholder="Name" required>
+        <label for="name">Name:</label><br>
+        <input type="text" name="name" placeholder="Name">
+        <label><small>This will be used to acknowledge you as a contributor. If you wish to remain anonymous, leave it blank.</small></label>
     </fieldset>
     <fieldset>
-        <label for="_replyto">Your email</label><br>
-        <input type="email" name="_replyto" placeholder="example@domain.com" required>
+        <label for="_replyto">GA Tech ID:</label><br>
+        <input type="email" name="_replyto" placeholder="example@domain.com">
+        <label><small>If you are a Georgia Tech student, this is required to obtain participation credit.</small></label>
     </fieldset>
     <fieldset>
-        <label for="resourceType">Resource type</label><br>
+    	<label for="resource-group">Resource Group:</label><br>
+    	<select name="resource-group" multiple onchange="setCategories()">
+    		<option value="introduction-to-edtech">Introduction to Educational Technology</option>
+    		<option value="research-principles-and-methodologies">Research Principles and Methodologies</option>
+    		<option value="pedagogical-styles">Pedagogical Styles</option>
+    		<option value="technologies">Technologies</option>
+    		<option value="broader-issues">Broader Issues</option>
+    	</select>
+    </fieldset>
+    <fieldset>
+    	<label for="resource-category">Resource Category:</label><br>
+    	<select name="resource-category" multiple>
+    	</select>
+    </fieldset>
+    <fieldset>
+        <label for="resource-topic">Resource Topic:</label><br>
+        <select name="resource-topic">
+            <option value="introductory-resources">Introductory Resources</option>
+			<option value="scholarly-readings">Scholarly Readings</option>
+			<option value="biographies">Biographies</option>
+			<option value="ongoing-projects">Ongoing Projects</option>
+			<option value="in-the-media">In the Media</option>
+			<option value="interviews">Interviews</option>
+        </select>
+    </fieldset>
+    <fieldset>
+        <label for="resourceType">Resource Type:</label><br>
         <select name="resourceType">
         {% for resource in site.data.resource_types %}
             <option value="{{ resource.name }}">{{ resource.text }}</option>
@@ -21,18 +56,101 @@ sidebar:
         </select>
     </fieldset>
     <fieldset>
-        <label for="url">Link of course library page you are contributing to</label><br>
-        <textarea name="url" rows="1" placeholder="" required></textarea>
+        <label for="title">Resource Title:</label><br>
+        <input type="text" name="title" placeholder="Add a resource title..." required>
     </fieldset>
     <fieldset>
-        <label for="contribution">Please paste your contribution into this box</label><br>
-        <textarea name="message" rows="1" placeholder="Message" required></textarea>
+        <label for="title-url">Resource URL:</label><br>
+        <input type="text" name="title-url" placeholder="Add a resource URL..." required>
+    </fieldset>
+    <fieldset>
+        <label for="author">Resource Author:</label><br>
+        <input type="text" name="author" placeholder="Add the resource's author, if applicable...">
+    </fieldset>
+    <fieldset>
+        <label for="summary">Resource Description:</label><br>
+        <textarea name="summary" rows="6" placeholder="Add a brief description for the resource. If your resource has one, an abstract works great!"></textarea>
+    </fieldset>
+    <fieldset>
+        <label for="cite">APA Citation:</label><br>
+        <textarea name="cite" rows="2" placeholder="If you can, add an APA citation to help other students."></textarea>
     </fieldset>
     <input class="hidden" type="text" name="_gotcha" style="display:none">
     <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
 
-    <input class="button submit" type="submit" value="Send">
+    <input class="button submit" type="submit" value="Submit" style="margin-bottom: 30px"><br><br><br>
 </form>
+<script>
+var setCategories = function() {
+	var groupEl = document.getElementsByName('resource-group')[0];
+	if (groupEl) {
+		var result = [];
+		var options = groupEl.options;
+		var opt;
+
+		for (var i=0; i < options.length; i++) {
+		  opt = options[i];
+
+		  if (opt.selected) {
+		    result.push(opt.value || opt.text);
+		  }
+		}
+		
+		var catOpts = "";
+		for (var i=0; i < result.length; i++) {
+			var gr = result[i];
+			if (gr == 'introduction-to-edtech') {
+				catOpts += '<option value="survey-of-edtech">Survey of EdTech</option>';
+				catOpts += '<option value="views-on-edtech">Views on Educational Technology</option>';
+				catOpts += '<option value="educational-technology-in-the-media">Educational Technology in the Media</option>';
+				catOpts += '<option value="useful-web-sites">Useful Web Sites</option>';
+			} else if (gr == 'research-principles-and-methodologies') {
+				catOpts += '<option value="research-basics">Research Basics</option>';
+				catOpts += '<option value="controlled-experiments">Controlled Experiments</option>';
+				catOpts += '<option value="survey-research">Survey Research</option>';
+				catOpts += '<option value="qualitative-research">Qualitative Research</option>';
+				catOpts += '<option value="quantitative-research">Quantitative Research</option>';
+				catOpts += '<option value="design-based-research">Design-Based Research</option>';
+			} else if (gr == 'pedagogical-styles') {
+				catOpts += '<option value="constructionism">Constructionism</option>';
+				catOpts += '<option value="project-based-learning">Project-Based Learning</option>';
+				catOpts += '<option value="problem-based-learning">Problem-Based Learning</option>';
+				catOpts += '<option value="communities-of-practice">Communities of Practice</option>';
+				catOpts += '<option value="social-learning">Social Learning</option>';
+				catOpts += '<option value="metacognition">Metacognition</option>';
+				catOpts += '<option value="formative-assessment">Formative Assessment</option>';
+			} else if (gr == 'technologies') {
+				catOpts += '<option value="learning-management-systems">Learning Management Systems</option>';
+				catOpts += '<option value="intelligent-tutoring-systems">Intelligent Tutoring Systems</option>';
+				catOpts += '<option value="online-learning">Online Learning</option>';
+				catOpts += '<option value="moocs">MOOCs</option>';
+				catOpts += '<option value="social-networking">Social Networking</option>';
+				catOpts += '<option value="computer-supported-collaborative-work">Computer-Supported Collaborative Work</option>';
+				catOpts += '<option value="game-based-learning">Game-Based Learning</option>';
+				catOpts += '<option value="simulation-based-learning">Simulation-Based Learning</option>';
+				catOpts += '<option value="mobile-devices">Mobile Devices</option>';
+			} else if (gr == 'broader-issues') {
+				catOpts += '<option value="gender-technology-and-education">Gender, Technology, and Education</option>';
+				catOpts += '<option value="underserved-communities">Underserved Communities and Educational Technology</option>';
+				catOpts += '<option value="ethics-and-edtech">Ethics and EdTech</option>';
+				catOpts += '<option value="identity-technology-and-education">Identity, Technology, and Education</option>';
+				catOpts += '<option value="privacy-in-educational-technology">Privacy in Educational Technology</option>';
+				catOpts += '<option value="technology-in-the-classroom">Technology in the Classroom</option>';
+				catOpts += '<option value="the-business-of-edtech">The Business of EdTech</option>';
+				catOpts += '<option value="computer-science-education">Computer Science Education</option>';
+				catOpts += '<option value="open-problems">Open Problems</option>';
+			}
+		}
+
+		if (catOpts != "") {
+			var catEl = document.getElementsByName('resource-category')[0];
+			if (catEl) {
+				catEl.innerHTML = catOpts;
+			}
+		}
+	}
+}
+</script>
 
 <script>
 var fillForm = function () {
@@ -48,8 +166,10 @@ var fillForm = function () {
         // here you have to manage this use case : redirect or print a message to user
     }else{
         // filling form fields with query string values
-        document.getElementsByName('url')[0].value = params.refpage;
-        document.getElementsByName('url')[0].placeholder = params.refpage;
+        // document.getElementsByName('url')[0].value = params.refpage;
+        // document.getElementsByName('url')[0].placeholder = params.refpage;
+        console.log(params.refpage);
+        // params.refpage.substring(1);
     }
 } ();
 </script>
