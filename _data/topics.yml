@@ -75,6 +75,8 @@
   description:
 - slug: irb-procedures
   pretty: "IRB Procedures"
+  description: 
+- slug: learner-motivation
   description: "test"
   pretty: "Learner Motivation"
   description:
