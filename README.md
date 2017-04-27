@@ -6,6 +6,8 @@ Welcome to the Educational Technology library. This library is primarily assembl
 
 The library is hosted by GitHub Pages, which uses the Jekyll framework to generate the site.
 
+[post links to the home pages of GitHub pages and Jekyll.  Maybe also a guide on markdown ]
+
 ## Overall structure of the library
 
 The site is composed of posts that are organized into one or more topics under one or more categories, and each category in turn is classified into one of the groups.
