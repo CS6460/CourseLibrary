@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "What Project Based Learning is and What it Isn't"
 title-url: "http://ww2.kqed.org/mindshift/2013/01/02/what-project-based-learning-is-and-isnt/"
-author: "Jane L. David"
+author: "Katrina Schwartz"
 groups: pedagogical-styles
 categories: project-based-learning
 topics: introductory-resources
