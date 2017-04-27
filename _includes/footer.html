@@ -19,7 +19,12 @@
   </ul>
 </div> -->
 <!--<div class="page__footer-copyright">Please <a href="https://github.com/{{ site.github.repository_nwo }}/edit/master/{{ page.path }}">help improve this article</a>.</div>-->
-
+<div id="footer">
+    <h3 class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a></h3>
+    <h3 class="page__footer-copyright"><a href="{{ site.baseurl }}/contribute.html?refpage={{ include.foo }}">Contribute to this library.</a></h3>
+    <div style="clear: both"></div>
+</div>
+<!--
 <div class="page__footer-copyright"><a href="{{ site.baseurl }}/contribute.html?refpage={{ include.foo }}">Contribute to this library.</a></div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-<div style="clear: both"></div>
+-->
