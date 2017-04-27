@@ -22,6 +22,8 @@ Posts are processed by Jekyll according to the anatomy of the YAML front matter.
 
 Users can contribute new content or suggest changes through the "Add a Resource" link at the top of the page.  Through this link, a form will be presented for filling out the relevant information about the suggested addition or change, and sent to an animinstration email address devoted to the course library.
 
+Also here note the process of forking and making a pull request.
+
 
 ## License
 
