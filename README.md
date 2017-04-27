@@ -6,22 +6,23 @@ Welcome to the Educational Technology library. This library is primarily assembl
 
 The library is hosted by GitHub Pages, which uses the Jekyll framework to generate the site.
 
+[post links to the home pages of GitHub pages and Jekyll.  Maybe also a guide on markdown ]
+
 ## Overall structure of the library
+
+The site is composed of posts that are organized into one or more topics under one or more categories, and each category in turn is classified into one of the groups.
 
 ## Procedure for maintaining library
 
-## Adding new items
+Posts are processed by Jekyll according to the anatomy of the YAML front matter.
 
-## Editing items
+[post a link to Duane's guides here]
 
-## Contributors
+## Contributions
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+Users can contribute new content or suggest changes through the "Add a Resource" link at the top of the page.  Through this link, a form will be presented for filling out the relevant information about the suggested addition or change, and sent to an animinstration email address devoted to the course library.
+
 
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
-
-
-
-http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/
