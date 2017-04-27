@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Quantitative Research Design"
 title-url: "https://explorable.com/quantitative-research-design"
-author: 
+author: Martyn Shuttleworth
 groups: research-principles-and-methodologies
 categories: quantitative-research
 topics: introductory-resources
