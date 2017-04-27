@@ -10,7 +10,6 @@ topics: intro-video
 summary: >
     David Joyner says, "Let's get started with the class!"
 cite: >
-    Joyner, D. & Udacity. (2016, June 6). Let's Get Started. Retrieved from https://www.youtube.com/watch?v=VK5b5ZQEI7M
 pub-date: 
 added-date: 2016-06-06
 resource-type: video

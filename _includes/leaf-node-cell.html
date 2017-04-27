@@ -7,7 +7,7 @@
       {% if leaf_node.author and leaf_node.author != "n.a." %}<p class="leaf-node-byline">{% for a in leaf_node.author%}{% unless forloop.first %}, {% endunless %}{{ a | strip }}{% endfor %}</p>{% endif %}
       {% if leaf_node.pub-date %}<p class="leaf-node-byline">{{ leaf_node.pub-date | date: "%b %e, %Y" }}</p>{% endif %}
       {% if leaf_node.summary %}<p class="leaf-node-summary">{{ leaf_node.summary }}</p>{% endif %}
-      {% if leaf_node.cite %}<p class="leaf-node-cite">{{ leaf_node.cite }}</p>{% endif %}
+      {% if leaf_node.cite and leaf_node.cite != "" %}<p class="leaf-node-cite">{{ leaf_node.cite }}</p>{% endif %}
     </div>
   </td>
 </tr>

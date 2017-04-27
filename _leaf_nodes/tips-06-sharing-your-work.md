@@ -16,8 +16,6 @@ summary: >
     semesters, and we are aware that your work in this class could — and hopefully will — lead to
     additional opportunities after the class is over.
 cite: |
-    Joyner, David. (2015). Tips for Class: Sharing Your Work Outside the Class.
-        Udacity.  August 16, 2015.
 pub-date: 
 added-date: 2015-08-16
 resource-type: internal-page

@@ -187,5 +187,3 @@ a training ground for future TAs across the program to learn about education and
 Use that alignment to improve the other classes on which you're working. Your EdTech project
 can be improving a tool specifically for another class in which you're involved, giving you
 a live test audience for whatever you develop.
-
-----

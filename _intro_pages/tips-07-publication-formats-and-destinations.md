@@ -17,7 +17,7 @@ technical reports, conference papers, and journal articles.
 Anyone can submit anything for publication here. Publications here are not peer-reviewed;
 thus, this is mostly simply for information dissemination. Technical reports can
 be of any length and any format. Any papers can be submitted using
-[this form](http://d7.library.gatech.edu/scdc/SMARTech_submission){:target="_blank"},
+[this form](http://forms.library.gatech.edu/SMARTech_submission){:target="_blank"},
 and we highly recommend doing so!
 * __Conference papers__ are publications submitted to a conference. Submissions go
 through a peer review process and are either accepted or rejected. If accepted, the

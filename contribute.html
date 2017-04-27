@@ -3,21 +3,22 @@ layout: contribute-form
 title: "Add a Resource"
 sidebar:
   nav: "side-nav"
+permalink: /contribute
 ---
 <p class="instuctions">To add to the content of this library please fill out the following fields in regards to your resource.</p>
-<form action="//formspree.io/{{ site.email }}" method="POST">
+<form action="//formspree.io/{{ site.email }}" method="POST" onsubmit="createMarkdown()">
     <fieldset>
         <label for="name">Name:</label><br>
         <input type="text" name="name" placeholder="Name">
         <label><small>This will be used to acknowledge you as a contributor. If you wish to remain anonymous, leave it blank.</small></label>
     </fieldset>
     <fieldset>
-        <label for="_replyto">GA Tech ID:</label><br>
-        <input type="email" name="_replyto" placeholder="example@domain.com">
+        <label for="gtid">GA Tech ID:</label><br>
+        <input type="text" name="gtid" placeholder="E.g. gburdell3">
         <label><small>If you are a Georgia Tech student, this is required to obtain participation credit.</small></label>
     </fieldset>
     <fieldset>
-    	<label for="resource-group">Resource Group:</label><br>
+    	<label for="resource-group">*Resource Group:</label><br>
     	<select name="resource-group" multiple onchange="setCategories()">
     		<option value="introduction-to-edtech">Introduction to Educational Technology</option>
     		<option value="research-principles-and-methodologies">Research Principles and Methodologies</option>
@@ -27,12 +28,12 @@ sidebar:
     	</select>
     </fieldset>
     <fieldset>
-    	<label for="resource-category">Resource Category:</label><br>
+    	<label for="resource-category">*Resource Category (can select multiple):</label><br>
     	<select name="resource-category" multiple>
     	</select>
     </fieldset>
     <fieldset>
-        <label for="resource-topic">Resource Topic:</label><br>
+        <label for="resource-topic">*Resource Topic:</label><br>
         <select name="resource-topic">
             <option value="introductory-resources">Introductory Resources</option>
 			<option value="scholarly-readings">Scholarly Readings</option>
@@ -51,11 +52,11 @@ sidebar:
         </select>
     </fieldset>
     <fieldset>
-        <label for="title">Resource Title:</label><br>
+        <label for="title">*Resource Title:</label><br>
         <input type="text" name="title" placeholder="Add a resource title..." required>
     </fieldset>
     <fieldset>
-        <label for="title-url">Resource URL:</label><br>
+        <label for="title-url">*Resource URL:</label><br>
         <input type="text" name="title-url" placeholder="Add a resource URL..." required>
     </fieldset>
     <fieldset>
@@ -63,8 +64,8 @@ sidebar:
         <input type="text" name="author" placeholder="Add the resource's author, if applicable...">
     </fieldset>
     <fieldset>
-        <label for="author">Published Date (YYYY-MM-DD):</label><br>
-        <input type="text" name="author" placeholder="Add the resource's publish date, if applicable, in the form YYYY-MM-DD.">
+        <label for="pub-date">Published Date (YYYY-MM-DD):</label><br>
+        <input type="text" name="pub-date" placeholder="Add the resource's publish date, if applicable, in the form YYYY-MM-DD.">
     </fieldset>
     <fieldset>
         <label for="summary">Resource Description:</label><br>
@@ -75,7 +76,10 @@ sidebar:
         <textarea name="cite" rows="2" placeholder="If you can, add an APA citation to help other students."></textarea>
     </fieldset>
     <input class="hidden" type="text" name="_gotcha" style="display:none">
-    <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
+    <input class="hidden" type="hidden" name="_subject" value="New resource for the CS 6460 Course Library">
+    <fieldset>
+    	<textarea class="hidden" name="leaf-node-md"></textarea>
+    </fieldset>
 
     <input class="button submit" type="submit" value="Submit" style="margin-top: 1em; margin-bottom: 3em"><br><br><br>
 </form>
@@ -184,4 +188,51 @@ var fillForm = function () {
         }
     }
 } ();
+</script>
+<script>
+function pad(num, numDigits) {
+  if (numDigits > 0) {
+	  num = num + "";
+	  while (num.length < numDigits) {
+	  	num = "0" + num;
+	  }
+	}
+  return num;
+}
+var createMarkdown = function() {
+	var output = "---\nlayout: leaf-node\n";
+	output += "title: \"" + document.getElementsByName('title')[0].value + "\"\n";
+	output += "title-url: \"" + document.getElementsByName('title-url')[0].value + "\"\n";
+	output += "author: [\"" + document.getElementsByName('author')[0].value + "\"]\n";
+	output += "groups: [";
+	var groupEl = document.getElementsByName('resource-group')[0];
+	for (var i=0; i < groupEl.options.length; i++) {
+		opt = groupEl.options[i];
+		if (opt.selected) {
+			output += "\"" + opt.value + "\",";
+		}
+	}
+	output = output.substring(0, output.length-1);
+	output += "]\n";
+	output += "categories: [";
+	var catEl = document.getElementsByName('resource-category')[0];
+	for (var i=0; i < catEl.options.length; i++) {
+		opt = catEl.options[i];
+		if (opt.selected) {
+			output += "\"" + opt.value + "\",";
+		}
+	}
+	output = output.substring(0, output.length-1);
+	output += "]\n";
+	output += "topics: [\"" + document.getElementsByName('resource-topic')[0].value + "\"]\n";
+	output += "summary: >\n  " + document.getElementsByName('summary')[0].value + "\n";
+	output += "cite: >\n  " + document.getElementsByName('cite')[0].value + "\n";
+	output += "pub-date: " + document.getElementsByName('pub-date')[0].value + "\n";
+	var today = new Date();
+	output += "added-date: " + today.getFullYear() + "-" + pad(today.getMonth() + 1, 2) + "-" + pad(today.getDate(),2) + "\n";
+	output += "resource-type: [\"" + document.getElementsByName('resourceType')[0].value + "\"]\n";
+	output += "---";
+
+	document.getElementsByName('leaf-node-md')[0].value = output;
+}
 </script>

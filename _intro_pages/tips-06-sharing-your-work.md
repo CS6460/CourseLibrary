@@ -45,5 +45,3 @@ via Google+, the Facebook page, HipChat, or Slack.
 ## Sharing in the Course Library
 
 We will never share your work without your consent. In the class surveys, we will ask for your consent to add your project presentation and paper to this course library, which would share it with future students in this class, and with the public. If you would prefer, we can also exclusively share your work with future students in the class without making it publicly available. You are also welcome to share it on your own personal web site, and we will add it to the library as a link to your site.
-
-----
