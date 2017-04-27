@@ -12,7 +12,6 @@ summary: >
     primary goal is to learn enough to be able to contribute to the educational
     technology community.
 cite: >
-    Joyner, D. & Udacity. (2016, June 6). Learning Goals. Retrieved from https://www.youtube.com/watch?v=yAxck_1RYCo
 pub-date: 
 added-date: 2016-06-06
 resource-type: video
