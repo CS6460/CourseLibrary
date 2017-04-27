@@ -7,7 +7,7 @@ groups: pedagogical-styles
 categories: project-based-learning
 topics: introductory-resources
 summary: >
-    Schwartz makes the distintion between project-based learning and project-oriented learning.
+    Schwartz makes the distinction between project-based learning and project-oriented learning.
     In project-based learning, the learning comes from the project itself, not something that
     shows what they've learned after the fact.
 cite: >
