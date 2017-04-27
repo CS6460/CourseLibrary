@@ -49,7 +49,3 @@ The above two categories aren't mutually exclusive, however. There are lots of p
 In each of these cases, there are both design and research elements associated with the work.
 
 Generally speaking, choosing between a design and a research project should be something you do very early in the course, ideally even during the first week. This first decision will be helpful to determining what topics and sources you'll want to start researching first.
-
-
-#### This page was last edited on March 16, 2017
-
