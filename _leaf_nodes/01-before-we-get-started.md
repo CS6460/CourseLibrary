@@ -10,7 +10,6 @@ topics: intro-video
 summary: >
     David Joyner provides readiness questions for the Ed Tech course.
 cite: >
-
 pub-date: 
 added-date: 2016-06-06
 resource-type: video
