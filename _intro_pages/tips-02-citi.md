@@ -15,7 +15,7 @@ is a university organization that oversees human subjects research. If you want 
 However, before you can even seek IRB approval, you need to complete the IRB's
 required training regimen. If you plan to do human subjects research, you
 should complete CITI training right away. You can find instructions on
-completing CITI training and links to get started [here](http://researchintegrity.gatech.edu/about-irb/irb-required-training){:target="_blank"}
+completing CITI training and links to get started [here](http://researchintegrity.gatech.edu/about-irb/irb-required-training){:target="_blank"}.
 
 Human subjects research can include any of the following:
 
