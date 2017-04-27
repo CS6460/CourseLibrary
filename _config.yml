@@ -18,7 +18,7 @@ logo: <img src="../assets/images/GT_logo.png" style="width:60px;height:60px;">
 email: CS6460courselibrary@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Course Library for OMSCS CS6460 Education Technology at Georgia Tech
-baseurl: /edtech-test/home
+baseurl: /edtech-test
 locale: "en"
 collections:
   category_nodes:
