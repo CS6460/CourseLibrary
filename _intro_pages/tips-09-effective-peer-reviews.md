@@ -94,12 +94,6 @@ of a broader conversation. Do not hesitate to ask your peer reviewers to leave t
 email address or other contact information in case you want to follow-up with additional
 questions about their review.
 
-
-
-
-This page was last edited on March 17, 2017.
-
-
 [1]:http://www.theguardian.com/higher-education-network/blog/2013/sep/27/peer-review-10-tips-research-paper
 [2]:https://www.cabrillo.edu/services/jobs/pdfs/giving-feedback.pdf
 [3]:https://www.uts.edu.au/sites/default/files/Giving-and-Receiving-Feedback.pdf
