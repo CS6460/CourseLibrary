@@ -1,15 +1,18 @@
 ---
-- name: New Link
-  text: A new link or resource for an existing page
+- name: external-page
+  text: External Page - A webpage hosted outside of Georgia Tech
 
-- name: New Page
-  text: A new page for an existing topic
+- name: internal-page
+  text: Internal Page - A webpage hosted by Georgia Tech
 
-- name: New Topic
-  text: An entirely new topic
+- name: interview-mp3
+  text: Interview
 
-- name: Change
-  text: A change to an existing page
+- name: Video
+  text: Video
 
-- name: Other
+- name: pdf-document
+  text: PDF document
+
+- name: 
   text: Other
