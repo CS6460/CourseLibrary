@@ -5,7 +5,7 @@ title-url: "https://writing.colostate.edu/guides/guide.cfm?guideid=90"
 author: 
 groups: research-principles-and-methodologies
 categories: research-basics
-topics: esearch-vocabulary
+topics: research-vocabulary
 summary: >
     Scientific research comes with its own vocabulary. The list here gives some of the most important terms, and the links direct straight to the definitions in Colorado State's excellent Glossary of Key Research Terms.
 cite: >
