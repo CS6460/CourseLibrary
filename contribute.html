@@ -4,11 +4,6 @@ title: "Add a Resource"
 sidebar:
   nav: "side-nav"
 ---
-<style>
-  small {
-  	margin-top: -10px;
-  }
-</style>
 <p class="instuctions">To add to the content of this library please fill out the following fields in regards to your resource.</p>
 <form action="//formspree.io/{{ site.email }}" method="POST">
     <fieldset>
@@ -82,7 +77,7 @@ sidebar:
     <input class="hidden" type="text" name="_gotcha" style="display:none">
     <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
 
-    <input class="button submit" type="submit" value="Submit" style="margin-bottom: 30px"><br><br><br>
+    <input class="button submit" type="submit" value="Submit" style="margin-top: 1em; margin-bottom: 3em"><br><br><br>
 </form>
 <script>
 var setCategories = function() {
@@ -172,8 +167,21 @@ var fillForm = function () {
         // filling form fields with query string values
         // document.getElementsByName('url')[0].value = params.refpage;
         // document.getElementsByName('url')[0].placeholder = params.refpage;
-        console.log(params.refpage);
-        // params.refpage.substring(1);
+        // console.log(params.refpage);
+        var url_split = params.refpage.substring(1).split('/');
+        if (url_split[0] && url_split[0].length > 0) {
+        	var groupEl = document.getElementsByName('resource-group')[0];
+        	if (groupEl) {
+        		groupEl.value = url_split[0];
+        		setCategories();
+        		if (url_split[1] && url_split[1].length > 0) {
+        			var catEl = document.getElementsByName('resource-category')[0];
+					if (catEl) {
+        				catEl.value = url_split[1];
+					}
+        		}
+        	}
+        }
     }
 } ();
 </script>
