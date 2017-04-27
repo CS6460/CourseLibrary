@@ -229,6 +229,7 @@ var createMarkdown = function() {
 	output += "pub-date: " + document.getElementsByName('pub-date')[0].value + "\n";
 	var today = new Date();
 	output += "added-date: " + today.getFullYear() + "-" + pad(today.getMonth() + 1, 2) + "-" + pad(today.getDate(),2) + "\n";
+	output += "resource-type: [\"" + document.getElementsByName('resource-type')[0].value + "\"]\n";
 	output += "---";
 
 	document.getElementsByName('leaf-node-md')[0].value = output;
