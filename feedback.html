@@ -1,0 +1,28 @@
+---
+layout: contribute-form
+title: "Feedback"
+sidebar:
+  nav: "side-nav"
+permalink: /feedback
+---
+<p class="instuctions">Have any suggestions for the library? Find an error or broken link? Let us know using the field below!</p>
+<form action="//formspree.io/{{ site.email }}" method="POST" onsubmit="createMarkdown()">
+    <fieldset>
+        <label for="name">Name:</label><br>
+        <input type="text" name="name" placeholder="Name">
+        <small>This will be used to acknowledge you as a contributor. If you wish to remain anonymous, leave it blank.</small>
+    </fieldset>
+    <fieldset>
+        <label for="gtid">GA Tech ID:</label><br>
+        <input type="text" name="gtid" placeholder="E.g. gburdell3">
+        <small>If you are a Georgia Tech student, this is required to obtain participation credit.</small>
+    </fieldset>
+    <fieldset>
+        <label for="feedback">Feedback:</label><br>
+        <textarea name="feedback" rows="10" placeholder="Please let us know what you think!"></textarea>
+    </fieldset>
+    <input class="hidden" type="text" name="_gotcha" style="display:none">
+    <input class="hidden" type="hidden" name="_subject" value="New resource for the CS 6460 Course Library">
+
+    <input class="button submit" type="submit" value="Submit" style="margin-top: 1em; margin-bottom: 3em">
+</form>
