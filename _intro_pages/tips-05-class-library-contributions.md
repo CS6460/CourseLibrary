@@ -13,7 +13,9 @@ But while the library is constructed on a public Github infrustructure, we're in
 
 So, for now, you can contribute to the library using a webpage we've provided. At the top right of every page, you'll find this text: [Add a Resource]({{site.baseurl}}/contribute?refpage=/){:target="_blank"}
 
-You can use that form to submit additional pages under existing sources or fixes to existing pages. We're incredibly interested in growing the library and helping future students, and what's great about this class is that discovering and contributing sources helps _you_ learn more about this field as well, especially its most recent developments. So, whenever you find some material you think other students might find useful, please contribute it to the library.
+You can use that form to submit additional pages under existing sources or fixes to existing pages. If you click the link from a content page, the information for that topic will be prefilled in the contribution form making it faster and easier for you to add the content!
+
+We're incredibly interested in growing the library and helping future students, and what's great about this class is that discovering and contributing sources helps _you_ learn more about this field as well, especially its most recent developments. So, whenever you find some material you think other students might find useful, please contribute it to the library.
 
 Over time, we'll be adding student projects and papers, new interviews, software demonstrations, and more to the library. In addition to making your own contributions, please also tell us what you like and don't like in the library. For example, are interviews useful? Are biographies of active researchers helpful? Are there too many articles sometimes, or too few? What would you like to see more of, or less of?
 
