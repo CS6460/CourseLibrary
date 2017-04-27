@@ -10,7 +10,7 @@ sidebar:
 An [Institutional Review Board](https://en.wikipedia.org/wiki/Institutional_review_board){:target="_blank"}, or IRB,
 is a university organization that oversees human subjects research. If you want to do any research
  on human subjects, then your research must be approved by IRB. We'll talk about how to get IRB
- approval in the [Research Basics](../research-principles-and-methodologies/research-basics){:target="_blank"} portion of this course.
+ approval in the [Research Basics](.../research-principles-and-methodologies/research-basics){:target="_blank"} portion of this course.
 
 However, before you can even seek IRB approval, you need to complete the IRB's
 required training regimen. If you plan to do human subjects research, you
