@@ -36,6 +36,23 @@ The category slug is important! Resources that share this category will appear i
 The permalink is the path where the page will be found (after the base URL).
 The sidebar enables the navigation menu on the left of the screen.
 
+### Topics
+Topics are represented in the library source in the ```topics.yml``` file. The following is a part of the array. 
+
+```
+- slug: data-sets
+  pretty: "Data Sets"
+  description: "There are several data sets available on the internet for public analysis. Below are a couple you might be interested in using:"
+- slug: educational-technology-in-the-media
+  pretty: "Educational Technology in the Media"
+  description:
+```
+
+For each of topic, there is a ```- slug:``` entry, which is used to help sort topics into their appropriate place within the topics page. This is what should be in the leaf-node markdown files. 
+There is also a ```pretty:``` variable, which is what the site uses to display topics in a readable format. 
+Last is the optional ```description:``` which is used to display more information about the kinds of resources in the topic. 
+
+
 ### Leaf Nodes
 Leaf nodes are markdown files that are used to represent resources site directory. When placed in the ```_leaf_nodes/``` folder, each node will be analyzed and placed onto the appropriate category pages.
 
@@ -74,7 +91,7 @@ The pub date is an optional string to indicate when the resource was created.
 The added date is a string to indicate when the resource was added to the library.
 The resource-type is a string that helps to identify what kind of content the resource is.
 
-### Navigation
+## Navigation
 Site navigation is set up in the ```navigation.yml``` file found in the ```_data/``` directory. Here there are two YAML arrays, to describe the two navigations on the site.
 
 The first is ```main:```. The following is an excerpt from it. 
@@ -112,7 +129,24 @@ Here, there are two levels of menu. First are the top level items, which are the
 
 The second level shares the same elements and functionality of the ```main:``` nav items.
 
+## Search
+This site uses [lunr.js](https://lunrjs.com/) for search. This service essentially creates an array of searchable data, and returns the most relavent resources related to a given query. Using this, we created a custom search for each post. Important code from ```search.js``` is shown below. 
+
+```
+var idx = lunr(function () {
+	this.field('id');
+	this.field('title', { boost: 10 });
+	this.field('author');
+	this.field('group');
+	this.field('categories');
+	this.field('topics');
+	this.field('summary', { boost: 8 });
+	this.field('cite');
+});
+```
+
+This code is what determines how relevant a resource is to a given search. Each of the fields above from the YAML front matter on each leaf-node resource markdown file are what are being considered in the search. as you can see, it is easy to give more weight to a certain field by applying a boost, like we did for title and summary. Search can be adjusted by adding fields here (and in the search-results.html file) as well as by adjusting the boost weights.
+
 ## Contributions
 Users can contribute new content or suggest changes through the "Add a Resource" link at the top of the page.  Through this link, a form will be presented for filling out the relevant information about the suggested addition or change, and sent to an administration email address devoted to the course library.
-
 
