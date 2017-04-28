@@ -1,15 +1,18 @@
 # Educational Technology Library
-Welcome to the Educational Technology library. This library is primarily assembled as an archive of resources for the Georgia Tech OMSCS 6460 - Educational Technology [course](https://www.omscs.gatech.edu/cs-6460-educational-technology), but is open to use by, and contributions from, anyone who is interested in Educational Technology.
+Welcome to the Educational Technology library. This library serves primarily as an archive of resources for the Georgia Tech OMSCS 6460 - Educational Technology [course](https://www.omscs.gatech.edu/cs-6460-educational-technology), but is open for use by, and contributions from, anyone who is interested in Educational Technology.
 
 ## Technical framework of the libary
-The library is hosted by GitHub Pages, which uses the Jekyll framework to generate the site.  The theme is a modified version of Minimal Mistakes.
+The library is hosted by GitHub Pages, which uses the Jekyll framework to generate the site.  The theme is a modified version of Minimal Mistakes.  The contribution form uses Formspree to generate emails with post data and send them to the the administration email for the library, which is set in _config.yml by assigning a value to the email variable.
 
 - [GitHub Pages](https://guides.github.com/features/pages/)
 - [Jekyll](https://jekyllrb.com/)
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+- [Formspree](https://formspree.io/)
 
 ## Overall structure of the library
-The site is composed of posts that are organized into one or more topics under one or more categories, and each category in turn is classified into one of the groups.
+The site is composed of posts that are organized into one or more topics under one or more categories, and each category in turn is classified into one of several groups.
+
+Jekyll makes use of [YAML front matter](https://jekyllrb.com/docs/frontmatter/) to generate content.  The way this content is structured at the various levels is explained in subsequent sections.
 
 ### Category Nodes
 Category nodes are markdown files that can be used to host a collection of resources. Each category belongs to one group, and is found under that group's menu in the side bar navigation. (To see how to set that up, see the "Navigation" section). A markdown file with the following format that is placed in the ```_category_nodes/``` directory will be turned into a page when the site is compiled.
@@ -29,12 +32,12 @@ sidebar:
 ---
 ```
 
-The layout makes sure the page uses the category HTML layout.
-The title is what appears at the top of the generated HTML page.
-The group should match the slug of the group in the navigation menu.
-The category slug is important! Resources that share this category will appear in the page.
-The permalink is the path where the page will be found (after the base URL).
-The sidebar enables the navigation menu on the left of the screen.
+- The layout makes sure the page uses the category HTML layout.
+- The title is what appears at the top of the generated HTML page.
+- The group should match the slug of the group in the navigation menu.
+- The category slug is important! Resources that share this category will appear in the page.
+- The permalink is the path where the page will be found (after the base URL).
+- The sidebar enables the navigation menu on the left of the screen.
 
 
 ### Topics
@@ -80,18 +83,18 @@ resource-type: external-page
 ```
 
 
-The layout helps to identify the markdown as a leaf-node resource.
-The title is required, and should represent the title of the resource.
-The title-url is required, and points to the location the resource will link to outside of the library.
-The author is an optional array of names of who wrote the linked resource.
-The groups is the group the resource is associated with.
-The categories array is important! The category is an array of category id slugs that should match up with a category page. This is how the resource will land on any page listed in the array.
-The topics array is important! This is how the compiler determines what topic the resource will show up on in a resource page. It must match one of the topics in the topic.yml file. (See the topics section for details)
-The summary is an optional string that should give some context about the linked resource.
-The cite is an optional string that should be in APA format, used to help give students quick citations for any papers. 
-The pub date is an optional string to indicate when the resource was created.
-The added date is a string to indicate when the resource was added to the library.
-The resource-type is a string that helps to identify what kind of content the resource is.
+- The layout helps to identify the markdown as a leaf-node resource.
+- The title is required, and should represent the title of the resource.
+- The title-url is required, and points to the location the resource will link to outside of the library.
+- The author is an optional array of names of who wrote the linked resource.
+- The groups is the group the resource is associated with.
+- The categories array is important! The category is an array of category id slugs that should match up with a category page. This is how the resource will land on any page listed in the array.
+- The topics array is important! This is how the compiler determines what topic the resource will show up on in a resource page. It must match one of the topics in the topic.yml file. (See the topics section for details)
+- The summary is an optional string that should give some context about the linked resource.
+- The cite is an optional string that should be in APA format, used to help give students quick citations for any papers. 
+- The pub date is an optional string to indicate when the resource was created.
+- The added date is a string to indicate when the resource was added to the library.
+- The resource-type is a string that helps to identify what kind of content the resource is.
 
 ## Navigation
 Site navigation is set up in the ```navigation.yml``` file found in the ```_data/``` directory. Here there are two YAML arrays, to describe the two navigations on the site.
