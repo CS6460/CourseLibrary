@@ -15,5 +15,5 @@ cite: >
     Retrieved from http://www.learnnc.org/lp/pages/4753
 pub-date: 2017-04-24
 added-date: 2017-04-24
-resource-type: video
+resource-type: external-page
 ---
