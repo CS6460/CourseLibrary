@@ -36,6 +36,7 @@ The category slug is important! Resources that share this category will appear i
 The permalink is the path where the page will be found (after the base URL).
 The sidebar enables the navigation menu on the left of the screen.
 
+
 ### Topics
 Topics are represented in the library source in the ```topics.yml``` file. The following is a part of the array. 
 
@@ -77,6 +78,7 @@ added-date: 2017-04-25
 resource-type: external-page
 ---
 ```
+
 
 The layout helps to identify the markdown as a leaf-node resource.
 The title is required, and should represent the title of the resource.
@@ -149,4 +151,5 @@ This code is what determines how relevant a resource is to a given search. Each 
 
 ## Contributions
 Users can contribute new content or suggest changes through the "Add a Resource" link at the top of the page.  Through this link, a form will be presented for filling out the relevant information about the suggested addition or change, and sent to an administration email address devoted to the course library.
+
 
