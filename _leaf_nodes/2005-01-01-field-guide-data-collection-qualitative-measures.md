@@ -13,5 +13,5 @@ cite: >
     Retrieved from : http://www.ccs.neu.edu/course/is4800sp12/resources/qualmethods.pdf
 pub-date: 2005-01-01
 added-date: 2017-04-28
-resource-type: pdf-document # Choose 1: external-page, internal-page, interview-mp3, pdf-document, video-course, or video external-page
+resource-type: pdf-document
 ---
