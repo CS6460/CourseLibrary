@@ -1,8 +1,4 @@
 ---
-# prepared by Jonathan Grindstaff
-# low confidence
-# the following may not be correct as identifying the document was not possible
-# an attempt to find the original document this PDF came from was not successful
 layout: leaf-node
 title: "Qualitative Research Methods: A Data Collector’s Field Guide"
 title-url: "http://www.ccs.neu.edu/course/is4800sp12/resources/qualmethods.pdf"
