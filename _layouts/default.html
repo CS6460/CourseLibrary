@@ -15,7 +15,9 @@
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-
+<!--[if IE]>
+    <div>Not all features may work with Internet Explorer or Edge. For a better experience, try a different browser.</div>
+<![endif]-->
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
