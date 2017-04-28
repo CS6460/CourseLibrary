@@ -1,5 +1,5 @@
 # Educational Technology Library
-Welcome to the Educational Technology library. This library is primarily assembled as an archive of resources for the Georgia Tech [OMSCS CS6460](https://www.omscs.gatech.edu/cs-6460-educational-technology) course by the same name, but is open to use by, and contributions from, anyone who is interested in Educational Technology.
+Welcome to the Educational Technology library. This library is primarily assembled as an archive of resources for the Georgia Tech OMSCS 6460 - Educational Technology [course](https://www.omscs.gatech.edu/cs-6460-educational-technology), but is open to use by, and contributions from, anyone who is interested in Educational Technology.
 
 ## Technical framework of the libary
 The library is hosted by GitHub Pages, which uses the Jekyll framework to generate the site.  The theme is a modified version of Minimal Mistakes.
