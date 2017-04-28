@@ -9,9 +9,9 @@ topics: intro-video, introductory-resources, scholarly-readings, biographies, on
 summary: >
     A short summary to appear in the search results or content link list. > uses browser line breaks. | uses line formatting provided in the section, as below Location: is indented 1 TAB.
 cite: >
-    Author, A. (2015). Use APA Style. website.com.  August 28, 2015.
-        Location: use link from browser if possible
-pub-date: 2015-08-28
-added-date: 2017-04-16
+    Author, A. (2017). Use APA Style. website.com.  April 28, 2017.
+    Retrieved from use link from browser if possible
+pub-date: 2017-04-28
+added-date: 2017-04-28
 resource-type: external-page, internal-page, interview-mp3, pdf-document, video-course, or video
 ---
