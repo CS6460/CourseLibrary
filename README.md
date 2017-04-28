@@ -12,6 +12,110 @@ The library is hosted by GitHub Pages, which uses the Jekyll framework to genera
 
 The site is composed of posts that are organized into one or more topics under one or more categories, and each category in turn is classified into one of the groups.
 
+###Category Nodes
+
+Category nodes are markdown files that can be used to host a collection of resources. Each category belongs to one group, and is found under that group's menu in the side bar navigation. (To see how to set that up, see the "Navigation" section). A markdown file with the following format that is placed in the ```_category_nodes/``` directory will be turned into a page when the site is compiled.
+
+Below is an example of a category node markdown file. 
+
+communities-of-practice.md
+```
+---
+layout: category
+title: "Communities of Practice"
+group: pedagogical-styles
+category: communities-of-practice
+permalink: /pedagogical-styles/communities-of-practice
+sidebar:
+  nav: "side-nav"
+---
+```
+
+The layout makes sure the page uses the category HTML layout.
+The title is what appears at the top of the generated HTML page.
+The group should match the slug of the group in the navigation menu.
+The category slug is important! Resources that share this category will appear in the page.
+The permalink is the path where the page will be found (after the base URL).
+The sidebar enables the navigation menu on the left of the screen.
+
+###Leaf Nodes
+
+Leaf nodes are markdown files that are used to represent resources site directory. When placed in the ```_leaf_nodes/``` folder, each node will be analyzed and placed onto the appropriate category pages.
+
+Below is an example of a leaf node markdown file.
+
+2003-01-01-five-principles-for-research-ethics.md
+```
+---
+layout: leaf-node
+title: "Five principles for research ethics"
+title-url: "http://www.apa.org/monitor/jan03/principles.aspx"
+author: [ "Deborah Smith" ]
+groups: research-principles-and-methodologies
+categories: [ "research-basics" ]
+topics: [ "research-ethics" ]
+summary: >
+     Cover your bases with these ethical strategies.
+cite: >
+     Smith, D. (2003). Five principles for research ethics. Monitor on psychology, 34(1), 56.
+pub-date: 2003-01-01
+added-date: 2017-04-25
+resource-type: external-page
+---
+```
+
+The layout helps to identify the markdown as a leaf-node resource.
+The title is required, and should represent the title of the resource.
+The title-url is required, and points to the location the resource will link to outside of the library.
+The author is an optional array of names of who wrote the linked resource.
+The groups is the group the resource is associated with.
+The categories array is important! The category is an array of category id slugs that should match up with a category page. This is how the resource will land on any page listed in the array.
+The topics array is important! This is how the compiler determines what topic the resource will show up on in a resource page. It must match one of the topics in the topic.yml file. (See the topics section for details)
+The summary is an optional string that should give some context about the linked resource.
+The cite is an optional string that should be in APA format, used to help give students quick citations for any papers. 
+The pub date is an optional string to indicate when the resource was created.
+The added date is a string to indicate when the resource was added to the library.
+The resource-type is a string that helps to identify what kind of content the resource is.
+
+###Navigation
+
+Site navigation is set up in the ```navigation.yml``` file found in the ```_data/``` directory. Here there are two YAML arrays, to describe the two navigations on the site.
+
+The first is ```main:```. The following is an excerpt from it. 
+```
+main:
+  - title: "Course Introduction"
+    url: "/introduction/course-introduction"
+  - title: "Tips for the Class"
+    url: "/introduction/tips-for-class" ...
+```
+
+Each entry consists of a ```- title: ```, which is how the link will be printed, and a ```url: ``` entry that determines where the link will travel to when clicked. 
+
+The ```side-nav:``` array can be used to add items to the side bar menu.
+
+```
+side-nav:
+  - title: Introduction to Educational Technology
+    nav-id: introduction-to-educational-technology
+    children:
+      - title: "Survey of EdTech"
+        url: "/introduction-to-edtech/survey-of-edtech"
+      - title: "Views on Educational Technology"
+        url: "/introduction-to-edtech/views-on-edtech"
+      - title: "Educational Technology in the Media"
+        url: "/introduction-to-edtech/educational-technology-in-the-media"
+      - title: "Useful Web Sites"
+        url: "/introduction-to-edtech/useful-web-sites"
+  - title: Research Principles and Methodologies
+    nav-id: research-principles-and-methodologies
+    children: ...
+```
+
+Here, there are two levels of menu. First are the top level items, which are the collapsible menu items. They consist of a ```title``` similar to the main nav menu, as well as a ```nav-id``` which is used to help enable the collapse feature, and a ```children:``` array that describes the links that are contained wihtin the collapse.
+
+The second level shares the same elements and functionality of the ```main:``` nav items.
+
 ## Procedure for maintaining library
 
 Posts are processed by Jekyll according to the anatomy of the YAML front matter.
@@ -28,3 +132,82 @@ Also here note the process of forking and making a pull request.
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
+
+
+###Leaf Nodes
+
+Leaf nodes are markdown files that are used to represent resources site directory. When placed in the ```_leaf_nodes/``` folder, each node will be analyzed and placed onto the appropriate category pages.
+
+Below is an example of a leaf node markdown file.
+
+2003-01-01-five-principles-for-research-ethics.md
+```
+---
+layout: leaf-node
+title: "Five principles for research ethics"
+title-url: "http://www.apa.org/monitor/jan03/principles.aspx"
+author: [ "Deborah Smith" ]
+groups: research-principles-and-methodologies
+categories: [ "research-basics" ]
+topics: [ "research-ethics" ]
+summary: >
+     Cover your bases with these ethical strategies.
+cite: >
+     Smith, D. (2003). Five principles for research ethics. Monitor on psychology, 34(1), 56.
+pub-date: 2003-01-01
+added-date: 2017-04-25
+resource-type: external-page
+---
+```
+
+The layout helps to identify the markdown as a leaf-node resource.
+The title is required, and should represent the title of the resource.
+The title-url is required, and points to the location the resource will link to outside of the library.
+The author is an optional array of names of who wrote the linked resource.
+The groups is the group the resource is associated with.
+The categories array is important! The category is an array of category id slugs that should match up with a category page. This is how the resource will land on any page listed in the array.
+The topics array is important! This is how the compiler determines what topic the resource will show up on in a resource page. It must match one of the topics in the topic.yml file. (See the topics section for details)
+The summary is an optional string that should give some context about the linked resource.
+The cite is an optional string that should be in APA format, used to help give students quick citations for any papers. 
+The pub date is an optional string to indicate when the resource was created.
+The added date is a string to indicate when the resource was added to the library.
+The resource-type is a string that helps to identify what kind of content the resource is.
+
+##Navigation
+
+Site navigation is set up in the ```navigation.yml``` file found in the ```_data/``` directory. Here there are two YAML arrays, to describe the two navigations on the site.
+
+The first is ```main:```. The following is an excerpt from it. 
+```
+main:
+  - title: "Course Introduction"
+    url: "/introduction/course-introduction"
+  - title: "Tips for the Class"
+    url: "/introduction/tips-for-class" ...
+```
+
+Each entry consists of a ```- title: ```, which is how the link will be printed, and a ```url: ``` entry that determines where the link will travel to when clicked. 
+
+The ```side-nav:``` array can be used to add items to the side bar menu.
+
+```
+side-nav:
+  - title: Introduction to Educational Technology
+    nav-id: introduction-to-educational-technology
+    children:
+      - title: "Survey of EdTech"
+        url: "/introduction-to-edtech/survey-of-edtech"
+      - title: "Views on Educational Technology"
+        url: "/introduction-to-edtech/views-on-edtech"
+      - title: "Educational Technology in the Media"
+        url: "/introduction-to-edtech/educational-technology-in-the-media"
+      - title: "Useful Web Sites"
+        url: "/introduction-to-edtech/useful-web-sites"
+  - title: Research Principles and Methodologies
+    nav-id: research-principles-and-methodologies
+    children: ...
+```
+
+Here, there are two levels of menu. First are the top level items, which are the collapsible menu items. They consist of a ```title``` similar to the main nav menu, as well as a ```nav-id``` which is used to help enable the collapse feature, and a ```children:``` array that describes the links that are contained wihtin the collapse.
+
+The second level shares the same elements and functionality of the ```main:``` nav items.
