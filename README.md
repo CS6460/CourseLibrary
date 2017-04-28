@@ -153,6 +153,7 @@ var idx = lunr(function () {
 This code is what determines how relevant a resource is to a given search. Each of the fields above from the YAML front matter on each leaf-node resource markdown file are what are being considered in the search. as you can see, it is easy to give more weight to a certain field by applying a boost, like we did for title and summary. Search can be adjusted by adding fields here (and in the search-results.html file) as well as by adjusting the boost weights.
 
 ## Contributions
-Users can contribute new content or suggest changes through the "Add a Resource" link at the top of the page.  Through this link, a form will be presented for filling out the relevant information about the suggested addition or change, and sent to an administration email address devoted to the course library.
+Users can contribute new content or suggest changes through the "Add a Resource" link at the top of the page.  Through this link, a form will be presented for filling out the relevant information about the suggested addition or change, and sent to an administration email address devoted to the course library.  For a detailed description of how the content should be produced, see the [guide](_GUIDE.md).
+
 
 
