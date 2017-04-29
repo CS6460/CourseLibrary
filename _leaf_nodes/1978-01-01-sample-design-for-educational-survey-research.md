@@ -7,10 +7,7 @@ groups: research-principles-and-methodologies
 categories: [ "survey-research" ]
 topics: [ "sampling-tips" ]
 summary: >
-     These modules were prepared by IIEP staff and consultants to be used in training
-workshops presented for the National Research Coordinators who are responsible
-for the educational policy research programme conducted by the Southern and
-Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). 
+     These modules were prepared by IIEP staff and consultants to be used in training workshops presented for the National Research Coordinators who are responsible for the educational policy research programme conducted by the Southern and Eastern Africa Consortium for Monitoring Educational Quality (SACMEQ). 
 cite: >
      Ross, K. N. (1978). Sample design for educational survey research. Evaluation in Education. International Progress, 2(2), 105-195.
 pub-date: 1978-01-01
