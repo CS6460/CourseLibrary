@@ -6,7 +6,7 @@ youtube-id: 2tKqSaopvt4
 author: David Joyner
 groups: pedagogical-styles
 categories: metacognition
-topics: introductory-resources-video
+topics: intro-video
 summary: >
     David Joyner introduces Metacognition as part of Pedagogical Styles.
 cite: >
