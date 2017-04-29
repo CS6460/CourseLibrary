@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "A Guide to Using Qualitative Research Methodology"
 title-url: "http://fieldresearch.msf.org/msf/bitstream/10144/84230/1/Qualitative%20research%20methodology.pdf"
-author: ["Nouria Bricki","Judith Green"] 
+author: ["Nouria Bricki, Judith Green"] 
 groups: research-principles-and-methodologies
 categories: qualitative-research
 topics: introductory-resources
