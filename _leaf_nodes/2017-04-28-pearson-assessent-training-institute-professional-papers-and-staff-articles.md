@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Pearson Assessment Training Institute - Professional Papers and Staff Articles"
 title-url: "http://downloads.pearsonassessments.com/ati/tools-resources/papers.html"
 author: "Pearson Assessment Training Institite"

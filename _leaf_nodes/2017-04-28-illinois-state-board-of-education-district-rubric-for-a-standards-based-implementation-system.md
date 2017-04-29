@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Illinois State Board of Education District Rubric for a Standards Based Implementation System"
 title-url: "https://www.isbe.net/Documents/dist-imple-rubric.pdf#search=da%20form%20asmt%20chart%20pdf"
 author: "Illinois State Board of Education"

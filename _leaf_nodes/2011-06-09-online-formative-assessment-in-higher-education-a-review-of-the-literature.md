@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Online formative assessment in higher education: A review of the literature"
 title-url: "http://www.brad.ac.uk/academic-skills/media/learnerdevelopmentunit/documents/workshopresources/creatingaliteraturereview/Online-formative-assessment-in-higher-education-A-review-of-the-literature.pdf"
 author: ["J.W. Gikandi","D. Morrow","N.E. Davis"]

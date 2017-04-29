@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Rhode Island Formative Assessment Project"
 title-url: "https://www.wested.org/project/rhode-island-formative-assessment-project-linking-learning-and-assessment/"
 author: "n.a."
