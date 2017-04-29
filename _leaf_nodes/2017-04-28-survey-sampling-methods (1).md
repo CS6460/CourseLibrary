@@ -4,7 +4,7 @@ title: "Survey Sampling Methods"
 title-url: "https://www.statpac.com/surveys/sampling.htm"
 author: [ "StatPac" ]
 groups: research-principles-and-methodologies
-categories: [ ]
+categories: [ survey-research ]
 topics: [ "sampling-tips" ]
 summary: >
      Web tutorial on survey sampling methods.
