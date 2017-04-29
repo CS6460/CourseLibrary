@@ -14,7 +14,11 @@ layout:
 		appendString += '<tr><td><div class="leaf-node">';
 		if (item['youtube-id'] && item['youtube-id'].trim().length > 0) {
 			hasVideo = true;
-			appendString += '<iframe width="560" height="315" src="https://www.youtube.com/embed/' + item['youtube-id'] + '" frameborder="0" allowfullscreen></iframe><br>';
+			// When uncommented, the following line will allow embedded videos
+			// on the search results page. However, when a search would return
+			// a large number of videos, page loading was unreasonably slow. We
+			// felt it best to remove the feature until a better solution could be found.
+			//appendString += '<iframe width="560" height="315" src="https://www.youtube.com/embed/' + item['youtube-id'] + '" frameborder="0" allowfullscreen></iframe><br>';
 		}
 		appendString += '<p class="leaf-node-title"><a href="' + item['title-url'] + '" target="_blank">';
 		appendString += item.title;
