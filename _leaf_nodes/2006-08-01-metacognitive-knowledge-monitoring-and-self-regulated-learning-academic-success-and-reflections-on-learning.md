@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Metacognitive Knowledge Monitoring and Self-Regulated Learning: Academic Success and Reflections on Learning "
 title-url: "http://files.eric.ed.gov/fulltext/EJ854910.pdf"
 author: ["Randy M. Isaacson","Frank Fujita"]
