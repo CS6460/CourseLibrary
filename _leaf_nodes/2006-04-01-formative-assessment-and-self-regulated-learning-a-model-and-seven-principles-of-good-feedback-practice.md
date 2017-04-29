@@ -4,7 +4,7 @@ title: "Formative assessment and self-regulated learning: a model and seven prin
 title-url: "https://www.researchgate.net/profile/David_Nicol/publication/228621906_Formative_Assessment_and_Self-Regulated_Learning_A_Model_and_Seven_Principles_of_Good_Feedback_Practice/links/561bcc9808aea80367242f55.pdf"
 author: ["David J. Nicol","Debra Macfarlane-Dick"]
 groups: pedagogical-styles
-categories: formative-assessment
+categories: [formative-assessment,metacognition]
 topics: scholarly-readings
 summary: >
     The paper describes how students can use formative-assessment on themselves and
