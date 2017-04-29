@@ -45,7 +45,12 @@
   description:
 - slug: basic-stats-t-tests
   pretty: "Basic Stats: t-tests"
-  description:
+  description: "The Student's t-test is one of the simplest statistical tests available. It comes in three types: independent samples t-tests, matched pairs t-tests, and one-sample t-tests."
+- slug: basic-stats-t-tests-independent-samples
+  pretty: "Independent Samples t-tests"
+  description: |
+        A t-test is used to determine if two sets of data are different enough to conclude that the underlying populations from which the data were drawn are also different. In a controlled experiment, a t-test could be used to determine if control and experimental conditions differed after the application of some treatment, such as evaluating the effectiveness of some learning intervention. In survey research, a t-test could be used to determine if responses drawn from different populations differ, such as evaluating whether domestic and international students view the Georgia Tech OMS program equally favorably.
+        The following sources explain simple t-tests.
 - slug: case-study-research
   pretty: "Case Study Research"
   description:
