@@ -91,7 +91,7 @@
 #
 #       The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning.
 - slug: advanced-stats-multiple-linear-regression
-  pretty: "Multiple Linear Regression"
+  pretty: "Multi-Linear Regression"
   description: |
        Linear regression attempts to find a linear interaction between one explanatory variable and one outcome variable. Multiple linear regression allows the same type of analysis, but with multiple explanatory variables. For example, perhaps class performance is a function of both time spent watching class videos and time spent interacting on Piazza - multiple linear regression would allow us to evaluate both of these together. Here are some sources on multiple linear regression.
 - slug: advanced-stats-non-linear-regression
