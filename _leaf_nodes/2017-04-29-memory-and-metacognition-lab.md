@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Memory and Cogntion Lab"
 title-url: "http://www.psychology.su.se/english/research/research-groups/memory-and-metacognition-lab"
 author: "Memory and Cogntion Lab"

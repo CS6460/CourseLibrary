@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Formative Assessment and Next Generation Assessment Systems: Are We Losing an Opportunity?"
 title-url: "http://www.edpolicyinca.org/sites/default/files/Formative_Assessment_Next_Generation_2010.pdf"
 author: "Margaret Heritage"
