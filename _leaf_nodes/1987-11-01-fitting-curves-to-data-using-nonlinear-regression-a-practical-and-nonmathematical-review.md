@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "Fitting curves to data using nonlinear regression: a practical and nonmathematical review,"
+title: "Fitting curves to data using nonlinear regression: a practical and nonmathematical review"
 title-url: "http://www.fasebj.org/content/1/5/365.full.pdf"
 author: [ "Harvey Motulsky", "Lennary Ransnas" ]
 groups: research-principles-and-methodologies
