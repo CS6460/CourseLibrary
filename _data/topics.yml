@@ -73,8 +73,8 @@
        ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance?
 
        The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning.
-- slug: advanced-stats-manova
-  pretty: "MANOVA"
+- slug: manova
+  pretty: "Advanced Stats > MANOVA"
   description: |
        A MANOVA, or Multivariate Analysis of Variance, evaluates whether multiple categories predict variance across some variable. For example, a MANVOA could tell us if there are interactions between gender and international status in predicting students' perception of the OMS program. Here are some sources on MANOVA.
 - slug: advanced-stats-multiple-linear-regression
@@ -87,12 +87,6 @@
        You might speculate that the interaction between study time and class performance is non-linear. After all, is the difference between 100 hours of studying and 101 going to be as significant as the difference between 0 hours and 1? Non-linear regression generalizes linear regression to apply not just to straight lines, but to any function, such as exponential and logarithmic functions. The mathematics are still the same, but the power introduced can be useful.
 
        Here are some sources on non-linear regression. 
-- slug: online-statistics-courses
-  pretty: "Qualitative Research: Online Statistics Courses"
-  description: |
-       "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts.
-
-       Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
 - slug: online-statistics-courses-beginner
   pretty: "Beginner Courses"
   description:
