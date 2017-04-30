@@ -109,14 +109,16 @@
        You might speculate that the interaction between study time and class performance is non-linear. After all, is the difference between 100 hours of studying and 101 going to be as significant as the difference between 0 hours and 1? Non-linear regression generalizes linear regression to apply not just to straight lines, but to any function, such as exponential and logarithmic functions. The mathematics are still the same, but the power introduced can be useful.
 
        Here are some sources on non-linear regression. 
-
-- slug: online-statistics-courses-beginner
+- slug: statistics-courses-beginner
+#- slug: online-statistics-courses-beginner
   pretty: "Beginner Courses"
   description:
-- slug: online-statistics-courses-advanced
+- slug: statistics-courses-advanced
+#- slug: online-statistics-courses-advanced
   pretty: "Advanced Courses"
   description:
-- slug: online-statistics-beyond-statistics
+- slug: statistics-beyond-statistics
+#- slug: online-statistics-beyond-statistics
   pretty: "Beyond Statistics: Data Science and Machine Learning"
   description:
 
@@ -168,9 +170,9 @@
 - slug: online-courses-and-textbooks
   pretty: "Online Courses and Textbooks"
   description: "The following are a few available online courses, textbooks, and other resources:"
-- slug: online-statistics-courses
-  pretty: "Online Statistics Courses"
-  description: "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts. Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
+#- slug: online-statistics-courses
+#  pretty: "Online Statistics Courses"
+#  description: "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts. Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
 - slug: plagiarism
   pretty: "Plagiarism"
   description:
