@@ -1,9 +1,9 @@
 ---
 layout: leaf-node
 title: "Introduction to Metacognition"
-title-url: "https://www.youtube.com/watch?v=2tKqSaopvt4"
-youtube-id: 2tKqSaopvt4
-author: David Joyner
+title-url: "https://www.youtube.com/watch?v=61BoWH45dWk"
+youtube-id: 61BoWH45dWk
+author: "David Joyner"
 groups: pedagogical-styles
 categories: metacognition
 topics: intro-video
