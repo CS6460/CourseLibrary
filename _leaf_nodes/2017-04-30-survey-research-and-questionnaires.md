@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Survey Research and Questionnaires"
 title-url: "http://www.researchconnections.org/childcare/datamethods/survey.jsp"
 author: "n.a."

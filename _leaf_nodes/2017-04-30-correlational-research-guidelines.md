@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Correlational Research Guidelines"
 title-url: "https://www.capilanou.ca/psychology/student-resources/research-guidelines/Correlational-Research-Guidelines/"
 author: "Janet Waters"

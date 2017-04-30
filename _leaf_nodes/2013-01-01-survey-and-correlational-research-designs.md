@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Survey and Correlational Research Designs"
 title-url: "http://www.sagepub.com/sites/default/files/upm-binaries/57732_Chapter_8.pdf"
 author: Content Author

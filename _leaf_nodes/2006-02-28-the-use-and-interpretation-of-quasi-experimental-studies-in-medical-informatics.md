@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "The Use and Interpretation of Quasi-Experimental Studies in Medical Informatics"
 title-url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380192/"
 author: ["Anthony D. Harris", "Jessina C. McGregor", "Eli N. Perencevich", "Jon P. Furuno", "Jingkun Zhu", "Dan E. Peterson", "Joseph Finkelstein"]
