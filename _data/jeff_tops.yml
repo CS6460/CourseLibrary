@@ -109,16 +109,13 @@
        You might speculate that the interaction between study time and class performance is non-linear. After all, is the difference between 100 hours of studying and 101 going to be as significant as the difference between 0 hours and 1? Non-linear regression generalizes linear regression to apply not just to straight lines, but to any function, such as exponential and logarithmic functions. The mathematics are still the same, but the power introduced can be useful.
 
        Here are some sources on non-linear regression. 
-- slug: statistics-courses-beginner
-#- slug: online-statistics-courses-beginner
+- slug: online-statistics-courses-beginner
   pretty: "Beginner Courses"
   description:
-- slug: statistics-courses-advanced
-#- slug: online-statistics-courses-advanced
+- slug: online-statistics-courses-advanced
   pretty: "Advanced Courses"
   description:
-- slug: statistics-beyond-statistics
-#- slug: online-statistics-beyond-statistics
+- slug: online-statistics-beyond-statistics
   pretty: "Beyond Statistics: Data Science and Machine Learning"
   description:
 
