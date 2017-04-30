@@ -1,4 +1,4 @@
---
+---
 layout: leaf-node
 title: "Experimental designs for research"
 title-url: "http://web.csulb.edu/~msaintg/ppa696/696exper.htm"
@@ -13,4 +13,4 @@ cite: >
 pub-date: 1998-02-14
 added-date: 2017-04-30
 resource-type: external-page
---
+---
