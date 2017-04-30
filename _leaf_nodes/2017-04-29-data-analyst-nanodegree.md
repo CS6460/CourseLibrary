@@ -8,7 +8,6 @@ categories: [ "quantitative-research" ]
 topics: [ "online-statistics-beyond-statistics" ]
 summary: >
      We built this program with expert analysts and scientists at leading technology companies to ensure you master the exact skills necessary to build a career in data science.
-Learn to organize data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
 cite: >
      
 pub-date: 
