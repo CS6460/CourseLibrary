@@ -37,12 +37,10 @@
   description:
 
 ##category specific
-
 # Quantitative Methods
 #- slug: advanced-stats
 #  pretty: "Advanced Stats"
 #  description: "ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance? The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning."
-
 - slug: basic-stats-t-tests-independent-samples
   pretty: "T-Test: Independent Samples"
   description: |
@@ -64,14 +62,16 @@
   pretty: "T-Test: Calculators"
   description: |
         Generally, though, you won't do the math for t-tests by hand. You might use advanced statistical like SPSS or R, but you can also take advantage of simple online calculators like the ones below.
-
 - slug: basic-stats-anova
   pretty: "ANOVA"
   description: |
       t-tests test for differences between groups. However, if you read that information carefully, you may notice something problematic. t-tests usually use a confidence level of 95%, but that means one in every twenty tests could be flawed. What if we want to compare five different groups for differences between any pair of groups? We would need twenty comparisons, raising the odds of getting a false positive.
 
       An Analysis of Variance, or ANOVA, test helps prevent this by giving one test that compares for differences among multiple groups
-
+- slug: manova
+  pretty: "MANOVA"
+  description: |
+       A MANOVA, or Multivariate Analysis of Variance, evaluates whether multiple categories predict variance across some variable. For example, a MANVOA could tell us if there are interactions between gender and international status in predicting students' perception of the OMS program. Here are some sources on MANOVA.
 - slug: basic-stats-linear-regression
   pretty: "Linear Regression"
   description: |
@@ -87,17 +87,10 @@
 #       ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance?
 #
 #       The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning.
-
-- slug: manova
-  pretty: "MANOVA"
-  description: |
-       A MANOVA, or Multivariate Analysis of Variance, evaluates whether multiple categories predict variance across some variable. For example, a MANVOA could tell us if there are interactions between gender and international status in predicting students' perception of the OMS program. Here are some sources on MANOVA.
-
 - slug: advanced-stats-multiple-linear-regression
   pretty: "Multiple Linear Regression"
   description: |
        Linear regression attempts to find a linear interaction between one explanatory variable and one outcome variable. Multiple linear regression allows the same type of analysis, but with multiple explanatory variables. For example, perhaps class performance is a function of both time spent watching class videos and time spent interacting on Piazza - multiple linear regression would allow us to evaluate both of these together. Here are some sources on multiple linear regression.
-
 - slug: advanced-stats-non-linear-regression
   pretty: "Non-Linear Regression"
   description: |
@@ -113,13 +106,10 @@
 - slug: online-statistics-beyond-statistics
   pretty: "Beyond Statistics: Data Science and Machine Learning"
   description:
-
 - slug: data-sets
   pretty: "Data Sets"
   description: "There are several data sets available on the internet for public analysis. Below are a couple you might be interested in using:"
-
-
-
+#other category topics
 - slug: case-study-research
   pretty: "Case Study Research"
   description:
