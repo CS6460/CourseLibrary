@@ -1,4 +1,4 @@
---
+---
 layout: leaf-node
 title: "Experimental Design"
 title-url: "http://www.socialresearchmethods.net/kb/desexper.php"
@@ -13,4 +13,4 @@ cite: >
 pub-date: 2006-10-20
 added-date: 2017-04-30
 resource-type: external-page
---
+---
