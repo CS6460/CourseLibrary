@@ -1,0 +1,183 @@
+##general
+- slug: intro-video
+  pretty: "Introductory Videos"
+  description:
+- slug: introductory-resources
+  pretty: "Introductory Resources"
+  description:
+- slug: scholarly-readings
+  pretty: "Scholarly Readings"
+  description:
+- slug: biographies
+  pretty: "Biographies"
+  description:
+- slug: ongoing-projects
+  pretty: "Ongoing Projects"
+  description:
+- slug: in-the-media
+  pretty: "In the Media"
+  description:
+- slug: interviews
+  pretty: "Interviews"
+  description:
+
+##Group specific
+#Intro to Educational Technology
+- slug: survey-of-edtech
+  pretty: "Survey of EdTech"
+  description:
+- slug: views-on-educational-technology
+  pretty: "Views on Educational Technology"
+  description:
+- slug: useful-web-sites
+  pretty: "Useful Web Sites"
+  description:
+
+##category specific
+- slug: advanced-stats
+  pretty: "Advanced Stats"
+  description: "ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance? The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning."
+- slug: basic-stats-anova
+  pretty: "Basic Stats: ANOVA"
+  description:
+- slug: basic-stats-linear-regression
+  pretty: "Basic Stats: Linear Regression"
+  description:
+#- slug: basic-stats-t-tests
+#  pretty: "Basic Stats: t-tests"
+#  description: "The Student's t-test is one of the simplest statistical tests available. It comes in three types: independent samples t-tests, matched pairs t-tests, and one-sample t-tests."
+- slug: basic-stats-t-tests-independent-samples
+  pretty: "Independent Samples t-tests"
+  description: |
+        A t-test is used to determine if two sets of data are different enough to conclude that the underlying populations from which the data were drawn are also different. In a controlled experiment, a t-test could be used to determine if control and experimental conditions differed after the application of some treatment, such as evaluating the effectiveness of some learning intervention. In survey research, a t-test could be used to determine if responses drawn from different populations differ, such as evaluating whether domestic and international students view the Georgia Tech OMS program equally favorably.
+        The following sources explain simple t-tests.
+- slug: basic-stats-t-tests-matched-pairs
+  pretty: "Matched Pairs t-tests"
+  description: |
+        Simple t-tests will take care of many analyses, but there are slightly more complicated versions for more complex analyses. For example, t-tests assume that the two groups don't interact. But what if you wanted to test the effectiveness of a learning tool without doing a controlled experiment? What if you simply wanted to evaluate whether the students knew more after using the tool than they knew before? For that, you would use a matched t-test, where you pair up connected values.
+
+        The following sources explain matched t-tests.
+- slug: basic-stats-t-tests-one-sample
+  pretty: "One-Sample t-tests"
+  description: |
+        A third kind of t-test, the one-sample t-test, can be used when we know the population mean and want to evaluate whether or not a particular sample matches that population mean. For example, we may want to evaluate whether incoming Georgia Tech OMS students have average GRE scores that match the GRE average - the GRE average is known, and we may take one sample of incoming OMS students and compare their mean GRE scores to the GRE average.
+
+        The following sources explain one-sample t-tests.
+- slug: basic-stats-t-tests-calculators
+  pretty: "t-test Calculators"
+  description: |
+        Generally, though, you won't do the math for t-tests by hand. You might use advanced statistical like SPSS or R, but you can also take advantage of simple online calculators like the ones below.
+- slug: advanced-stats
+  pretty: "Quantitative Research: Advanced Stats"
+  description: |
+       ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance?
+
+       The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning.
+- slug: advanced-stats-manova
+  pretty: "MANOVA"
+  description: |
+       A MANOVA, or Multivariate Analysis of Variance, evaluates whether multiple categories predict variance across some variable. For example, a MANVOA could tell us if there are interactions between gender and international status in predicting students' perception of the OMS program. Here are some sources on MANOVA.
+- slug: advanced-stats-multiple-linear-regression
+  pretty: "Multiple Linear Regression"
+  description: |
+       Linear regression attempts to find a linear interaction between one explanatory variable and one outcome variable. Multiple linear regression allows the same type of analysis, but with multiple explanatory variables. For example, perhaps class performance is a function of both time spent watching class videos and time spent interacting on Piazza - multiple linear regression would allow us to evaluate both of these together. Here are some sources on multiple linear regression.
+- slug: advanced-stats-non-linear-regression
+  pretty: "Non-Linear Regression"
+  description: |
+       You might speculate that the interaction between study time and class performance is non-linear. After all, is the difference between 100 hours of studying and 101 going to be as significant as the difference between 0 hours and 1? Non-linear regression generalizes linear regression to apply not just to straight lines, but to any function, such as exponential and logarithmic functions. The mathematics are still the same, but the power introduced can be useful.
+
+       Here are some sources on non-linear regression. 
+- slug: online-statistics-courses
+  pretty: "Qualitative Research: Online Statistics Courses"
+  description: |
+       "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts.
+
+       Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
+- slug: online-statistics-courses-beginner
+  pretty: "Beginner Courses"
+  description:
+- slug: online-statistics-courses-advanced
+  pretty: "Advanced Courses"
+  description:
+- slug: online-statistics-beyond-statistics
+  pretty: "Beyond Statistics: Data Science and Machine Learning"
+  description:
+- slug: case-study-research
+  pretty: "Case Study Research"
+  description:
+- slug: conferences-journals-and-books
+  pretty: "Conferences, Journals, and Books"
+  description:
+- slug: controlled-experiments-in-education
+  pretty: "Controlled Experiments in Education"
+  description:
+- slug: controlling-for-biases
+  pretty: "Controlling for Biases"
+  description:
+- slug: data-sets
+  pretty: "Data Sets"
+  description: "There are several data sets available on the internet for public analysis. Below are a couple you might be interested in using:"
+- slug: educational-technology-in-the-media
+  pretty: "Educational Technology in the Media"
+  description:
+- slug: examples-of-design-based-research-in-action
+  pretty: "Examples of Design-Based Research in Action"
+  description:
+- slug: exemplary-controlled-experiments
+  pretty: "Exemplary Controlled Experiments"
+  description:
+- slug: group-work-at-a-distance
+  pretty: "Group Work at a Distance"
+  description:
+- slug: irb-procedures
+  pretty: "IRB Procedures"
+  description: |
+      If your work qualifies as human subjects research, then you'll need IRB approval to conduct your work. Your work generally qualifies as human subjects research if:<br><br>
+      
+      1 - It involves human subjects. This includes data on human subjects that is already generated, such as OMS student data.<br>
+      2 - It is research. According to the Federal Policy for the Protection of Human Subjects, research is 'a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge.' Thus, if your intent is not to contribute to generalizable knowledge (for example, if your intent is instead to simply improve your tool), this does not qualify as research. Note that if you have any intention of publishing your work in academic conferences or journals, then it does qualify as research.<br><br>
+      
+      Here are some resources on understanding what IRB is, whether you need to work with them, and how to go about doing so. If you think you need IRB approval, please make sure to consult with your mentor and the teaching team.
+- slug: learner-motivation
+  pretty: "Learner Motivation"
+  description:
+- slug: making-a-good-survey
+  pretty: "Making a Good Survey"
+  description: "Designing good survey questions, and a good survey as a whole, is an often-studied science. Below are some resources on constructing good instruments for measuring what you want to measure."
+- slug: online-courses-and-textbooks
+  pretty: "Online Courses and Textbooks"
+  description: "The following are a few available online courses, textbooks, and other resources:"
+- slug: online-statistics-courses
+  pretty: "Online Statistics Courses"
+  description: "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts. Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
+- slug: plagiarism
+  pretty: "Plagiarism"
+  description:
+- slug: qualitative-vs-quantitative-research
+  pretty: "Qualitative vs. Quantitative Research"
+  description: "Choosing between qualitative and quantitative research is not always an easy task. There are some variables and phenomena that seem like they may be measurable numerically, but that really should be described qualitatively before trying to create valid constructs. The sources below should help you choose whether qualitative or quantitative research is right for you. Note that qualitative research is often used in nursing and medicine as well, and you may see sources that talk about it in those domains; generally, the concepts are relatively transferable."
+- slug: research-designs
+  pretty: "Research Designs"
+  description:
+- slug: research-ethics
+  pretty: "Research Ethics"
+  description:
+- slug: research-vocabulary
+  pretty: "Research Vocabulary"
+  description:
+- slug: sampling-tips
+  pretty: "Sampling Tips"
+  description:
+- slug: student-admissions
+  pretty: "Student Admissions"
+  description:
+- slug: student-isolation
+  pretty: "Student Isolation"
+  description:
+- slug: student-retention
+  pretty: "Student Retention"
+  description:
+- slug: students-with-special-needs
+  pretty: "Students with Special Needs"
+  description:
+
