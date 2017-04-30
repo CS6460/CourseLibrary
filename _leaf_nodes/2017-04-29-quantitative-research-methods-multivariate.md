@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "Quantitative Research Methods: Multivariate,"
+title: "Quantitative Research Methods: Multivariate"
 title-url: "https://ocw.mit.edu/courses/political-science/17-874-quantitative-research-methods-multivariate-spring-2004/"
 author: [ "MIT OpenCourseWare" ]
 groups: research-principles-and-methodologies
