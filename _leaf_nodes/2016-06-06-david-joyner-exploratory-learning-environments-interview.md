@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=8_eM0jeD9Nc"
 youtube-id: 8_eM0jeD9Nc
 author: "Jason Barros"
 groups: technologies
-categories: intelligent-tutoring-systems
+categories: simulation-based-learning
 topics: interviews
 summary: >
     Jason Barros interviews David Joyner, Course Developer at Udacity, about the 
