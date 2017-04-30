@@ -5,6 +5,9 @@
 - slug: introductory-resources
   pretty: "Introductory Resources"
   description:
+- slug: research-vocabulary
+  pretty: "Research Vocabulary"
+  description:
 - slug: scholarly-readings
   pretty: "Scholarly Readings"
   description:
@@ -163,9 +166,6 @@
   description:
 - slug: research-ethics
   pretty: "Research Ethics"
-  description:
-- slug: research-vocabulary
-  pretty: "Research Vocabulary"
   description:
 - slug: sampling-tips
   pretty: "Sampling Tips"
