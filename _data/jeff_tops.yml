@@ -29,6 +29,9 @@
 - slug: views-on-educational-technology
   pretty: "Views on Educational Technology"
   description:
+- slug: educational-technology-in-the-media
+  pretty: "Educational Technology in the Media"
+  description:
 - slug: useful-web-sites
   pretty: "Useful Web Sites"
   description:
@@ -136,9 +139,6 @@
   description:
 - slug: controlling-for-biases
   pretty: "Controlling for Biases"
-  description:
-- slug: educational-technology-in-the-media
-  pretty: "Educational Technology in the Media"
   description:
 - slug: examples-of-design-based-research-in-action
   pretty: "Examples of Design-Based Research in Action"
