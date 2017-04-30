@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Design-Based Research in Science Education:  One Step Towards Methodology"
 title-url: "http://www.mv.helsinki.fi/home/kjuuti/Juuti_lavonen_nordina_dbr.pdf"
 author: ["Kalle Juuti","Jari Lavonen"]

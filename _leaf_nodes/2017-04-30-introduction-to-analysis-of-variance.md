@@ -8,8 +8,8 @@ categories: [ "quantitative-research" ]
 topics: [ "basic-stats-anova" ]
 summary: >
      Learning Objectives
-What null hypothesis is tested by ANOVA
-Describe the uses of ANOVA
+        1) What null hypothesis is tested by ANOVA
+        2) Describe the uses of ANOVA
 cite: >
      Lane, D. M. (n.d.) Introduction to Analysis of Variance.  Retrieved from: http://onlinestatbook.com/2/analysis_of_variance/intro.html
 pub-date: 
