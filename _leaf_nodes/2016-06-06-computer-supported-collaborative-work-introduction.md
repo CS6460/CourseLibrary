@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=zxEhhgS6ZNc"
 youtube-id: zxEhhgS6ZNc
 author: "David Joyner"
 groups: technologies
-categories: Computer-Supported Collaborative Work
+categories: computer-supported-collaborative-work
 topics: intro-video
 summary: >
     David Joyner introduces Computer-Supported Collaborative Work as part of Technologies.
