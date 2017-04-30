@@ -107,7 +107,7 @@
   pretty: "Advanced Courses"
   description:
 - slug: online-statistics-beyond-statistics
-  pretty: "Beyond Statistics: Data Science and Machine Learning"
+  pretty: "Beyond Stats: Data Science and ML"
   description:
 - slug: data-sets
   pretty: "Data Sets"
