@@ -1,4 +1,4 @@
---
+---
 layout: leaf-node
 title: "Experimental Method"
 title-url: "https://www.simplypsychology.org/experimental-method.html"
@@ -13,4 +13,4 @@ cite: >
 pub-date: 2012-01-01
 added-date: 2017-04-30
 resource-type: external-page
---
+---
