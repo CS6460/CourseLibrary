@@ -1,4 +1,4 @@
---
+---
 layout: leaf-node
 title: "Experimental research"
 title-url: "https://www.boundless.com/psychology/textbooks/boundless-psychology-textbook/researching-psychology-2/types-of-research-studies-27/experimental-research-126-12661/"
@@ -13,4 +13,4 @@ cite: >
 pub-date: 2016-09-20
 added-date: 2017-04-30
 resource-type: external-page
---
+---
