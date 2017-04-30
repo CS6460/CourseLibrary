@@ -4,7 +4,7 @@ title: "Qualitative and Quantitative Research: Comparison of Qualitative and Qua
 title-url: "http://atlasti.com/quantitative-vs-qualitative-research/"
 author: [ "Atlasti" ]
 groups: research-principles-and-methodologies
-categories: [ ]
+categories: [ "qualitative-research", "quantitative-research" ]
 topics: [ "qualitative-vs-quantitative-research" ]
 summary: >
      Quantitative and qualitative research are commonly considered to differ fundamentally. Yet, their objectives as well as their applications overlap in numerous ways.
