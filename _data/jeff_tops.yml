@@ -34,6 +34,7 @@
   description:
 
 ##category specific
+#Quant
 - slug: advanced-stats
   pretty: "Advanced Stats"
   description: "ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance? The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning."
