@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "A Metacognitive Peer Tutoring Model: Linking Thinking, Learning, and Performance in a Peer Tutoring Program"
 title-url: "https://www.thelearnwellprojects.com/thewell/a-metacognitive-peer-tutoring-model-linking-thinking-learning-and-performance-in-a-peer-tutoring-program/"
 author: "The LearnWell Projects"

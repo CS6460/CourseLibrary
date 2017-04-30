@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Metacognition Lab"
 title-url: "http://wku.edu/psychology/research/metacognition/index.php"
 author: "Metacognition Lab"
