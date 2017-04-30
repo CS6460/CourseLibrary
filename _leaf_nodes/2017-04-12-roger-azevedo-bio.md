@@ -3,8 +3,8 @@ layout: leaf-node
 title: "Roger Azevedo"
 title-url: "https://faculty.chass.ncsu.edu/razeved"
 author: "North Carolina State University (NCSU)"
-groups: technologies
-categories: intelligent-tutoring-systems
+groups: [technologies,pedagogical-styles]
+categories: [intelligent-tutoring-systems,metacognition]
 topics: biographies
 summary: |
     Professor, College of Humanities and Social Sciences
