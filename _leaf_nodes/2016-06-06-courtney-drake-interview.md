@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=Qht-963q0bk"
 youtube-id: Qht-963q0bk
 author: "David Joyner"
 groups: technologies
-categories: online-learning
+categories: ["online-learning", "social-learning"]
 topics: interviews
 summary: >
     David Joyner interviews Courtney Drake, Product Manager at Udacity, about building

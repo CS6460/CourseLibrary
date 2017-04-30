@@ -2,6 +2,7 @@
 layout: leaf-node
 title: "Introduction to Communities of Practice"
 title-url: "https://www.youtube.com/watch?v=9hinEQktxKM"
+youtube-id: 9hinEQktxKM
 author: David Joyner
 groups: technologies
 categories: communities-of-practice

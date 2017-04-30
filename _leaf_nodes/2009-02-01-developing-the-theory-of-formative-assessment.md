@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Developing the Theory of Formative Assessment"
 title-url: "https://kclpure.kcl.ac.uk/portal/files/9119063/Black2009_Developing_the_theory_of_formative_assessment.pdf"
 author: ["Paul Black","Dylan William"]

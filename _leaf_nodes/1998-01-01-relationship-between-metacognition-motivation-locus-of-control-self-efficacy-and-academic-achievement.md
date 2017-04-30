@@ -1,5 +1,5 @@
 ---
-layout: leaf-node or page
+layout: leaf-node
 title: "Relationship Between  Metacognition, Motivation, Locus of Control, Self-Efficacy, and Academic Achievement"
 title-url: "http://files.eric.ed.gov/fulltext/EJ576966.pdf"
 author: ["Jeffrey Landine","John Stewart"]

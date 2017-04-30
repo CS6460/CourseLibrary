@@ -2,7 +2,6 @@
 layout: leaf-node
 title: "Is Project-Based Learning the Way to Go?"
 title-url: "http://ww2.kqed.org/learning/2015/08/11/is-project-based-learning-the-way-to-go/"
-youtube-id: waKZQ9gaBkI
 author: "California Academy of Sciences"
 groups: pedagogical-styles
 categories: project-based-learning

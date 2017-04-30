@@ -5,6 +5,9 @@
 - slug: introductory-resources
   pretty: "Introductory Resources"
   description:
+- slug: research-vocabulary
+  pretty: "Research Vocabulary"
+  description:
 - slug: scholarly-readings
   pretty: "Scholarly Readings"
   description:
@@ -29,23 +32,87 @@
 - slug: views-on-educational-technology
   pretty: "Views on Educational Technology"
   description:
+- slug: educational-technology-in-the-media
+  pretty: "Educational Technology in the Media"
+  description:
 - slug: useful-web-sites
   pretty: "Useful Web Sites"
   description:
 
 ##category specific
-- slug: advanced-stats
-  pretty: "Advanced Stats"
-  description: "ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance? The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning."
+# Quantitative Methods
+#- slug: advanced-stats
+#  pretty: "Advanced Stats"
+#  description: "ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance? The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning."
+- slug: basic-stats-t-tests-independent-samples
+  pretty: "T-Test: Independent Samples"
+  description: |
+        A t-test is used to determine if two sets of data are different enough to conclude that the underlying populations from which the data were drawn are also different. In a controlled experiment, a t-test could be used to determine if control and experimental conditions differed after the application of some treatment, such as evaluating the effectiveness of some learning intervention. In survey research, a t-test could be used to determine if responses drawn from different populations differ, such as evaluating whether domestic and international students view the Georgia Tech OMS program equally favorably.
+        The following sources explain simple t-tests.
+- slug: basic-stats-t-tests-matched-pairs
+  pretty: "T-Test: Matched Pairs"
+  description: |
+        Simple t-tests will take care of many analyses, but there are slightly more complicated versions for more complex analyses. For example, t-tests assume that the two groups don't interact. But what if you wanted to test the effectiveness of a learning tool without doing a controlled experiment? What if you simply wanted to evaluate whether the students knew more after using the tool than they knew before? For that, you would use a matched t-test, where you pair up connected values.
+
+        The following sources explain matched t-tests.
+- slug: basic-stats-t-tests-one-sample
+  pretty: "T-Test: One-Sample"
+  description: |
+        A third kind of t-test, the one-sample t-test, can be used when we know the population mean and want to evaluate whether or not a particular sample matches that population mean. For example, we may want to evaluate whether incoming Georgia Tech OMS students have average GRE scores that match the GRE average - the GRE average is known, and we may take one sample of incoming OMS students and compare their mean GRE scores to the GRE average.
+
+        The following sources explain one-sample t-tests.
+- slug: basic-stats-t-tests-calculators
+  pretty: "T-Test: Calculators"
+  description: |
+        Generally, though, you won't do the math for t-tests by hand. You might use advanced statistical like SPSS or R, but you can also take advantage of simple online calculators like the ones below.
 - slug: basic-stats-anova
-  pretty: "Basic Stats: ANOVA"
-  description:
+  pretty: "ANOVA"
+  description: |
+      t-tests test for differences between groups. However, if you read that information carefully, you may notice something problematic. t-tests usually use a confidence level of 95%, but that means one in every twenty tests could be flawed. What if we want to compare five different groups for differences between any pair of groups? We would need twenty comparisons, raising the odds of getting a false positive.
+
+      An Analysis of Variance, or ANOVA, test helps prevent this by giving one test that compares for differences among multiple groups
+- slug: manova
+  pretty: "MANOVA"
+  description: |
+       A MANOVA, or Multivariate Analysis of Variance, evaluates whether multiple categories predict variance across some variable. For example, a MANVOA could tell us if there are interactions between gender and international status in predicting students' perception of the OMS program. Here are some sources on MANOVA.
 - slug: basic-stats-linear-regression
-  pretty: "Basic Stats: Linear Regression"
+  pretty: "Linear Regression"
+  description: |
+      t-tests and ANOVA both aim to state if two different groups are different. Thus, they rely on data that can be split based on some discrete categories, such as whether the data comes from a pre-test or a post-test, or whether the data comes from a first-year student or a second-year student.
+
+      However, what if our explanatory variable is continuous instead of discrete? What if, for example, we wanted to see if class performance varied as a function of number of forum contributions or time spent watching videos? In this case, we would be looking at regression. The simplest form of regression is linear regression, where one variable is assumed to be a linear function of another.
+#- slug: basic-stats-t-tests
+#  pretty: "Basic Stats: t-tests"
+#  description: "The Student's t-test is one of the simplest statistical tests available. It comes in three types: independent samples t-tests, matched pairs t-tests, and one-sample t-tests."
+#- slug: advanced-stats
+#  pretty: "Quantitative Research: Advanced Stats"
+#  description: |
+#       ANOVA, t-tests, and linear regression are three of the simplest statistical tests, and for the scope of this class, they will likely get you what you need. However, it's possible you might need more complex statistical tests. For example, what if you wanted to analyze the impact of both gender and international status on perception of the OMS program? What about interactions that you suspect will be non-linear, like the interaction between forum interactivity and class performance?
+#
+#       The following are three potentially useful classes of more advanced statistical analyses. To run these, you'll generally need a tool like SPSS or R, and you should see the section on available online statistics courses for more on how to use those. Note that even more powerful methods exist, but once you start looking at the more powerful methods, you're getting very close to performing machine learning.
+- slug: advanced-stats-multiple-linear-regression
+  pretty: "Multiple Linear Regression"
+  description: |
+       Linear regression attempts to find a linear interaction between one explanatory variable and one outcome variable. Multiple linear regression allows the same type of analysis, but with multiple explanatory variables. For example, perhaps class performance is a function of both time spent watching class videos and time spent interacting on Piazza - multiple linear regression would allow us to evaluate both of these together. Here are some sources on multiple linear regression.
+- slug: advanced-stats-non-linear-regression
+  pretty: "Non-Linear Regression"
+  description: |
+       You might speculate that the interaction between study time and class performance is non-linear. After all, is the difference between 100 hours of studying and 101 going to be as significant as the difference between 0 hours and 1? Non-linear regression generalizes linear regression to apply not just to straight lines, but to any function, such as exponential and logarithmic functions. The mathematics are still the same, but the power introduced can be useful.
+
+       Here are some sources on non-linear regression. 
+- slug: online-statistics-courses-beginner
+  pretty: "Beginner Courses"
   description:
-- slug: basic-stats-t-tests
-  pretty: "Basic Stats: t-tests"
+- slug: online-statistics-courses-advanced
+  pretty: "Advanced Courses"
   description:
+- slug: online-statistics-beyond-statistics
+  pretty: "Beyond Stats: Data Science and ML"
+  description:
+- slug: data-sets
+  pretty: "Data Sets"
+  description: "There are several data sets available on the internet for public analysis. Below are a couple you might be interested in using:"
+#other category topics
 - slug: case-study-research
   pretty: "Case Study Research"
   description:
@@ -57,12 +124,6 @@
   description:
 - slug: controlling-for-biases
   pretty: "Controlling for Biases"
-  description:
-- slug: data-sets
-  pretty: "Data Sets"
-  description: "There are several data sets available on the internet for public analysis. Below are a couple you might be interested in using:"
-- slug: educational-technology-in-the-media
-  pretty: "Educational Technology in the Media"
   description:
 - slug: examples-of-design-based-research-in-action
   pretty: "Examples of Design-Based Research in Action"
@@ -91,9 +152,9 @@
 - slug: online-courses-and-textbooks
   pretty: "Online Courses and Textbooks"
   description: "The following are a few available online courses, textbooks, and other resources:"
-- slug: online-statistics-courses
-  pretty: "Online Statistics Courses"
-  description: "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts. Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
+#- slug: online-statistics-courses
+#  pretty: "Online Statistics Courses"
+#  description: "If you needed to start looking at those advanced statistical methods, however — or if you still needed some help with the earlier topics — you may need to dive deeper into learning some statistics. Fortunately, statistics is a commonly-taught subject, and there are lots of courses available online, for everyone from beginners to experts. Here are a few. Note that to access Udacity courses, you'll need a separate account from your Georgia Tech+Udacity login. You can create such account at Udacity.com"
 - slug: plagiarism
   pretty: "Plagiarism"
   description:
@@ -105,9 +166,6 @@
   description:
 - slug: research-ethics
   pretty: "Research Ethics"
-  description:
-- slug: research-vocabulary
-  pretty: "Research Vocabulary"
   description:
 - slug: sampling-tips
   pretty: "Sampling Tips"
@@ -124,4 +182,3 @@
 - slug: students-with-special-needs
   pretty: "Students with Special Needs"
   description:
-
