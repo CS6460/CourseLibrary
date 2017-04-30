@@ -4,7 +4,7 @@ title: "Big Data in Education"
 title-url: "https://www.edx.org/course/big-data-education-pennx-bde1x"
 author: [ "University of Pennsylvania" ]
 groups: research-principles-and-methodologies
-categories: [ "qualitative-research" ]
+categories: [ "quantitative-research" ]
 topics: [ "online-statistics-beyond-statistics" ]
 summary: >
      Online and software-based learning tools have been used increasingly in education. This movement has resulted in an explosion of data, which can now be used to improve educational effectiveness and support basic research on learning.
