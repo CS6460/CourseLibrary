@@ -1,4 +1,4 @@
---
+---
 layout: leaf-node
 title: "Experimental and Quasi-Experimental Designs for Research"
 title-url: "https://moodle.technion.ac.il/pluginfile.php/367640/mod_resource/content/1/Donald_T._(Donald_T._Campbell)_Campbell,_Julian_Stanley-Experimental_and_Quasi-Experimental_Designs_for_Research-Wadsworth_Publishing(1963)%20(1).pdf"
@@ -13,4 +13,4 @@ cite: >
 pub-date: 1963-01-01
 added-date: 2017-04-30
 resource-type: external-page
---
+---
