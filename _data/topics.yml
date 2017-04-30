@@ -125,3 +125,19 @@
   pretty: "Students with Special Needs"
   description:
 
+### Additional topics for Research-Designs
+- slug: descriptive-designs
+  pretty: "Descriptive Designs"
+  description:
+- slug: correlational-designs
+  pretty: "Correlational Designs"
+  description:
+- slug: quasi-experimental-designs
+  pretty: "Quasi-Experimental Designs"
+  description:
+- slug: experimental-designs
+  pretty: "Experimental Designs"
+  description:
+- slug: survey-designs
+  pretty: "Survey Designs"
+  description:
