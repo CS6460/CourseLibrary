@@ -4,7 +4,7 @@ title: "Quantitative and Qualitative Inquiry in Educational Research: Is There A
 title-url: "http://www.leeds.ac.uk/educol/documents/00001487.htm"
 author: [ "Katrin Niglas" ]
 groups: research-principles-and-methodologies
-categories: [ "qualitative-research" ]
+categories: [ "qualitative-research", "quantitative-research" ]
 topics: [ "qualitative-vs-quantitative-research" ]
 summary: >
      This paper will discuss and analyse methodological problems of educational inquiry and especially the distinction between quantitative and qualitative approaches of research.

@@ -4,7 +4,7 @@ title: "Nursing Resources: Qualitative vs. Quantitative"
 title-url: "http://researchguides.ebling.library.wisc.edu/c.php?g=293229&p=1953453"
 author: [ "University of Wisconsin" ]
 groups: research-principles-and-methodologies
-categories: [ "qualitative-research" ]
+categories: [ "qualitative-research", "quantitative-research" ]
 topics: [ "qualitative-vs-quantitative-research" ]
 summary: >
      One-page guide for students.

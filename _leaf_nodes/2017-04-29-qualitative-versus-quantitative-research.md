@@ -4,7 +4,7 @@ title: "Qualitative versus Quantitative Research"
 title-url: "http://www.xavier.edu/library/students/documents/qualitative_quantitative.pdf"
 author: [ "Xavier University Library" ]
 groups: research-principles-and-methodologies
-categories: [ ]
+categories: [ "qualitative-research", "quantitative-research" ]
 topics: [ "qualitative-vs-quantitative-research" ]
 summary: >
      One-page guide to qualitative vs quantitative research.
