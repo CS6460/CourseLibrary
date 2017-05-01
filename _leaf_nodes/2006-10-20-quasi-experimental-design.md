@@ -4,7 +4,7 @@ title: "Quasi-Experimental Design"
 title-url: "http://www.socialresearchmethods.net/kb/quasiexp.php"
 author: "William Trochim"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: quasi-experimental-designs
 summary: >
     This page provides a brief description of types of quasi-experimental research design.

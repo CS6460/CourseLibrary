@@ -4,7 +4,7 @@ title: "Descriptive Study"
 title-url: ""
 author: "NEDARC"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: descriptive-designs
 summary: >
     This is a brief description of descriptive study design. It is part of a larger topic

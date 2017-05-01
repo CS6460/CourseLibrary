@@ -4,7 +4,7 @@ title: "Research Design and Methods"
 title-url: "https://us.sagepub.com/sites/default/files/upm-binaries/57848_Chapter_3_Morgan_Integrating_Qualitative_and_Quantitative_Methods_2.pdf"
 author: "David Morgan"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: research-designs
 summary: >
     Chapter 3 is about Research Design and Methods. It covers qualitative, quantitative, and

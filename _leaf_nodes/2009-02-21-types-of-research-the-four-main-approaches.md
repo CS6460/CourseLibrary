@@ -4,7 +4,7 @@ title: "Types of Research: The Four Main Approaches"
 title-url: "http://www.alzheimer-europe.org/Research/Understanding-dementia-research/Types-of-research/The-four-main-approaches"
 author: "Alzheimer Europe"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: research-designs
 summary: >
     This paper describes four main approaches to the three types of research.

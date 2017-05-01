@@ -4,7 +4,7 @@ title: "Types of Designs"
 title-url: "http://www.socialresearchmethods.net/kb/destypes.php"
 author: "William Trochim"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: research-designs
 summary: >
     This page provides a brief description of types of research designs.

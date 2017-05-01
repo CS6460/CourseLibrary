@@ -4,7 +4,7 @@ title: "Survey and Correlational Research Designs"
 title-url: "http://www.sagepub.com/sites/default/files/upm-binaries/57732_Chapter_8.pdf"
 author: Content Author
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: correlational-designs
 summary: >
     This is Chapter 8 of the cited book. The chapter starts off discussing general survey design
