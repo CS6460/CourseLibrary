@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Computer Science Education"
+title: "Underserved Communities and Educational Technology"
 group: broader-issues
 category: underserved-communities
 permalink: /broader-issues/underserved-communities
