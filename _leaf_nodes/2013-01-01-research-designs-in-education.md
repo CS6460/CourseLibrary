@@ -4,7 +4,7 @@ title: "Research Designs in Education"
 title-url: ""
 author: ["Louis Cohen","Lawrence Manion","Keith Morrison"]
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: research-designs
 summary: >
     Chapters 3, 6, 8, 9, 10, and 12 in this book are recommended reading to better understand

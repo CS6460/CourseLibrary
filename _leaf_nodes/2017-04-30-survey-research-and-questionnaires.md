@@ -4,7 +4,7 @@ title: "Survey Research and Questionnaires"
 title-url: "http://www.researchconnections.org/childcare/datamethods/survey.jsp"
 author: "n.a."
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: survey-designs
 summary: >
     This page lists multiple survey design topics and describes each one. The topics

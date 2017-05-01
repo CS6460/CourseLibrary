@@ -4,7 +4,7 @@ title: "The Use and Interpretation of Quasi-Experimental Studies in Medical Info
 title-url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1380192/"
 author: ["Anthony D. Harris", "Jessina C. McGregor", "Eli N. Perencevich", "Jon P. Furuno", "Jingkun Zhu", "Dan E. Peterson", "Joseph Finkelstein"]
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: quasi-experimental-designs
 summary: >
     This article describes how quasi-experimental designs can be applied to medical informatics.

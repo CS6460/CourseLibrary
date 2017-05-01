@@ -4,7 +4,7 @@ title: "Correlational Research Guidelines"
 title-url: "https://www.capilanou.ca/psychology/student-resources/research-guidelines/Correlational-Research-Guidelines/"
 author: "Janet Waters"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: correlational-designs
 summary: >
     This is a description of guidelines to use when conducting correlational research. The

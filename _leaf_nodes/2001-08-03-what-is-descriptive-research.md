@@ -4,7 +4,7 @@ title: "What is Descriptive Research?"
 title-url: "http://www.aect.org/edtech/ed1/41/41-01.html"
 author: "AECT"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: descriptive-designs
 summary: >
     A short summary to appear in the search results or content link list. > uses browser line breaks. | uses line formatting provided in the section, as below Location: is indented 1 TAB.

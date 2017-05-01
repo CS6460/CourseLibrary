@@ -4,7 +4,7 @@ title: "Good Practice in the Conduct and Reporting of Survey Research"
 title-url: "https://academic.oup.com/intqhc/article/15/3/261/1856193/Good-practice-in-the-conduct-and-reporting-of"
 author: ["Kate Kelley","Belinda Clark","Vivienne Brown","John Sitzia"]
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: survey-designs
 summary: >
     This paper provides insights into common mistakes made when accomplishing survey-based research.

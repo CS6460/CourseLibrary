@@ -4,7 +4,7 @@ title: "Research Designs"
 title-url: "https://explorable.com/research-designs"
 author: "Oskar Blakstad"
 groups: research-principles-and-methodologies
-categories: research-basics
+categories: research-designs
 topics: research-designs
 summary: >
     This heavily linked page is a guide and part of a course on accomplishing
