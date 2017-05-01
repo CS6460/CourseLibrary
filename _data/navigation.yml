@@ -24,6 +24,8 @@ side-nav:
     children:
       - title: "Research Basics"
         url: "/research-principles-and-methodologies/research-basics"
+      - title: "Research Designs"
+        url: "/research-principles-and-methodologies/research-designs"        
       - title: "Controlled Experiments"
         url: "/research-principles-and-methodologies/controlled-experiments"
       - title: "Survey Research"
