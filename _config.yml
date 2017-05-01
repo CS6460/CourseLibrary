@@ -17,9 +17,9 @@ title:  EdTech Course Library
 email: CS6460courselibrary@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Course Library for OMSCS CS6460 Education Technology at Georgia Tech
-baseurl: /edtech-test
+baseurl: /CourseLibrary
 #need to update logo path if repository is moved, cannot dynamically reference root from all site pages
-logo: <img src="https://lvollherbst.github.io/edtech-test/assets/images/GT_logo.png" style="width:60px;height:60px;"> 
+logo: <img src="https://CS6460.github.io/CourseLibrary/assets/images/GT_logo.png" style="width:60px;height:60px;"> 
 locale: "en"
 collections:
   category_nodes:
