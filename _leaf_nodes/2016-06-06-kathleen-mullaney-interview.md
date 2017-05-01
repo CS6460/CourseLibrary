@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=lQe18PkBJTA"
 youtube-id: lQe18PkBJTA
 author: "David Joyner"
 groups: broader-issues
-categories: gender
+categories: gender-technology-and-education
 topics: interviews
 summary: >
     David Joyner interviews Kathleen Mullaney, VP of Careers at Udacity, about Gender, Technology, and Education.
