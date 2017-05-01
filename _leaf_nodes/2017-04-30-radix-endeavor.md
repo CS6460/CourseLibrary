@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "The Radix Endeavor"
 title-url: "http://education.mit.edu/portfolio_page/radix/"
-author:"n.a."
+author: "n.a."
 groups: technologies
 categories: game-based-learning
 topics: ongoing-projects
