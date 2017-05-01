@@ -4,7 +4,7 @@ title: "Eric Klopfer"
 title-url: "http://education.mit.edu/about/our-team/eric-klopfer/"
 author: "Eric Klopfer"
 groups: technologies
-categories: simulation-based-learning
+categories: ["simulation-based-learning","game-based-learning"]
 topics: biographies
 summary: >
     Creative Director of the Education Arcade and a research director in the MIT Comparative Media Studies/Writing Program.
