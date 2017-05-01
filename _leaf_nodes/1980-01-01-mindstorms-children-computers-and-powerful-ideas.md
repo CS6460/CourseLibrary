@@ -4,7 +4,7 @@ title: "Mindstorms: Children, Computers, and Powerful Ideas 2nd Edition"
 title-url: "https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746"
 author: "Seymour Papert"
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     The link goes to the Amazon book page.  The book is about children learning by doing

@@ -4,7 +4,7 @@ title: "Relating Research to Practice"
 title-url: "http://www.relatingresearchtopractice.org/"
 author: "n.a."
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     The goal of this site is to provide education professionals access to research

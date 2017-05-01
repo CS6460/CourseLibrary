@@ -4,7 +4,7 @@ title: "MIT OCW: The Nature of Constructionist Learning"
 title-url: "https://ocw.mit.edu/courses/media-arts-and-sciences/mas-962-the-nature-of-constructionist-learning-spring-2003/"
 author: "Bakhtiar Mikhak"
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: online-courses-and-textbooks
 summary: >
     From the course description: ""This course examines the philosophical and theoretical

@@ -4,7 +4,7 @@ title: "Turtles, Termites, and Traffic Jams: Explorations in Massively Parallel 
 title-url: "https://books.google.com/books?id=K8P1rX8T4kYC&dq=constructionism&source=gbs_book_similarbooks"
 author: "Mitchel Resnick"
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     The link goes to the Google Books page; there is no eBook available .  The book discusses

@@ -4,7 +4,7 @@ title: "Tinkering Fundamentals: A Constructionist Approach to STEM Learning"
 title-url: "https://www.coursera.org/learn/tinkering"
 author: "Exploratorium"
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: online-courses-and-textbooks
 summary: >
     From the course description: ""This course examines the philosophical and theoretical

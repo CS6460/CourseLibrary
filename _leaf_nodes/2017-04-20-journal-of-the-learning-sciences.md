@@ -4,7 +4,7 @@ title: "Journal of the Learning Sciences"
 title-url: "http://www.tandfonline.com/toc/hlns20/current"
 author: "n.a."
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     This journal is the official journal of The International Society of the Learning

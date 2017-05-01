@@ -4,7 +4,7 @@ title: "Constructionism: Research Reports and Essays, 1985-1990"
 title-url: "https://books.google.com/books?id=2jMNAQAAMAAJ&dq=constructionism&source=gbs_similarbooks"
 author: ["Idit Harel", "Seymour Papert"]
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     The link goes to the Google Books page; there is no eBook available.

@@ -4,7 +4,7 @@ title: "Toward Constructiveism for Adult Learners in Online Learning Environment
 title-url: "https://brainmass.com/file/1433703/Article.pdf"
 author: "Hsiu-Mei Huang"
 groups: [technologies,pedagogical-styles]
-categories: [online-learning,constructivism]
+categories: [online-learning,constructionism]
 topics: scholarly-readings
 summary: >
     "Abstract.  Since online learning has a different setting from the conventional classroom,

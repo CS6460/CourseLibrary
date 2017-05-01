@@ -4,7 +4,7 @@ title: "The Association for Constructivist Teaching"
 title-url: "https://sites.google.com/site/assocforconstructteaching/"
 author: Content Author
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     This is the landing page for the Association for Constructivist Teaching.  The Association

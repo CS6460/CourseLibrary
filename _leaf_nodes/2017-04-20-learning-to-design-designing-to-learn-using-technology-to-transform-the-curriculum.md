@@ -4,7 +4,7 @@ title: "Learning to Design, Designing to Learn: Using Technology to Transform th
 title-url: "https://books.google.com/books?id=JWQP1BJrNuoC&dq=constructionism&source=gbs_similarbooks"
 author: ["Diane Pelkus Balestri", "Stephen C. Ehrmann", "David L. Ferguson"]
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     The link goes to the Google Books page; there is no eBook available.

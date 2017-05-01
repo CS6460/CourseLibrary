@@ -4,7 +4,7 @@ title: "Constructionist Learning: A 5th Anniversary Collection of Papers Reflect
 title-url: "https://books.google.com/books?id=8BeeAAAAMAAJ&dq=constructionism&source=gbs_similarbooks"
 author: "Idit Harel"
 groups: pedagogical-styles
-categories: constructivism
+categories: constructionism
 topics: conferences-journals-and-books
 summary: >
     The link goes to the Google Books page; there is no eBook available.

@@ -4,7 +4,7 @@ title: "Globaloria"
 title-url: "http://globaloria.com/"
 author: "n.a."
 groups: pedagogical-styles
-categories: constructivism,mooc
+categories: constructionism,mooc
 topics: online-courses-and-textbooks
 summary: >
     From their About Us page, the Globaria Mission is: ""To Provide Computer Science Education For ALL;
