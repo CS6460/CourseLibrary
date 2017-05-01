@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Digital Games in the Humanities"
 title-url: "http://education.mit.edu/portfolio_page/digital-games-in-the-humanities/"
-author:"n.a."
+author: "n.a."
 groups: technologies
 categories: game-based-learning
 topics: ongoing-projects
