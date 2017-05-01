@@ -7,9 +7,7 @@ groups:technologies
 categories: game-based-learning
 topics: biographies
 summary: >
-    The Games Based Learning Society produces games that promote "promote engaged 
-    learning about biological systems, civic activism, self-regulating attention, 
-    empathy, programming, literacy, and many other domains."
+    The Games Based Learning Society produces games that promote "promote engaged learning about biological systems, civic activism, self-regulating attention, empathy, programming, literacy, and many other domains."
 cite: >
     Games for Learning Society. (n.d.) 
     Retrieved from http://www.gameslearningsociety.org/about.php
