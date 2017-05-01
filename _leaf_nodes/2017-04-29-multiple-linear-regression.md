@@ -4,7 +4,7 @@ title: "Multiple Linear Regression"
 title-url: "https://onlinecourses.science.psu.edu/stat501/node/283"
 author: [ "Penn State University" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "advanced-stats-multiple-linear-regression" ]
 summary: >
      In this lesson, we make our first (and last?!) major jump in the course. We move from the simple linear regression model with one predictor to the multiple linear regression model with two or more predictors.

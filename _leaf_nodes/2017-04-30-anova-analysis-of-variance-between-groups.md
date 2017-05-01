@@ -4,7 +4,7 @@ title: "ANOVA: ANalysis Of VAriance between groups"
 title-url: "http://www.physics.csbsju.edu/stats/anova.html"
 author: [ "St. John's University" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-anova" ]
 summary: >
      

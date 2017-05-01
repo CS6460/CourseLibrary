@@ -4,7 +4,7 @@ title: "t-test Calculator"
 title-url: "http://graphpad.com/quickcalcs/ttest1.cfm"
 author: [ "GraphPad Software" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-calculators" ]
 summary: >
      

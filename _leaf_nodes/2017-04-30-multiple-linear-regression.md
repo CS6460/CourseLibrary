@@ -4,7 +4,7 @@ title: "Multiple Linear Regression"
 title-url: "https://onlinecourses.science.psu.edu/stat501/node/283"
 author: [ "Penn State University" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "advanced-stats-multiple-linear-regression" ]
 summary: >
      This lesson considers some of the more important multiple regression formulas in matrix form.

@@ -4,7 +4,7 @@ title: "Introduction to Analysis of Variance"
 title-url: "http://onlinestatbook.com/2/analysis_of_variance/intro.html"
 author: [ "David M. Lane" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-anova" ]
 summary: >
      Learning Objectives

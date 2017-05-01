@@ -4,7 +4,7 @@ title: "Data Driven Fitting"
 title-url: "http://blogs.mathworks.com/loren/2011/01/13/data-driven-fitting/"
 author: [ "Loren Shure" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "advanced-stats-non-linear-regression" ]
 summary: >
      Before choosing nonlinear regression, make sure you don't really need another kind of regression. Also read about how nonlinear regression differs from linear regression.

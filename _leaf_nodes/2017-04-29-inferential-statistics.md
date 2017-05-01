@@ -4,7 +4,7 @@ title: "Inferential Statistics"
 title-url: "https://www.coursera.org/learn/inferential-statistics"
 author: [ "Annemarie Zand Scholten", "Emiel van Loon", "Coursera" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "online-statistics-courses-beginner" ]
 summary: >
      Inferential statistics are concerned with making inferences based on relations found in the sample, to relations in the population. Inferential statistics help us decide, for example, whether the differences between groups that we see in our data are strong enough to provide support for our hypothesis that group differences exist in general, in the entire population.

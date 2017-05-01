@@ -4,7 +4,7 @@ title: "Bias in Qualitative Research: Voices from an Online Classroom"
 title-url: "http://nsuworks.nova.edu/tqr/vol7/iss1/2/"
 author: [ "Beloo Mehra" ]
 groups: research-principles-and-methodologies
-categories: [ ]
+categories: [ "qualitative-research" ]
 topics: [ "controlling-for-biases" ]
 summary: >  
      Abstract

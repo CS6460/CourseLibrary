@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=ZwtxHXh-ZXU"
 youtube-id: ZwtxHXh-ZXU
 author: [ "Knowledge Varsity" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "advanced-stats-multiple-linear-regression" ]
 summary: >
      

@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?t=128&v=IO8RQ-V3Xmw"
 youtube-id: IO8RQ-V3Xmw
 author: [ "Joseph Snider" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-linear-regression" ]
 summary: >
      YouTube video tutorial

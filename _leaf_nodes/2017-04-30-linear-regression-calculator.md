@@ -4,7 +4,7 @@ title: "Linear Regression Calculator"
 title-url: "http://www.graphpad.com/quickcalcs/linear1/"
 author: [ "GraphPad" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-linear-regression" ]
 summary: >
      

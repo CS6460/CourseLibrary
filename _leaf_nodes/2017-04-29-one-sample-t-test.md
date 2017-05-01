@@ -4,7 +4,7 @@ title: "One-Sample t-Test"
 title-url: "http://www.psychology.emory.edu/clinical/bliwise/Tutorials/TOM/meanstests/tone.htm"
 author: [ "Emory University" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-one-sample" ]
 summary: >
      The one-sample t-test is used when we want to know whether our sample comes from a particular population but we do not have full population information available to us.

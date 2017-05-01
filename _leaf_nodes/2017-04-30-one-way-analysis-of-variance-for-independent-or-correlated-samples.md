@@ -4,7 +4,7 @@ title: "One-Way Analysis of Variance for Independent or Correlated Samples"
 title-url: "http://vassarstats.net/anova1u.html?"
 author: [ "Vassar Stats" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-anova" ]
 summary: >
      Online ANOVA calculator

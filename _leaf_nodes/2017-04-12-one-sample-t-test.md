@@ -4,7 +4,7 @@ title: "One Sample t Test"
 title-url: "http://libguides.library.kent.edu/SPSS/OneSampletTest"
 author: [ "Kent State" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-one-sample" ]
 summary: >
      The One Sample t Test determines whether the sample mean is statistically different from a known or hypothesized population mean.

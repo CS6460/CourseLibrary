@@ -4,7 +4,7 @@ title: "Getting started with nonlinear regression"
 title-url: "http://www.graphpad.com/guides/prism/6/curve-fitting/index.htm?stat_other_kinds_of_regression.htm"
 author: [ "GraphPad Software" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "advanced-stats-non-linear-regression" ]
 summary: >
      Distinguishing nonlinear regression from other kinds of regression.

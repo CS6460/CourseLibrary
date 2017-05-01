@@ -4,7 +4,7 @@ title: "Introduction to R Programming"
 title-url: "https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-4"
 author: [ "edX" ]
 groups: research-principles-and-methodologies
-categories: [ ]
+categories: [ "research-statistics" ]
 topics: [ "online-statistics-courses-advanced" ]
 summary: >
      Learn the R statistical programming language, the lingua franca of data science in this hands-on course.

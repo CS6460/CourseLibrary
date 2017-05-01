@@ -4,7 +4,7 @@ title: "Inferences from Matched Pairs,"
 title-url: "http://math.iit.edu/~mccomic/525/notes/MatchedPairsNotes.pdf"
 author: [ "Marlo F. Triola" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-matched-pairs" ]
 summary: >
      From Chapter 8 of Elementary Statistics

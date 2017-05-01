@@ -4,7 +4,7 @@ title: "Intro to Inferential Statistics"
 title-url: "https://www.udacity.com/course/intro-to-inferential-statistics--ud201"
 author: [ "Udacity" ]
 groups: research-principles-and-methodologies
-categories: [ ]
+categories: [ "research-statistics" ]
 topics: [ "online-statistics-courses-beginner" ]
 summary: >
      Inferential statistics allows us to draw conclusions from data that might not be immediately obvious. This course focuses on enhancing your ability to develop hypotheses and use common tests such as t-tests, ANOVA tests, and regression to validate your claims.

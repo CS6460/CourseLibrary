@@ -4,7 +4,7 @@ title: "Introduction to Linear Regression"
 title-url: "http://onlinestatbook.com/2/regression/intro.html"
 author: [ "David M. Lane" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-linear-regression" ]
 summary: >
      Learning Objectives

@@ -4,7 +4,7 @@ title: "One sample t test"
 title-url: "http://www.graphpad.com/quickcalcs/OneSampleT1.cfm?Format=SD"
 author: [ "GraphPad Software" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-calculators" ]
 summary: >
      

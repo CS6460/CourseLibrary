@@ -4,7 +4,7 @@ title: "T-Test (Independent Samples)"
 title-url: "http://docs.statwing.com/examples-and-definitions/t-test/"
 author: [ "Statwing" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-independent-samples" ]
 summary: >
      A t-test helps you compare whether two groups have different average values (for example, whether men and women have different average heights).

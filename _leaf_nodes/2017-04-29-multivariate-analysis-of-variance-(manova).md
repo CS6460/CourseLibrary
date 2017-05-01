@@ -4,7 +4,7 @@ title: "Multivariate Analysis of Variance (MANOVA)"
 title-url: "https://onlinecourses.science.psu.edu/stat505/node/159"
 author: [ "Penn State University" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "manova" ]
 summary: >
      The Multivariate Analysis of Variance (MANOVA) is the multivariate analog of the Analysis of Variance (ANOVA) procedure used for univariate data. We will introduce the Multivariate Analysis of Variance with the Romano-British Pottery data example.

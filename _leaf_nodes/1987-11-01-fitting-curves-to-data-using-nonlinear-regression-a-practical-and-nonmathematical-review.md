@@ -4,7 +4,7 @@ title: "Fitting curves to data using nonlinear regression: a practical and nonma
 title-url: "http://www.fasebj.org/content/1/5/365.full.pdf"
 author: [ "Harvey Motulsky", "Lennary Ransnas" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "advanced-stats-non-linear-regression" ]
 summary: >
      Many types of data are best analyzed by fitting a curve using nonlinear regression, and computer programs that perform these calculations are readily available. Like every scientific technique, however, a nonlinear regression program can produce misleading results when used inappropriately. This article reviews the use of nonlinear regression in a practical and nonmathematical manner to answer the following questions: Why is nonlinear regression superior to linear regression of transformed data? How does nonlinear regression differ from polynomial regression and cubic spline? How do nonlinear regression programs work? What choices must an investigator make before performing nonlinear regression? What do the final results mean? How can two sets of data or two fits to one set of data be compared? What problems can cause the results to be wrong? This review is designed to demystify nonlinear regression so that both its power and its limitations will be appreciated.

@@ -4,7 +4,7 @@ title: "Paired t-test"
 title-url: "http://sites.nicholas.duke.edu/statsreview/means/paired/"
 author: [ "Duke University" ]
 groups: research-principles-and-methodologies
-categories: [ "quantitative-research" ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-matched-pairs" ]
 summary: >
      This tutorial will walk you through the use of the paired t-test.  

@@ -4,7 +4,7 @@ title: "T-Test Calculator for 2 Dependent Means"
 title-url: "http://www.socscistatistics.com/tests/ttestdependent/Default2.aspx"
 author: [ "Social Science Statistics" ]
 groups: research-principles-and-methodologies
-categories: [ quantitative-research ]
+categories: [ "research-statistics" ]
 topics: [ "basic-stats-t-tests-calculators" ]
 summary: >
      From SocialScienceStatistics.com
