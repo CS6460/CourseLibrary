@@ -5,7 +5,7 @@ title-url: "https://www.youtube.com/watch?v=XkMi2nc6OB4"
 youtube-id: XkMi2nc6OB4
 author: "David Joyner"
 groups: broader-issues
-categories: gender
+categories: mobile-devices
 topics: interviews
 summary: >
     David Joyner interviews Jessica Uelman, Program Manager at Udacity, about Mobile Devices.
