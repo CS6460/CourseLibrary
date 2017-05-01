@@ -1,6 +1,6 @@
 ---
 layout: leaf-node
-title: "Exploring Computer Science
+title: "Exploring Computer Science"
 title-url: "http://www.exploringcs.org/"
 author: "n.a"
 groups: broader-issues
