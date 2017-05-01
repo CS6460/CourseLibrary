@@ -4,7 +4,7 @@ title: "Scot Osterweil"
 title-url: "http://education.mit.edu/about/our-team/scot-osterweil/"
 author: "Scot Osterweil"
 groups: technologies
-categories: simulation-based-learning
+categories: ["simulation-based-learning","game-based-learning"]
 topics: biographies
 summary: >
 
