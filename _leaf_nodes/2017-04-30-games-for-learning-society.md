@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Games for Learning Society"
 title-url: "http://www.gameslearningsociety.org/"
-author:"n.a."
+author: "n.a."
 groups:technologies
 categories: game-based-learning
 topics: biographies
