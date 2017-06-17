@@ -2,7 +2,7 @@
 layout: leaf-node
 title: "Virtual Reality Training Improves Operating Room Performance"
 title-url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1422600/?utm_campaign=elearningindustry.com&utm_source=%2Fsurgical-simulation-training-virtual-reality-future-surgical-training&utm_medium=link"
-author: ["undefined"]
+author: ["Neal E. Seymour, MD,* Anthony G. Gallagher, PhD,† Sanziana A. Roman, MD,* Michael K. O’Brien, MD,* Vipin K. Bansal, MD,* Dana K. Andersen, MD,* and Richard M. Satava, MD*"]
 groups: ["technologies"]
 categories: ["simulation-based-learning"]
 topics: ["scholarly-readings"]
